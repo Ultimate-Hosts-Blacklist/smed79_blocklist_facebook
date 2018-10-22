@@ -441,6 +441,7 @@
             "static.ak.facebook.com",
             "static.ak.fbcdn.net",
             "static.fbcdn.com"
-        ]
+        ],
+        "to_test": []
     }
 }
