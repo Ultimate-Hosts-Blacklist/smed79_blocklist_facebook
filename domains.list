@@ -164,6 +164,8 @@ connect.facebook.net.edgekey.net
 connnect.facebook.net
 consumo.messenger.com
 cpan.mirror.facebook.net
+creative.ak.facebook.com
+creative.ak.fbcdn.net
 cs-cz.facebook.com
 cs-cz.messenger.com
 csw10a.prn2.tfbnw.net
@@ -443,6 +445,7 @@ edge-sonar-shv-12-prn1.fbcdn.net
 edge-sonar-shv-13-frc1.fbcdn.net
 edge-sonar-shv-17-prn1.fbcdn.net
 edge-sonar-shv-18-prn1.fbcdn.net
+edge-star-shv-01-arn2.facebook.com
 edge-star-shv-12-frc3.facebook.com
 edge-video-shv-01-ams2.fbcdn.net
 edge-video-shv-01-ams3.fbcdn.net
@@ -483,6 +486,7 @@ emily.m.me
 en-gb.facebook.com
 en-gb.messenger.com
 en.fb.me
+error.facebook.com
 es-es.facebook.com
 es-es.messenger.com
 es-la.facebook.com
@@ -522,10 +526,12 @@ fb.com
 fb.m.beta.messenger.com
 fb.me
 fb4708f8e80kdno4pyq-bigworkf1521512717-sonar.xz.fbcdn.net
+fbcdn-creative-a.akamaihd.net
 fbcdn-profile-a.akamaihd.net
 fbcdn-sphotos-a-a.akamaihd.net
 fbcdn-sphotos-d-a.akamaihd.net
 fbcdn-sphotos-h-a.akamaihd.net
+fbcdn-sphotos.fbcdn.mzf.cz
 fbcdn.com
 fbcdn.net
 fbjs.facebook.com
@@ -761,6 +767,7 @@ maximum.co.m.me
 mbasic.facebook.com
 me.fb.me
 messenger.com
+mfbcdn.net
 mia1.fbcdn.net
 mirror-ext.facebook.net
 mirror-ext.t.tfbnw.net
@@ -1125,7 +1132,12 @@ static.facebook.com
 static.fbcdn.com
 static.fdel11-1.fna.fbcdn.net
 static.fsea1-1.fna.fbcdn.net
+static.mfbcdn.net
 static.xx.fbcdn.net
+static1.mfbcdn.net
+static2.mfbcdn.net
+static3.mfbcdn.net
+static4.mfbcdn.net
 staticxx.facebook.com
 stun.fbsbx.com
 sv-se.ar-ar.fb.me
@@ -1141,6 +1153,7 @@ th-th.facebook.com
 tl-ph.ar-ar.fb.me
 tl-ph.vi-vn.fb.me
 tm-sbx.fbsbx.com
+tomcat.mfbcdn.net
 touch.facebook.com
 tr-tr.ar-ar.fb.me
 tr-tr.facebook.com
@@ -1152,6 +1165,7 @@ uky.facebook.com
 un.fb.me
 upload.facebook.com
 upload.messenger.com
+upload.mfbcdn.net
 vi-vn.facebook.com
 vi-vn.fb.me
 vi-vn.messenger.com
@@ -1219,6 +1233,7 @@ www.login.facebook.com
 www.m.me
 www.m.messenger.com
 www.messenger.com
+www.mfbcdn.net
 www.mirror.facebook.net
 www.mns.messenger.com
 www.msn.messenger.com
