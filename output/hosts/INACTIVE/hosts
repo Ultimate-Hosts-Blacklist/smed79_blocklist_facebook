@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Mon 22 Oct 20:10:24 UTC 2018 
+# Date of generation: Thu 25 Oct 18:10:40 UTC 2018 
 
 0.0.0.0 a3.sphotos.ak.fbcdn.net
 0.0.0.0 ae0.pr02.ord1.tfbnw.net
@@ -62,6 +62,8 @@
 0.0.0.0 channel-proxy-test-shv-07-ash2.facebook.com
 0.0.0.0 connect.facebook.net.edgekey.net
 0.0.0.0 connnect.facebook.net
+0.0.0.0 creative.ak.facebook.com
+0.0.0.0 creative.ak.fbcdn.net
 0.0.0.0 csw10a.prn2.tfbnw.net
 0.0.0.0 developers.facebooklive.com
 0.0.0.0 dev.vvv.facebook.com
@@ -302,6 +304,8 @@
 0.0.0.0 edge-video-shv-01-ams2.fbcdn.net
 0.0.0.0 edge-video-shv-02-dft4.fbcdn.net
 0.0.0.0 external.fsjc1-2.fna.fbcdn.net
+0.0.0.0 fbcdn-creative-a.akamaihd.net
+0.0.0.0 fbcdn-sphotos.fbcdn.mzf.cz
 0.0.0.0 fbstatic-a.akamaihd.net
 0.0.0.0 fmel2-1.fbcdn.net
 0.0.0.0 fna.fbcdn.net
@@ -316,6 +320,7 @@
 0.0.0.0 instagram-p3-shv-01-mia1.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-ord1.fbcdn.net
 0.0.0.0 instagram-p3--shv-01-sit4.fbcdn.net
+0.0.0.0 instagram-p3-shv-01-sit4.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-sjc2.fbcdn.net
 0.0.0.0 instagram-p3-shv-02-dft4.fbcdn.net
 0.0.0.0 instagram-p3-shv-02-fru2.fbcdn.net
@@ -441,56 +446,4 @@
 0.0.0.0 static.ak.facebook.com
 0.0.0.0 static.ak.fbcdn.net
 0.0.0.0 static.fbcdn.com
-0.0.0.0 static.fbcdn.com
 0.0.0.0 talks.facebooklive.com
-0.0.0.0 video.fphx1-1.fbcdn.net
-0.0.0.0 video.fsnc1-1.fna.fbcdn.net
-0.0.0.0 www.connect.facebook.net
-0.0.0.0 www.graph.facebook.com
-0.0.0.0 www.login.facebook.com
-0.0.0.0 www.s-static.ak.facebook.com
-0.0.0.0 www.static.ak.connect.facebook.com
-0.0.0.0 www.static.ak.fbcdn.net
-0.0.0.0 xe-3-1-0.pr02.sin1.tfbnw.net
-0.0.0.0 xx-fbcdn-ecmp-02-atl1.fbcdn.net
-0.0.0.0 xx-fbcdn-ecmp-02-ord1.fbcdn.net
-0.0.0.0 xx-fbcdn-ecmp-04-sjc1.fbcdn.net
-0.0.0.0 xx-fbcdn-ecmp-05-iad1.fbcdn.net
-0.0.0.0 xx-fbcdn-shv-01-ams2.fbcdn.net
-0.0.0.0 xx-fbcdn-shv-01-ash5.fbcdn.net
-0.0.0.0 xx-fbcdn-shv-01-atl1.fbcdn.net
-0.0.0.0 xx-fbcdn-shv-01-dft4.fbcdn.net
-0.0.0.0 xx-fbcdn-shv-01-dfw1.fbcdn.net
-0.0.0.0 xx-fbcdn-shv-01-fra3.fbcdn.net
-0.0.0.0 xx-fbcdn-shv-01-gru1.fbcdn.net
-0.0.0.0 xx-fbcdn-shv-01-hkg1.fbcdn.net
-0.0.0.0 xx-fbcdn-shv-01-hkg2.fbcdn.net
-0.0.0.0 xx-fbcdn-shv-01-kul1.fbcdn.net
-0.0.0.0 xx-fbcdn-shv-01-lax1.fbcdn.net
-0.0.0.0 xx-fbcdn-shv-01-lga1.fbcdn.net
-0.0.0.0 xx-fbcdn-shv-01-mia1.fbcdn.net
-0.0.0.0 xx-fbcdn-shv-01-ord1.fbcdn.net
-0.0.0.0 xx-fbcdn-shv-01-sin1.fbcdn.net
-0.0.0.0 xx-fbcdn-shv-01-sit4.fbcdn.net
-0.0.0.0 xx-fbcdn-shv-01-sjc2.fbcdn.net
-0.0.0.0 xx-fbcdn-shv-02-ams2.fbcdn.net
-0.0.0.0 xx-fbcdn-shv-02-cai1.fbcdn.net
-0.0.0.0 xx-fbcdn-shv-02-dft4.fbcdn.net
-0.0.0.0 xx-fbcdn-shv-02-hkg1.fbcdn.net
-0.0.0.0 xx-fbcdn-shv-02-ord1.fbcdn.net
-0.0.0.0 xx-fbcdn-shv-03-ash5.fbcdn.net
-0.0.0.0 xx-fbcdn-shv-03-atn1.fbcdn.net
-0.0.0.0 xx-fbcdn-shv-03-lax1.fbcdn.net
-0.0.0.0 xx-fbcdn-shv-03-sin1.fbcdn.net
-0.0.0.0 xx-fbcdn-shv-04-hkg1.fbcdn.net
-0.0.0.0 xx-fbcdn-shv-04-lax1.fbcdn.net
-0.0.0.0 xx-fbcdn-shv-04-prn2.fbcdn.net
-0.0.0.0 xx-fbcdn-shv-04-sjc1.fbcdn.net
-0.0.0.0 xx-fbcdn-shv-05-dfw1.fbcdn.net
-0.0.0.0 xx-fbcdn-shv-05-iad1.fbcdn.net
-0.0.0.0 xx-fbcdn-shv-05-mia1.fbcdn.net
-0.0.0.0 xx-fbcdn-shv-06-dfw1.fbcdn.net
-0.0.0.0 xx-fbcdn-shv-06-lga1.fbcdn.net
-0.0.0.0 xx-fbcdn-shv-11-lhr3.fbcdn.net
-0.0.0.0 z-m-fbcdn-mini-shv-01-ord1.fbcdn.net
-0.0.0.0 z-m-fbcdn-shv-01-frt3.fbcdn.net

@@ -1,8 +1,8 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/smed79_blocklist_facebook/domains.list": {
-        "down": 0,
+        "down": 446,
         "invalid": 0,
-        "tested": 0,
-        "up": 0
+        "tested": 1170,
+        "up": 724
     }
 }
