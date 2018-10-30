@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Mon 29 Oct 18:10:09 UTC 2018 
+# Date of generation: Tue 30 Oct 18:10:41 UTC 2018 
 
 0.0.0.0 0-edge-chat.facebook.com
 0.0.0.0 0-edge-chat.messenger.com
@@ -454,7 +454,6 @@
 0.0.0.0 pl-pl.messenger.com
 0.0.0.0 pl-pl.vi-vn.fb.me
 0.0.0.0 pn.fb.me
-0.0.0.0 po103.psw01.lga3.tfbnw.net
 0.0.0.0 po104.psw04.yyz1.tfbnw.net
 0.0.0.0 po106.psw04.mia3.tfbnw.net
 0.0.0.0 po122.asw01.hkg3.tfbnw.net
@@ -672,8 +671,8 @@
 0.0.0.0 sphotos-b-mad.xx.fbcdn.net
 0.0.0.0 sphotos-b-mia.xx.fbcdn.net
 0.0.0.0 sphotos-b-mxp.xx.fbcdn.net
-0.0.0.0 sphotos-b-ord.xx.fbcdn.net
 0.0.0.0 sphotosbord.xx.fbcdn.net
+0.0.0.0 sphotos-b-ord.xx.fbcdn.net
 0.0.0.0 sphotos-b-pao.xx.fbcdn.net
 0.0.0.0 sphotos-b-sea.xx.fbcdn.net
 0.0.0.0 sphotos-b-sjc.xx.fbcdn.net
