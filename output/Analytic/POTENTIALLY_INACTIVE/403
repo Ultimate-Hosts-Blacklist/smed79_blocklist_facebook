@@ -1,8 +1,12 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Wed 07 Nov 18:11:44 UTC 2018 
+# Date of generation: Thu 08 Nov 19:11:57 UTC 2018 
 
+apache.mirror.facebook.net
+com.mirror.facebook.net
 instagramstatic-a.akamaihd.net
 mfbcdn.net
+mirror.facebook.net
+mysql.mirror.facebook.net
 pdlvimeocdn-a.akamaihd.net
 static1.mfbcdn.net
 static2.mfbcdn.net
@@ -10,3 +14,4 @@ static3.mfbcdn.net
 static4.mfbcdn.net
 static.mfbcdn.net
 www.mfbcdn.net
+www.php.mirror.facebook.net

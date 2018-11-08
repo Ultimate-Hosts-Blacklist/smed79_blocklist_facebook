@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Wed 07 Nov 18:11:44 UTC 2018 
+# Date of generation: Thu 08 Nov 19:11:57 UTC 2018 
 
 0-edge-chat.facebook.com
 0-edge-chat.messenger.com
@@ -16,11 +16,13 @@
 6-edge-chat.facebook.com
 6-edge-chat.messenger.com
 an.facebook.com
+apache.mirror.facebook.net
 api.fbcdn.com
 atlas.c10r.facebook.com
 b.beta.facebook.net
 beta.facebook.net
 b-graph.facebook.com
+com.mirror.facebook.net
 ct-m-fbx.fbsbx.com
 developer.facebook.net
 edge-atlas-shv-01-ams3.facebook.com
@@ -104,6 +106,8 @@ lookaside.fbcdn.com
 lookaside.fbsbx.com
 mabasic.beta.facebook.net
 mfbcdn.net
+mirror.facebook.net
+mysql.mirror.facebook.net
 ncontent.xx.fbcdn.net
 pdlvimeocdn-a.akamaihd.net
 photos-a-ord.xx.fbcdn.net
@@ -180,6 +184,7 @@ webdav.facebook.com
 www.beta.facebook.net
 www.fbcdn.com
 www.mfbcdn.net
+www.php.mirror.facebook.net
 xx-fbcdn-shv-01-ams3.fbcdn.net
 xx-fbcdn-shv-01-amt2.fbcdn.net
 xx-fbcdn-shv-01-arn2.fbcdn.net
