@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Thu 08 Nov 19:11:57 UTC 2018 
+# Date of generation: Sun 11 Nov 18:11:17 UTC 2018 
 
 0.0.0.0 0-edge-chat.facebook.com
 0.0.0.0 0-edge-chat.messenger.com
@@ -427,8 +427,8 @@
 0.0.0.0 oh.fb.me
 0.0.0.0 ol.fb.me
 0.0.0.0 om.fb.me
-0.0.0.0 o.n.fb.me
 0.0.0.0 on.fb.me
+0.0.0.0 o.n.fb.me
 0.0.0.0 oob1-vpn-sjc.tfbnw.net
 0.0.0.0 oob2-vpn-iad.tfbnw.net
 0.0.0.0 oob2-vpn-sjc.tfbnw.net
@@ -567,7 +567,6 @@
 0.0.0.0 scontent.flpb1-1.fna.fbcdn.net
 0.0.0.0 scontent.flwo1-1.fna.fbcdn.net
 0.0.0.0 scontent.fmaa1-1.fna.fbcdn.net
-0.0.0.0 scontent.fmad3-2.fna.fbcdn.net
 0.0.0.0 scontent.fmba1-1.fna.fbcdn.net
 0.0.0.0 scontent.fmdc1-1.fna.fbcdn.net
 0.0.0.0 scontent.fmea1-1.fna.fbcdn.net
@@ -672,8 +671,8 @@
 0.0.0.0 sphotos-b-mad.xx.fbcdn.net
 0.0.0.0 sphotos-b-mia.xx.fbcdn.net
 0.0.0.0 sphotos-b-mxp.xx.fbcdn.net
-0.0.0.0 sphotosbord.xx.fbcdn.net
 0.0.0.0 sphotos-b-ord.xx.fbcdn.net
+0.0.0.0 sphotosbord.xx.fbcdn.net
 0.0.0.0 sphotos-b-pao.xx.fbcdn.net
 0.0.0.0 sphotos-b-sea.xx.fbcdn.net
 0.0.0.0 sphotos-b-sjc.xx.fbcdn.net
