@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/smed79_blocklist_facebook/domains.list": {
-        "1544469286": [
+        "1544641569": [
             "a3.sphotos.ak.fbcdn.net",
             "ae0.pr02.ord1.tfbnw.net",
             "ae10.bb01.lhr2.tfbnw.net",
@@ -320,8 +320,8 @@
             "instagram-p3-shv-01-fra3.fbcdn.net",
             "instagram-p3-shv-01-mia1.fbcdn.net",
             "instagram-p3-shv-01-ord1.fbcdn.net",
-            "instagram-p3--shv-01-sit4.fbcdn.net",
             "instagram-p3-shv-01-sit4.fbcdn.net",
+            "instagram-p3--shv-01-sit4.fbcdn.net",
             "instagram-p3-shv-01-sjc2.fbcdn.net",
             "instagram-p3-shv-02-dft4.fbcdn.net",
             "instagram-p3-shv-02-fru2.fbcdn.net",
@@ -386,6 +386,7 @@
             "msw1an.01.dfw1.tfbnw.net",
             "mx.snc1.tfbnw.net",
             "origincache-kb6-shv-10-frc1.fbcdn.net",
+            "origincache-shv-04-ash5.fbcdn.net",
             "origincache-tf.t.fbcdn.net",
             "origincache-tl.t.fbcdn.net",
             "origincache-xfa.fbcdn.net",
