@@ -1,11 +1,9 @@
 {
     "arguments": [],
-    "clean_list_file": "clean.list",
     "clean_original": "1",
     "currently_under_test": "0",
     "days_until_next_test": "1",
-    "last_test": "1547235856",
-    "list_name": "domains.list",
+    "last_test": "1547243997",
     "name": "smed79_blocklist_facebook",
     "raw_link": "",
     "stable": "1"
