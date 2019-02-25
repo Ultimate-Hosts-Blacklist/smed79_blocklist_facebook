@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/smed79_blocklist_facebook/domains.list": {
-        "1550951529": [
+        "1551125288": [
             "a3.sphotos.ak.fbcdn.net",
             "ae0.pr02.ord1.tfbnw.net",
             "ae10.bb01.lhr2.tfbnw.net",
@@ -314,6 +314,7 @@
             "edge-video-shv-01-ams2.fbcdn.net",
             "edge-video-shv-02-dft4.fbcdn.net",
             "external.fsjc1-2.fna.fbcdn.net",
+            "fa03.frc1.tfbnw.net",
             "fbcdn-creative-a.akamaihd.net",
             "fbcdn-sphotos.fbcdn.mzf.cz",
             "fbstatic-a.akamaihd.net",
