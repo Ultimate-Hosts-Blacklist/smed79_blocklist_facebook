@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/smed79_blocklist_facebook/domains.list": {
-        "1551125288": [
+        "1551384457": [
             "a3.sphotos.ak.fbcdn.net",
             "ae0.pr02.ord1.tfbnw.net",
             "ae10.bb01.lhr2.tfbnw.net",
@@ -316,7 +316,10 @@
             "external.fsjc1-2.fna.fbcdn.net",
             "fa03.frc1.tfbnw.net",
             "fbcdn-creative-a.akamaihd.net",
+            "fbcdn-sphotos-a-a.akamaihd.net",
+            "fbcdn-sphotos-d-a.akamaihd.net",
             "fbcdn-sphotos.fbcdn.mzf.cz",
+            "fbcdn-sphotos-h-a.akamaihd.net",
             "fbstatic-a.akamaihd.net",
             "fmel2-1.fbcdn.net",
             "fna.fbcdn.net",
@@ -432,6 +435,7 @@
             "po15.psw01a.cdg2.tfbnw.net",
             "po231.psw04.sit4.tfbnw.net",
             "pr01.sin1.tfbnw.net",
+            "profile.ak.facebook.com.edgesuite.net",
             "profile.ak.fbcdn.net",
             "psw01a.dfw1.tfbnw.net",
             "psw01b.sin1.tfbnw.net",
@@ -459,6 +463,7 @@
             "s-static.ak.facebook.com.edgekey.net",
             "static.ak.connect.facebook.com",
             "static.ak.facebook.com",
+            "static.ak.facebook.com.edgesuite.net",
             "static.ak.fbcdn.net",
             "static.fbcdn.com",
             "talks.facebooklive.com",
