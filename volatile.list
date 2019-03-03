@@ -1,3 +1,4 @@
+
 0-edge-chat.facebook.com
 0-edge-chat.messenger.com
 0.facebook.com
@@ -6,9 +7,11 @@
 1-edge-chat.facebook.com
 1-edge-chat.messenger.com
 1.m.me
+1907113739430074.fb.me
 2-edge-chat.facebook.com
 2-edge-chat.messenger.com
 2.m.me
+24im.messenger.com
 3-edge-chat.facebook.com
 3-edge-chat.messenger.com
 3.fb.me
@@ -47,6 +50,7 @@ am.fb.me
 an.facebook.com
 an.fb.me
 analytics.facebook.com
+aol.messenger.com
 apache.mirror.facebook.net
 api-read.facebook.com
 api.facebook.com
@@ -141,6 +145,7 @@ apps-929526610591433.apps.fbsbx.com
 apps-936118136567755.apps.fbsbx.com
 apps.facebook.com
 apps.fbsbx.com
+apps.messenger.com
 ar-ar.facebook.com
 ar-ar.he-il.fb.me
 ar-ar.messenger.com
@@ -306,6 +311,7 @@ fa08.ftw1.tfbnw.net
 facebook-web-clients.appspot.com
 facebook.com
 facebook.fb.me
+facebook.messenger.com
 fb.com
 fb.m.beta.messenger.com
 fb.me
@@ -317,6 +323,7 @@ fbjs.facebook.com
 fbsbx.com
 fdda274d380ki4frcgi-rumjfjai1460158783-sonar.xx.fbcdn.net
 fedora.mirror.facebook.net
+feedback.messenger.com
 fi-fi.facebook.com
 fi-fi.id-id.fb.me
 fi-fi.messenger.com
@@ -325,14 +332,17 @@ fna-fbcdn-shv-01-fmaa1.fbcdn.net
 fna-fbcdn-shv-02-fdet1.fbcdn.net
 fna-fbcdn-video-shv-01-ffjr1.fbcdn.net
 fr-ca.facebook.com
+fr-ca.messenger.com
 fr-fr.facebook.com
 fr-fr.messenger.com
 fr-fr.zh-tw.www.on.fb.me
+fr.msn.messenger.com
 free.basic.fb.me
 free.facebook.com
 ftp.fb.me
 fy-nl.messenger.com
 g.m.me
+garena.messenger.com
 gforce.facebook.com
 gl-es.bs-ba.fb.me
 govtrequests.facebook.com
@@ -349,12 +359,14 @@ helpdesk.tfbnw.net
 herningrideklub.netscontent-a-ams.xx.fbcdn.net
 hi-in.facebook.com
 hi-in.messenger.com
+hi5.messenger.com
 hostlink.fb.me
 hotline.fb.me
 hr-hr.facebook.com
 hr-hr.vi-vn.fb.me
 http.messenger.com
 hu-hu.facebook.com
+hu-hu.messenger.com
 huawei.facebook.com
 id-id.fb.me
 id-id.messenger.com
@@ -434,10 +446,13 @@ isbank.co.m.me
 isbanka.m.me
 it-it.facebook.com
 it-it.fb.me
+it-it.messenger.com
 ja-jp.facebook.com
+ja-jp.messenger.com
 ja-jp.vi-vn.fb.me
 jm.m.me
 ka-ge.facebook.com
+kik.messenger.com
 klikbca.co.m.me
 kn-in.messenger.com
 ko-kr.facebook.com
@@ -480,6 +495,7 @@ mirror-ext.facebook.net
 mirror-ext.t.tfbnw.net
 mirror.facebook.net
 mn.fb.me
+mns.messenger.com
 mo.m.me
 mobile.facebook.com
 mobile.messenger.com
@@ -488,6 +504,7 @@ mozilla.mirror.facebook.net
 mqtt-mini.facebook.com
 mqtt.c10r.facebook.com
 ms-my.facebook.com
+msn.messenger.com
 msw1ac.01.sea1.tfbnw.net
 msw1ao.01.gru2.tfbnw.net
 mtouch.facebook.com
@@ -499,6 +516,7 @@ nb-no.messenger.com
 ncontent.xx.fbcdn.net
 newsroom.fb.com
 nl-be.facebook.com
+nl-be.messenger.com
 nl-nl.facebook.com
 nl-nl.messenger.com
 ns.facebook.com
@@ -523,13 +541,16 @@ origincache-frc.t.fbcdn.net
 origincache-lla.fbcdn.net
 origincache-prn.t.fbcdn.net
 pa-in.facebook.com
+paltalk.messenger.com
 pdlvimeocdn-a.akamaihd.net
 photos-a-ord.xx.fbcdn.net
 photos-a.xx.fbcdn.net
 photos-b-ord.xx.fbcdn.net
 photos-b.xx.fbcdn.net
+php.mirror.facebook.net
 pics.m.me
 pixel.facebook.com
+pixel.messenger.com
 pl-pl.facebook.com
 pl-pl.messenger.com
 pl-pl.vi-vn.fb.me
@@ -546,6 +567,7 @@ postmaster.facebook.com
 postmaster.fb.me
 presence.facebook.net
 prod.messenger.com
+prodigy.messenger.com
 profile-a-atl.xx.fbcdn.net
 profile-a-dfw.xx.fbcdn.net
 profile-a-iad.xx.fbcdn.net
@@ -565,6 +587,7 @@ profile-b-sjc.xx.fbcdn.net
 profile-b.xx.fbcdn.net
 profile.xx.fbcdn.net
 proxy.fb.me
+prudential.messenger.com
 psw02.vie1.tfbnw.net
 pt-br.facebook.com
 pt-br.fb.me
@@ -572,6 +595,7 @@ pt-br.messenger.com
 pt-pt.messenger.com
 research.facebook.com
 ro-ro.facebook.com
+ro-ro.messenger.com
 ru-ru.facebook.com
 ru-ru.messenger.com
 ru-ru.vi-vn.fb.me
@@ -711,6 +735,7 @@ scontent.fymy1-2.fna.fbcdn.net
 scontent.xx.fbcdn.net
 silfra.facebook.net
 sk-sk.facebook.com
+sk-sk.messenger.com
 sl-si.messenger.com
 snafu.tfbnw.net
 snaptu-mini.facebook.com
@@ -759,6 +784,7 @@ sphotos-b.xx.fbcdn.net
 sphotos.xx.fbcdn.net
 sphotosbord.xx.fbcdn.net
 sq-al.messenger.com
+sr-rs.messenger.com
 sr-rs.on.fb.me
 star-mini.c10r.facebook.com
 star.c10r.facebook.com
@@ -776,6 +802,7 @@ staticxx.facebook.com
 stun.fbsbx.com
 sv-se.ar-ar.fb.me
 sv-se.facebook.com
+sv-se.messenger.com
 t.fb.me
 t002.fma.fb.me
 t003.fma.fb.me
@@ -783,6 +810,7 @@ telegra.m.me
 telkomsel.facebook.com
 telkomsel.m.facebook.com
 th-th.facebook.com
+th-th.messenger.com
 tl-ph.ar-ar.fb.me
 tl-ph.vi-vn.fb.me
 tm-sbx.fbsbx.com
@@ -794,6 +822,7 @@ tr-tr.fb.me
 tr-tr.messenger.com
 tr.fb.me
 tw.msn.messenger.com
+uhaul.messenger.com
 uky.facebook.com
 un.fb.me
 upload.facebook.com
@@ -829,6 +858,7 @@ wc.messenger.com
 web.facebook.com
 web.fb.me
 webdav.facebook.com
+webex.messenger.com
 work-89715997.facebook.com
 work-99275836.facebook.com
 workplace.facebook.com
@@ -1072,3 +1102,4 @@ zh-cn.www.on.fb.me
 zh-hk.facebook.com
 zh-tw.bs-ba.fb.me
 zh-tw.facebook.com
+zh-tw.messenger.com
