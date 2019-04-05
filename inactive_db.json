@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/smed79_blocklist_facebook/domains.list": {
-        "1554324473": [
+        "1554496943": [
             "a3.sphotos.ak.fbcdn.net",
             "ae0.pr02.ord1.tfbnw.net",
             "ae1.dr07.lla1.tfbnw.net",
@@ -40,6 +40,7 @@
             "atlasalpha-shv-09-frc3.facebook.com",
             "atlasinyour-shv-05-ash3.facebook.com",
             "bb04.sjc1.tfbnw.net",
+            "bb06.frc3.tfbnw.net",
             "be44.bb01.iad3.tfbnw.net",
             "be5.bb01.ams3.tfbnw.net",
             "beta-shv-03-atn1.facebook.com",
