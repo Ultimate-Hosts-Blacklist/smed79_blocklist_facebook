@@ -1626,6 +1626,13 @@
         "instagram-shv-01-mia1.fbcdn.net",
         "beta-shv-09-frc1.facebook.com",
         "edge-mqtt-shv-07-ash4.facebook.com",
-        "edge-atlas-shv-11.facebook.com"
+        "edge-atlas-shv-11.facebook.com",
+        "edge-s-shv-01-ord1.facebook.com",
+        "edge-sonar-shv-0101-mia1.fbcdn.net",
+        "edge-sonarhv-01-mrs1.fbcdn.net",
+        "extedgeray-shv-01-sjc2.facebook.com"
+    ],
+    "INVALID": [
+        "edge-snaptu-tunnel-shv-01-fra3.facebook.comom"
     ]
 }
