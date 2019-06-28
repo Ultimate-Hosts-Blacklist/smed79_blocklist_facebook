@@ -208,6 +208,7 @@ dr01.snc1.tfbnw.net
 dr02.nao1.tfbnw.net
 edge-atlas-shv-01-bru2.facebook.com
 edge-atlas-shv-01-cdg2.facebook.com
+edge-atlas-shv-01-gru1.facebook.com
 edge-atlas-shv-01-iad3.facebook.com
 edge-atlas-shv-01-lhr3.facebook.com
 edge-atlas-shv-01-mad1.facebook.com
@@ -219,6 +220,7 @@ edge-chat.facebook.com
 edge-chat.messenger.com
 edge-mqtt-shv-01-bru2.facebook.com
 edge-mqtt-shv-01-cdg2.facebook.com
+edge-mqtt-shv-01-gru1.facebook.com
 edge-mqtt-shv-01-iad3.facebook.com
 edge-mqtt-shv-01-lhr3.facebook.com
 edge-mqtt-shv-01-mad1.facebook.com
@@ -234,6 +236,7 @@ edge-oculus-shv-01-sea1.fbcdn.net
 edge-oculus-shv-01-yyz1.fbcdn.net
 edge-snaptu-http-p1-shv-01-bru2.facebook.com
 edge-snaptu-http-p1-shv-01-cdg2.facebook.com
+edge-snaptu-http-p1-shv-01-gru1.facebook.com
 edge-snaptu-http-p1-shv-01-iad3.facebook.com
 edge-snaptu-http-p1-shv-01-lhr3.facebook.com
 edge-snaptu-http-p1-shv-01-mad1.facebook.com
@@ -253,6 +256,7 @@ edge-video-shv-01-yyz1.fbcdn.net
 edge-video-shv-02-sin6.fbcdn.net
 edgeray-shv-01-bru2.facebook.com
 edgeray-shv-01-cdg2.facebook.com
+edgeray-shv-01-gru1.facebook.com
 edgeray-shv-01-iad3.facebook.com
 edgeray-shv-01-lhr3.facebook.com
 edgeray-shv-01-mad1.facebook.com
@@ -997,6 +1001,7 @@ xx-fbcdn-shv-01-cdg2.fbcdn.net
 xx-fbcdn-shv-01-dfw5.fbcdn.net
 xx-fbcdn-shv-01-eze1.fbcdn.net
 xx-fbcdn-shv-01-frt3.fbcdn.net
+xx-fbcdn-shv-01-gru1.fbcdn.net
 xx-fbcdn-shv-01-gru2.fbcdn.net
 xx-fbcdn-shv-01-hkg3.fbcdn.net
 xx-fbcdn-shv-01-iad3.fbcdn.net
