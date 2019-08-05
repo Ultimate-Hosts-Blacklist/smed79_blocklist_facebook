@@ -3,7 +3,16 @@
 [![Build Status](https://travis-ci.org/Ultimate-Hosts-Blacklist/smed79_blocklist_facebook.svg?branch=master)](https://travis-ci.org/Ultimate-Hosts-Blacklist/smed79_blocklist_facebook)
 
 ```
-
+# [INFO] --------------------------------------------------------------------- #
+# smed79 Facebook HOSTS list
+# HOSTS file list, designed to block Facebook domains
+#
+# Homepage: https://github.com/smed79/blacklist
+# Licence: (CC BY-NC-SA) http://creativecommons.org/licenses/by-nc-sa/3.0/
+#
+# In order to use this list, please use the following address:
+# https://raw.githubusercontent.com/smed79/blacklist/master/extra/facebook.txt
+#
 ```
 
 --------------------------------------------------------------------------------
