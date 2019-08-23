@@ -352,7 +352,6 @@
             "edge-sonar-shv-01-mia1.fbcdn.net": "",
             "edge-sonar-shv-01-mrs1.fbcdn.net": "",
             "edge-sonar-shv-01-mxp1.fbcdn.net": "",
-            "edge-sonar-shv-01-nrt1.fbcdn.net": "",
             "edge-sonar-shv-01-ord1.fbcdn.net": "",
             "edge-sonar-shv-01-sea1.fbcdn.net": "",
             "edge-sonar-shv-01-sin1.fbcdn.net": "",
@@ -741,7 +740,6 @@
             "edge-sonar-shv-01-dfw1.fbcdn.net": "INACTIVE",
             "edge-sonar-shv-01-fra3.fbcdn.net": "INACTIVE",
             "edge-sonar-shv-01-mad1.fbcdn.net": "INACTIVE",
-            "edge-sonar-shv-01-nrt1.fbcdn.net": "INACTIVE",
             "edge-sonar-shv-01-sea1.fbcdn.net": "INACTIVE",
             "edge-sonar-shv-01-sin1.fbcdn.net": "INACTIVE",
             "edge-sonar-shv-01-sjc2.fbcdn.net": "INACTIVE",
@@ -1738,7 +1736,6 @@
             "edge-liverail-shv-04-prn2.facebook.com": "INACTIVE",
             "edge-mqtt-shv-01-cai1.facebook.com": "INACTIVE",
             "edge-mqtt-shv-03-ash5.facebook.com": "INACTIVE",
-            "edge-sonar-shv-01-nrt1.fbcdn.net": "INACTIVE",
             "edge-sonar-shv-01-ord1.fbcdn.net": "INACTIVE",
             "fbcdn-sphotos-d-a.akamaihd.net": "INACTIVE",
             "fmel2-1.fbcdn.net": "INACTIVE",
@@ -2037,6 +2034,34 @@
             "xx-fbcdn-shv-01-ams3.fbcdn.net": "INACTIVE",
             "xx-fbcdn-shv-01-lax1.fbcdn.net": "INACTIVE",
             "xx-fbcdn-shv-03-atn1.fbcdn.net": "INACTIVE"
+        },
+        "1566596410": {
+            "edge-sonar-shv-01-fra3.fbcdn.net": "INACTIVE"
+        },
+        "1566596411": {
+            "edge-atlas-ok.com": "INACTIVE",
+            "edge-atlas-shv-01-ash5.facebook.com": "INACTIVE",
+            "edge-atlas-shv-18-prn1.facebook.com": "INACTIVE",
+            "edge-liverail-shv-01-cdg2.facebook.com": "INACTIVE",
+            "edge-liverail-shv-09-lla1.facebook.com": "INACTIVE",
+            "edge-mqtt-shv-01-atl1.facebook.com": "INACTIVE",
+            "edge-snaptu-tunnel-shv-01-lhr3.facebook.com": "INACTIVE",
+            "edge-sonar-mini-shv-01-ord1.fbcdn.net": "INACTIVE",
+            "edge-sonar-shv-01-nrt1.fbcdn.net": "INACTIVE",
+            "edge-sonar-shv-01-syd1.fbcdn.net": "INACTIVE",
+            "edgeray-shv-01-sjc2.facebook.com": "INACTIVE",
+            "fbcdn-sphotos.fbcdn.mzf.cz": "INACTIVE",
+            "instagram-shv-01-gru1.fbcdn.net": "INACTIVE",
+            "instagram-shv-01-lga1.fbcdn.net": "INACTIVE",
+            "instagram-shv-01-lhr3.fb.net": "INACTIVE",
+            "instagram-shv-03-ash5.fbcdn.net": "INACTIVE",
+            "instagram-shv-06-atn1.fbcdn.net": "INACTIVE",
+            "po102.psw01a.mxp1.tfbnw.net": "INACTIVE",
+            "s-static.ak.facebook.com.edgekey.net": "INACTIVE",
+            "snaptu-d-shv-05-frc3.facebook.com": "INACTIVE",
+            "xx-fbcdn-shv-01-ams3.fbcdn.net": "INACTIVE",
+            "xx-fbcdn-shv-01-sjc2.fbcdn.net": "INACTIVE",
+            "xx-fbcdn-shv-03-lax1.fbcdn.net": "INACTIVE"
         }
     }
 }
