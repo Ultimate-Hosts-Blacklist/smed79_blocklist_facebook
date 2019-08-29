@@ -111,7 +111,6 @@
             "ae10.bb01.lhr2.tfbnw.net": "",
             "ae10.bb01.lla1.tfbnw.net": "",
             "ae13.pr01.mia1.tfbnw.net": "",
-            "ae13.pr01.ord1.tfbnw.net": "",
             "ae13.pr01.sea1.tfbnw.net": "",
             "ae14.bb04.dca1.tfbnw.net": "",
             "ae14.pr02.sin1.tfbnw.net": "",
@@ -2115,6 +2114,35 @@
             "www.edge-atlas-ok.com": "INACTIVE",
             "xx-fbcdn-ecmp-02-ord1.fbcdn.net": "INACTIVE",
             "xx-fbcdn-shv-01-lax1.fbcdn.net": "INACTIVE"
+        },
+        "1567114355": {
+            "ae13.pr01.ord1.tfbnw.net": "INACTIVE",
+            "atlas-shv-05-ash3.facebook.com": "INACTIVE",
+            "edge-atlas-proxyprotocol-shv-07-frc3.facebook.com": "INACTIVE",
+            "edge-liverail-shv-01-lhr3.facebook.com": "INACTIVE",
+            "edge-liverail-shv-01-syd1.facebook.com": "INACTIVE",
+            "edge-liverail-shv-07-ash4.facebook.com": "INACTIVE",
+            "edge-liverail-shv-07-frc3.facebook.com": "INACTIVE",
+            "edge-snaptu-http-p1-shv-01-kul1.facebook.com": "INACTIVE",
+            "edge-snaptu-http-p1-shv-02-cai1.facebook.com": "INACTIVE",
+            "edge-snaptu-tunnel-shv-01-cai1.facebook.com": "INACTIVE",
+            "edge-sonar-shv-01-lga1.fbcdn.net": "INACTIVE",
+            "edgeray-origin-shv-09-frc3.facebook.com": "INACTIVE",
+            "edgeray-shv-01-fra3.facebook.com": "INACTIVE",
+            "edgeray-shv-01-lga1.facebook.com": "INACTIVE",
+            "fbcdn-sphotos-d-a.akamaihd.net": "INACTIVE",
+            "fbcdn-sphotos.fbcdn.mzf.cz": "INACTIVE",
+            "instagram-shv-01-lhr3.fb.net": "INACTIVE",
+            "instagram-shv-01-mad1.fbcdn.net": "INACTIVE",
+            "instagram-shv-01-sin1.fbcdn.net": "INACTIVE",
+            "instagram-shv-09-lla1.fbcdn.net": "INACTIVE",
+            "live.facebooklive.com": "INACTIVE",
+            "origincache-tl.t.fbcdn.net": "INACTIVE",
+            "po102.psw01d.mrs1.tfbnw.net": "INACTIVE",
+            "psw01d.iad3.tfbnw.net": "INACTIVE",
+            "xx-fbcdn-shv-01-ams2.fbcdn.net": "INACTIVE",
+            "xx-fbcdn-shv-02-hkg1.fbcdn.net": "INACTIVE",
+            "xx-fbcdn-shv-06-dfw1.fbcdn.net": "INACTIVE"
         }
     }
 }
