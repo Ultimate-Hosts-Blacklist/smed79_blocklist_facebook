@@ -1,19 +1,19 @@
 {
     "current_stats": {
-        "builds": 13,
+        "builds": 14,
         "counter": {
             "down": 1,
             "invalid": 0,
-            "tested": 873,
-            "up": 872
+            "tested": 922,
+            "up": 921
         }
     },
     "currently_under_test": "1",
     "days_until_next_test": 1,
     "end_datetime": "Sun Oct  6 01:50:35 2019",
     "end_epoch": 1570326635.17415,
-    "last_autosave_datetime": "Mon Oct  7 19:19:28 2019",
-    "last_autosave_epoch": 1570475968.953779,
+    "last_autosave_datetime": "Mon Oct  7 21:48:15 2019",
+    "last_autosave_epoch": 1570484895.891821,
     "name": "smed79_blocklist_facebook",
     "previous_stats": {
         "builds": 15,
