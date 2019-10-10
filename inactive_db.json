@@ -200,6 +200,34 @@
         },
         "1570712751": {
             "bb01.cdg1.tfbnw.net": "INACTIVE"
+        },
+        "1570716834": {
+            "instagramstatic-a.akamaihd.net.edgesuite.net": "INACTIVE",
+            "www.apps-273318713323222.apps.fbsbx.com": "INACTIVE",
+            "www.apps-517524528760947.apps.fbsbx.com": "INACTIVE"
+        },
+        "1570716835": {
+            "z-m-graph.facebook.com": "INACTIVE"
+        },
+        "1570716955": {
+            "edge-atlas-shv-01-lhr3.facebook.com": "INACTIVE",
+            "www.apps-479029962505341.apps.fbsbx.com": "INACTIVE"
+        },
+        "1570716956": {
+            "www.apps-514261135697635.apps.fbsbx.com": "INACTIVE",
+            "www.apps-517524528760947.apps.fbsbx.com": "INACTIVE"
+        },
+        "1570717086": {
+            "ae29.bb02.mia1.tfbnw.net": "INACTIVE"
+        },
+        "1570717207": {
+            "edge-mqtt.facebook.com": "INACTIVE"
+        },
+        "1570717338": {
+            "oob1-vpn-sjc.tfbnw.net": "INACTIVE"
+        },
+        "1570717469": {
+            "ae0.bb01.atl1.tfbnw.net": "INACTIVE"
         }
     }
 }
