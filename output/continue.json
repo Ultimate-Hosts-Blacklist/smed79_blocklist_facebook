@@ -821,7 +821,16 @@
         "static.fdel11-1.fna.fbcdn.net",
         "workplace.facebook.com",
         "z-p3-scontent.faqa1-1.fna.fbcdn.net",
-        "scontent-sjc2-1.xx.fbcdn.net"
+        "scontent-sjc2-1.xx.fbcdn.net",
+        "centos.mirror.facebook.net",
+        "th-th.messenger.com",
+        "static.mfbcdn.net",
+        "jm.m.me",
+        "nb-no.facebook.com",
+        "scontent.fwbw1-1.fna.fbcdn.net",
+        "www.th-th.messenger.com",
+        "external.frec10-1.fna.fbcdn.net",
+        "external.fbkk10-1.fna.fbcdn.net"
     ],
     "INACTIVE": [
         "instagram-p3-shv-01-lga3.fbcdn.net",
@@ -1072,6 +1081,12 @@
         "edge-atlas-shv-01-mad1.facebook.com",
         "instagram-p3-shv-01-frt3.fbcdn.net",
         "instagram-p3-shv-01-vie1.fbcdn.net",
-        "dr01.snc1.tfbnw.net"
+        "dr01.snc1.tfbnw.net",
+        "instagram-p3-shv-01-sjc3.fbcdn.net",
+        "z-p3-graph.facebook.com",
+        "www.apps.fbsbx.com",
+        "0-edge-chat.facebook.com",
+        "instagram-p3-shv-01-mxp1.fbcdn.net",
+        "profile-b-sjc.xx.fbcdn.net"
     ]
 }
