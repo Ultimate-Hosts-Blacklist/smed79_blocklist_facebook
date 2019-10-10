@@ -256,6 +256,40 @@
         },
         "1570722243": {
             "helpdesk.tfbnw.net": "INACTIVE"
+        },
+        "1570725483": {
+            "edge-video-shv-01-yyz1.fbcdn.net": "INACTIVE"
+        },
+        "1570725484": {
+            "edge-mqtt-shv-01-gru1.facebook.com": "INACTIVE",
+            "instagram-p3-shv-01-cdt1.fbcdn.net": "INACTIVE",
+            "lookaside.facebook.com": "INACTIVE"
+        },
+        "1570725613": {
+            "dr02.nao1.tfbnw.net": "INACTIVE"
+        },
+        "1570725745": {
+            "ae0.bb01.bos2.tfbnw.net": "INACTIVE",
+            "edge-atlas-shv-01-mxp1.facebook.com": "INACTIVE",
+            "xx-fbcdn-shv-01-kut2.fbcdn.net": "INACTIVE"
+        },
+        "1570725746": {
+            "graph.fb.me": "INACTIVE",
+            "mqtt-mini.facebook.com": "INACTIVE"
+        },
+        "1570725747": {
+            "developer.facebook.net": "INACTIVE",
+            "instagram-p3-shv-02-frt3.fbcdn.net": "INACTIVE",
+            "z-p3-graph.facebook.com": "INACTIVE"
+        },
+        "1570725748": {
+            "www.apps-316495142521144.apps.fbsbx.com": "INACTIVE"
+        },
+        "1570725878": {
+            "silfra.facebook.net": "INACTIVE"
+        },
+        "1570726009": {
+            "a.ns.t.facebook.net": "INACTIVE"
         }
     }
 }
