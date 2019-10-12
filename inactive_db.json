@@ -113,7 +113,6 @@
             "www.apps-2084865358395589.apps.fbsbx.com": "INACTIVE"
         },
         "1570679430": {
-            "presence.facebook.net": "INACTIVE",
             "www.apps-264813730813067.apps.fbsbx.com": "INACTIVE"
         },
         "1570679561": {
@@ -436,6 +435,37 @@
         },
         "1570846763": {
             "ae0.pr04.sjc1.tfbnw.net": "INACTIVE"
+        },
+        "1570850553": {
+            "lookaside.fbsbx.com": "INACTIVE"
+        },
+        "1570850555": {
+            "instagram-p3-shv-01-ort2.fbcdn.net": "INACTIVE",
+            "xx-fbcdn-shv-01-sea1.fbcdn.net": "INACTIVE"
+        },
+        "1570850686": {
+            "instagram-p15-shv-01-iad3.fbcdn.net": "INACTIVE",
+            "instagram-p3-shv-01-iad3.fbcdn.net": "INACTIVE",
+            "instagram-p3-shv-01-sjc3.fbcdn.net": "INACTIVE"
+        },
+        "1570850817": {
+            "xx-fbcdn-shv-01-nrt1.fbcdn.net": "INACTIVE"
+        },
+        "1570850948": {
+            "lithium.facebook.com": "INACTIVE",
+            "xx-fbcdn-shv-01-mad1.fbcdn.net": "INACTIVE"
+        },
+        "1570851079": {
+            "graph.fb.me": "INACTIVE"
+        },
+        "1570851210": {
+            "presence.facebook.net": "INACTIVE"
+        }
+    }
+}bb01.bos2.tfbnw.net": "INACTIVE"
+        }
+    }
+}            "t003.fma.fb.me": "INACTIVE"
         }
     }
 }
