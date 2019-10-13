@@ -185,6 +185,20 @@
         },
         "1570987421": {
             "dr01.snc1.tfbnw.net": "INACTIVE"
+        },
+        "1570991111": {
+            "mqtt.c10r.facebook.com": "INACTIVE"
+        },
+        "1570991112": {
+            "graph.facebook.com": "INACTIVE",
+            "photos-a.xx.fbcdn.net": "INACTIVE",
+            "profile-b-sjc.xx.fbcdn.net": "INACTIVE"
+        },
+        "1570991113": {
+            "xx-fbcdn-shv-01-yyz1.fbcdn.net": "INACTIVE"
+        },
+        "1570991243": {
+            "mirror-ext.t.tfbnw.net": "INACTIVE"
         }
     }
 }
