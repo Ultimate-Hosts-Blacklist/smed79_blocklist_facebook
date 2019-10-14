@@ -1,4 +1,9 @@
 {
+    "atlasdirect.com": {
+        "epoch": 1626134400,
+        "expiration_date": "13-jul-2021",
+        "state": "future"
+    },
     "fb.com": {
         "epoch": 1842652800,
         "expiration_date": "23-may-2028",
@@ -12,6 +17,11 @@
     "fbcdn.net": {
         "epoch": 1840924800,
         "expiration_date": "03-may-2028",
+        "state": "future"
+    },
+    "fbsbx.com": {
+        "epoch": 1812412800,
+        "expiration_date": "08-jun-2027",
         "state": "future"
     },
     "m.me": {
