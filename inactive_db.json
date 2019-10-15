@@ -246,6 +246,47 @@
         "1571097260": {
             "www.apps-1787553804645956.apps.fbsbx.com": "INACTIVE",
             "xx-fbcdn-shv-01-bom1.fbcdn.net": "INACTIVE"
+        },
+        "1571101354": {
+            "edge-mqtt-shv-01-sea1.facebook.com": "INACTIVE",
+            "herningrideklub.netscontent-a-ams.xx.fbcdn.net": "INACTIVE"
+        },
+        "1571101355": {
+            "sphotos-a-mia.xx.fbcdn.net": "INACTIVE"
+        },
+        "1571101356": {
+            "edgeray-shv-01-mad1.facebook.com": "INACTIVE"
+        },
+        "1571101357": {
+            "mozilla.mirror.facebook.net": "INACTIVE"
+        },
+        "1571101358": {
+            "xx-fbcdn-shv-01-dfw5.fbcdn.net": "INACTIVE"
+        },
+        "1571101488": {
+            "po104.psw04.yyz1.tfbnw.net": "INACTIVE",
+            "xx-fbcdn-shv-01-iad3.fbcdn.net": "INACTIVE"
+        },
+        "1571101489": {
+            "lookaside.fbsbx.com": "INACTIVE"
+        },
+        "1571101490": {
+            "www.apps-214087315949443.apps.fbsbx.com": "INACTIVE",
+            "xx-fbcdn-shv-01-tpe1.fbcdn.net": "INACTIVE"
+        },
+        "1571101621": {
+            "helpdesk.tfbnw.net": "INACTIVE",
+            "www.apps-325224894889683.apps.fbsbx.com": "INACTIVE"
+        },
+        "1571101743": {
+            "instagram-p3-shv-01-yyz1.fbcdn.net": "INACTIVE",
+            "www.apps-539921089788954.apps.fbsbx.com": "INACTIVE"
+        },
+        "1571101873": {
+            "presence.facebook.net": "INACTIVE"
+        },
+        "1571102004": {
+            "edge-mqtt-shv-01-cdg2.facebook.com": "INACTIVE"
         }
     }
 }
