@@ -1,8 +1,5 @@
 {
     "api_call": {
-        "1570854362": {
-            "oob2-vpn-sjc.tfbnw.net": "INACTIVE"
-        },
         "1570965430": {
             "sphotos-a-lax.xx.fbcdn.net": "INACTIVE"
         },
@@ -339,6 +336,26 @@
         },
         "1571109023": {
             "silfra.facebook.net": "INACTIVE"
+        },
+        "1571112126": {
+            "1-edge-chat.messenger.com": "INACTIVE",
+            "edge-oculus-shv-01-lga3.fbcdn.net": "INACTIVE"
+        },
+        "1571112256": {
+            "irc.tfbnw.net": "INACTIVE"
+        },
+        "1571112257": {
+            "sphotos-a.xx.fbcdn.net": "INACTIVE"
+        },
+        "1571112387": {
+            "t002.fma.fb.me": "INACTIVE"
+        },
+        "1571112388": {
+            "graph.alpha.facebook.com": "INACTIVE",
+            "xx-fbcdn-shv-02-ort2.fbcdn.net": "INACTIVE"
+        },
+        "1571112649": {
+            "oob2-vpn-sjc.tfbnw.net": "INACTIVE"
         }
     }
 }
