@@ -287,6 +287,35 @@
         },
         "1571102004": {
             "edge-mqtt-shv-01-cdg2.facebook.com": "INACTIVE"
+        },
+        "1571104898": {
+            "sphotos-b-mxp.xx.fbcdn.net": "INACTIVE"
+        },
+        "1571105028": {
+            "b.ns.facebook.com": "INACTIVE",
+            "edge-atlas-shv-01-iad3.facebook.com": "INACTIVE"
+        },
+        "1571105029": {
+            "sphotos-b-lga.xx.fbcdn.net": "INACTIVE",
+            "xx-fbcdn-shv-01-lht6.fbcdn.net": "INACTIVE"
+        },
+        "1571105151": {
+            "instagram-p3-shv-01-waw1.fbcdn.net": "INACTIVE",
+            "instagram-p42-shv-01-lga3.fbcdn.net": "INACTIVE",
+            "lookaside.facebook.com": "INACTIVE"
+        },
+        "1571105282": {
+            "stun.fbsbx.com": "INACTIVE",
+            "xx-fbcdn-shv-01-lhr3.fbcdn.net": "INACTIVE"
+        },
+        "1571105413": {
+            "msw1ao.01.gru2.tfbnw.net": "INACTIVE"
+        },
+        "1571105414": {
+            "3-edge-chat.messenger.com": "INACTIVE"
+        },
+        "1571105544": {
+            "ae29.bb02.mia1.tfbnw.net": "INACTIVE"
         }
     }
 }
