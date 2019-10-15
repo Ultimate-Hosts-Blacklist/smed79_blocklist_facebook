@@ -125,7 +125,6 @@
         },
         "1570979380": {
             "edge-mqtt-shv-01-nrt1.facebook.com": "INACTIVE",
-            "silfra.facebook.net": "INACTIVE",
             "sphotos-b-iad.xx.fbcdn.net": "INACTIVE",
             "xx-fbcdn-shv-01-bog1.fbcdn.net": "INACTIVE"
         },
@@ -316,6 +315,30 @@
         },
         "1571105544": {
             "ae29.bb02.mia1.tfbnw.net": "INACTIVE"
+        },
+        "1571108389": {
+            "sphotos-b-sea.xx.fbcdn.net": "INACTIVE",
+            "www.apps-261796957853828.apps.fbsbx.com": "INACTIVE"
+        },
+        "1571108519": {
+            "5-edge-chat.messenger.com": "INACTIVE",
+            "bb01.sea1.tfbnw.net": "INACTIVE",
+            "edge-video-shv-01-yyz1.fbcdn.net": "INACTIVE",
+            "www.apps-2095791540676791.apps.fbsbx.com": "INACTIVE"
+        },
+        "1571108650": {
+            "irc.hack.tfbnw.net": "INACTIVE"
+        },
+        "1571108771": {
+            "instagram-p42-shv-01-iad3.fbcdn.net": "INACTIVE"
+        },
+        "1571108892": {
+            "www.apps-2095791540676791.apps.fbsbx.com": "INACTIVE",
+            "www.apps-261796957853828.apps.fbsbx.com": "INACTIVE",
+            "xx-fbcdn-shv-01-scl1.fbcdn.net": "INACTIVE"
+        },
+        "1571109023": {
+            "silfra.facebook.net": "INACTIVE"
         }
     }
 }
