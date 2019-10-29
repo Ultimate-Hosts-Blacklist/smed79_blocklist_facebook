@@ -149,6 +149,7 @@ connect.beta.facebook.net
 connect.facebook.com
 consumo.messenger.com
 cpan.mirror.facebook.net
+cs-cz.facebook.com
 cs-cz.messenger.com
 d.facebook.com
 d.fb.me
@@ -181,6 +182,7 @@ eu-es.fb.me
 external-cdt1-1.xx.fbcdn.net
 external-frt3-2.xx.fbcdn.net
 external-hkg3-1.xx.fbcdn.net
+external-iad3-1.xx.fbcdn.net
 external-ort2-1.xx.fbcdn.net
 external.fapa1-1.fna.fbcdn.net
 external.fauh1-1.fna.fbcdn.net
@@ -192,6 +194,7 @@ external.fmex5-1.fna.fbcdn.net
 external.fmnl10-1.fna.fbcdn.net
 external.fpra1-1.fna.fbcdn.net
 external.frec10-1.fna.fbcdn.net
+external.fsdu10-1.fna.fbcdn.net
 external.fsdu11-1.fna.fbcdn.net
 external.ftpa1-1.fna.fbcdn.net
 external.fvit1-1.fna.fbcdn.net
@@ -216,6 +219,7 @@ fi-fi.id-id.fb.me
 fi-fi.messenger.com
 fma.fb.me
 fna.fbcdn.net
+fr-ca.facebook.com
 fr-ca.messenger.com
 fr-fr.facebook.com
 fr-fr.messenger.com
@@ -239,6 +243,7 @@ hi-in.facebook.com
 hi-in.messenger.com
 hi5.messenger.com
 hostlink.fb.me
+hotline.fb.me
 hr-hr.facebook.com
 hr-hr.vi-vn.fb.me
 http.messenger.com
@@ -250,9 +255,11 @@ id-id.messenger.com
 in.fb.me
 instagram.facc1-1.fna.fbcdn.net
 instagram.fada1-1.fna.fbcdn.net
+instagram.fada1-10.fna.fbcdn.net
 instagram.fbna1-2.fna.fbcdn.net
 instagram.fbom10-1.fna.fbcdn.net
 instagram.fbom11-1.fna.fbcdn.net
+instagram.fbsb1-1.fna.fbcdn.net
 instagram.fbsb10-1.fna.fbcdn.net
 instagram.fbsb11-1.fna.fbcdn.net
 instagram.fbtz1-10.fna.fbcdn.net
@@ -273,6 +280,7 @@ instagram.fssa11-1.fna.fbcdn.net
 instagram.fsub1-1.fna.fbcdn.net
 instagram.fszb1-1.fna.fbcdn.net
 instagram.fvga1-1.fna.fbcdn.net
+instagram.fwaw3-1.fna.fbcdn.net
 instagram.fyka1-1.fna.fbcdn.net
 investor.fb.com
 isbahrain.co.m.me
@@ -291,6 +299,7 @@ klikbca.co.m.me
 kn-in.messenger.com
 ko-kr.facebook.com
 ko-kr.messenger.com
+l.facebook.com
 l.m.me
 latest.facebook.com
 latest.messenger.com
@@ -316,6 +325,7 @@ mbasic.facebook.com
 me.fb.me
 mfbcdn.net
 mirror-ext.facebook.net
+mirror-ext.t.tfbnw.net
 mirror.facebook.net
 mn.fb.me
 mns.messenger.com
@@ -323,6 +333,7 @@ mo.m.me
 mobile.facebook.com
 mobile.messenger.com
 more.fb.me
+mozilla.mirror.facebook.net
 ms-my.facebook.com
 msn.messenger.com
 mtouch.facebook.com
@@ -350,7 +361,9 @@ or.fb.me
 origincache-ash.t.fbcdn.net
 origincache-cln.fbsbx.com
 origincache-frc.fbsbx.com
+origincache-frc.t.fbcdn.net
 origincache-lla.fbcdn.net
+origincache-prn.t.fbcdn.net
 pa-in.facebook.com
 paltalk.messenger.com
 pdlvimeocdn-a.akamaihd.net
@@ -382,6 +395,7 @@ ru-ru.vi-vn.fb.me
 s.update.fbsbx.com
 scontent-a-ams.xx.fbcdn.net
 scontent-a-atl.xx.fbcdn.net
+scontent-a-cdg.xx.fbcdn.net
 scontent-a-dfw.xx.fbcdn.net
 scontent-a-fra.xx.fbcdn.net
 scontent-a-gru.xx.fbcdn.net
@@ -402,6 +416,7 @@ scontent-a.xx.fbcdn.net
 scontent-ams.xx.fbcdn.net
 scontent-amt2-1.xx.fbcdn.net
 scontent-arn2-1.xx.fbcdn.net
+scontent-atl.xx.fbcdn.net
 scontent-b-ams.xx.fbcdn.net
 scontent-b-atl.xx.fbcdn.net
 scontent-b-cdg.xx.fbcdn.net
@@ -437,12 +452,15 @@ scontent-hkg3-1.xx.fbcdn.net
 scontent-hkg3-2.xx.fbcdn.net
 scontent-iad3-1.xx.fbcdn.net
 scontent-icn1-1.xx.fbcdn.net
+scontent-lax.xx.fbcdn.net
 scontent-lax3-1.xx.fbcdn.net
 scontent-lax3-2.xx.fbcdn.net
 scontent-lga.xx.fbcdn.net
 scontent-lga3-1.xx.fbcdn.net
 scontent-lhr.xx.fbcdn.net
+scontent-lht6-1.xx.fbcdn.net
 scontent-mia.xx.fbcdn.net
+scontent-mxp.xx.fbcdn.net
 scontent-nrt1-1.xx.fbcdn.net
 scontent-ord.xx.fbcdn.net
 scontent-otp1-1.xx.fbcdn.net
@@ -469,6 +487,7 @@ scontent.fiev11-1.fna.fbcdn.net
 scontent.fiev6-1.fna.fbcdn.net
 scontent.fiev8-1.fna.fbcdn.net
 scontent.fkul4-1.fna.fbcdn.net
+scontent.fkul8-1.fna.fbcdn.net
 scontent.fkwi10-1.fna.fbcdn.net
 scontent.flim1-2.fna.fbcdn.net
 scontent.flim10-1.fna.fbcdn.net
@@ -545,6 +564,7 @@ tw.msn.messenger.com
 uhaul.messenger.com
 uky.facebook.com
 un.fb.me
+upload.messenger.com
 upload.mfbcdn.net
 vi-vn.facebook.com
 vi-vn.fb.me
@@ -559,11 +579,13 @@ video.fapa1-1.fna.fbcdn.net
 video.fmla1-1.fna.fbcdn.net
 video.fmnl10-1.fna.fbcdn.net
 video.fpoa1-1.fna.fbcdn.net
+video.fpoa10-1.fna.fbcdn.net
 video.fpoa11-1.fna.fbcdn.net
 video.fpra1-1.fna.fbcdn.net
 video.fria1-1.fna.fbcdn.net
 video.fsdu11-1.fna.fbcdn.net
 video.fssa1-1.fna.fbcdn.net
+video.fssa10-1.fna.fbcdn.net
 video.ftpa1-1.fna.fbcdn.net
 video.fvit1-1.fna.fbcdn.net
 video.xx.fbcdn.net
@@ -578,6 +600,7 @@ workplace.facebook.com
 www.1907113739430074.fb.me
 www.24im.messenger.com
 www.aol.messenger.com
+www.apps.messenger.com
 www.atlasdirect.com
 www.cpan.mirror.facebook.net
 www.en-gb.messenger.com
@@ -592,6 +615,7 @@ www.fedora.mirror.facebook.net
 www.feedback.messenger.com
 www.fr-ca.messenger.com
 www.fr.msn.messenger.com
+www.garena.messenger.com
 www.hi5.messenger.com
 www.hu-hu.messenger.com
 www.it-it.messenger.com
@@ -642,6 +666,7 @@ z-1-scontent.fmaa1-1.fna.fbcdn.net
 z-1-scontent.fpoa10-1.fna.fbcdn.net
 z-1-scontent.xx.fbcdn.net
 z-1-video.fpoa10-1.fna.fbcdn.net
+z-1-video.fszb1-1.fna.fbcdn.net
 z-m-scontent.fceb1-1.fna.fbcdn.net
 z-m-scontent.fdac1-1.fna.fbcdn.net
 z-m-scontent.fmex10-1.fna.fbcdn.net
