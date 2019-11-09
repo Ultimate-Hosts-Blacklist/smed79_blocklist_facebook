@@ -226,9 +226,6 @@
         "1572646074": {
             "xx-fbcdn-shv-01-hkg3.fbcdn.net": "INACTIVE"
         },
-        "1572646079": {
-            "po213.psw02.fra5.tfbnw.net": "INACTIVE"
-        },
         "1572818986": {
             "oob2-vpn-sjc.tfbnw.net": "INACTIVE",
             "www.apps-166387070613883.apps.fbsbx.com": "INACTIVE"
@@ -967,7 +964,6 @@
             "mqtt.c10r.facebook.com": "INACTIVE"
         },
         "1573208982": {
-            "po213.psw02.fra5.tfbnw.net": "INACTIVE",
             "www.apps-232170860602554.apps.fbsbx.com": "INACTIVE"
         },
         "1573208987": {
@@ -1019,6 +1015,148 @@
         },
         "1573209052": {
             "z-p3-scontent.fbga1-1.fna.fbcdn.net": "INACTIVE"
+        },
+        "1573297495": {
+            "www.apps-492432114586553.apps.fbsbx.com": "INACTIVE"
+        },
+        "1573297497": {
+            "www.apps-2139907719383042.apps.fbsbx.com": "INACTIVE"
+        },
+        "1573297498": {
+            "www.apps-264813730813067.apps.fbsbx.com": "INACTIVE"
+        },
+        "1573297499": {
+            "instagram-p15-shv-01-iad3.fbcdn.net": "INACTIVE"
+        },
+        "1573297500": {
+            "sphotos-b-atl.xx.fbcdn.net": "INACTIVE"
+        },
+        "1573297501": {
+            "edge-mqtt.facebook.com": "INACTIVE"
+        },
+        "1573297503": {
+            "sphotos-a-cdg.xx.fbcdn.net": "INACTIVE"
+        },
+        "1573297504": {
+            "sphotos-b-mad.xx.fbcdn.net": "INACTIVE"
+        },
+        "1573297508": {
+            "edge-mqtt-shv-01-nrt1.facebook.com": "INACTIVE"
+        },
+        "1573297509": {
+            "instagram-p3-shv-01-nrt1.fbcdn.net": "INACTIVE"
+        },
+        "1573297511": {
+            "sphotos-b-ord.xx.fbcdn.net": "INACTIVE"
+        },
+        "1573297512": {
+            "profile-a-iad.xx.fbcdn.net": "INACTIVE"
+        },
+        "1573297514": {
+            "fna-fbcdn-video-shv-01-ffjr1.fbcdn.net": "INACTIVE"
+        },
+        "1573297515": {
+            "www.apps-435721936875827.apps.fbsbx.com": "INACTIVE"
+        },
+        "1573297519": {
+            "instagram.fper2-1.fna.fbcdn.net": "INACTIVE"
+        },
+        "1573297520": {
+            "instagram-p3-shv-01-cdt1.fbcdn.net": "INACTIVE"
+        },
+        "1573297521": {
+            "l.messenger.com": "INACTIVE",
+            "xx-fbcdn-shv-01-arn2.fbcdn.net": "INACTIVE"
+        },
+        "1573297523": {
+            "profile-b-iad.xx.fbcdn.net": "INACTIVE"
+        },
+        "1573297527": {
+            "www.apps-492432114586553.apps.fbsbx.com": "INACTIVE"
+        },
+        "1573297528": {
+            "mabasic.beta.facebook.net": "INACTIVE",
+            "sphotos-a-pao.xx.fbcdn.net": "INACTIVE"
+        },
+        "1573297530": {
+            "instagram-p3-shv-01-frt3.fbcdn.net": "INACTIVE"
+        },
+        "1573297532": {
+            "www.apps-325224894889683.apps.fbsbx.com": "INACTIVE"
+        },
+        "1573297536": {
+            "www.apps-2078631879044532.apps.fbsbx.com": "INACTIVE",
+            "www.apps-469033456836573.apps.fbsbx.com": "INACTIVE"
+        },
+        "1573297539": {
+            "www.apps-2296047290409384.apps.fbsbx.com": "INACTIVE"
+        },
+        "1573297545": {
+            "psw02.vie1.tfbnw.net": "INACTIVE"
+        },
+        "1573297551": {
+            "irc.tfbnw.net": "INACTIVE",
+            "photos-a.xx.fbcdn.net": "INACTIVE",
+            "xx-fbcdn-shv-01-gru2.fbcdn.net": "INACTIVE"
+        },
+        "1573297556": {
+            "aura-11-01-snc7.facebook.com": "INACTIVE"
+        },
+        "1573297562": {
+            "dr02.nao1.tfbnw.net": "INACTIVE"
+        },
+        "1573297563": {
+            "348214209341889.apps.fbsbx.com": "INACTIVE",
+            "edge-mqtt-shv-01-mad1.facebook.com": "INACTIVE"
+        },
+        "1573297568": {
+            "ae0.pr04.sjc1.tfbnw.net": "INACTIVE",
+            "www.apps-1939015149698140.apps.fbsbx.com": "INACTIVE"
+        },
+        "1573297574": {
+            "a.ns.t.tfbnw.net": "INACTIVE",
+            "xx-fbcdn6-shv-01-atl3.fbcdn.net": "INACTIVE"
+        },
+        "1573297580": {
+            "snaptu-mini.facebook.com": "INACTIVE"
+        },
+        "1573297586": {
+            "edge-mqtt-shv-01-bru2.facebook.com": "INACTIVE",
+            "t002.fma.fb.me": "INACTIVE",
+            "xx-fbcdn-shv-01-mxp1.fbcdn.net": "INACTIVE"
+        },
+        "1573297591": {
+            "edge-snaptu-http-p1-shv-01-cdg2.facebook.com": "INACTIVE"
+        },
+        "1573297592": {
+            "beta.facebook.net": "INACTIVE",
+            "xx-fbcdn6-shv-01-lax3.fbcdn.net": "INACTIVE"
+        },
+        "1573297597": {
+            "d028.fma.fb.me": "INACTIVE",
+            "www.apps-207011573569527.apps.fbsbx.com": "INACTIVE"
+        },
+        "1573297603": {
+            "helpdesk.tfbnw.net": "INACTIVE",
+            "www.apps-546661508998943.apps.fbsbx.com": "INACTIVE"
+        },
+        "1573297609": {
+            "edge-snaptu-http-p1-shv-01-nrt1.facebook.com": "INACTIVE"
+        },
+        "1573297614": {
+            "ae29.bb02.mia1.tfbnw.net": "INACTIVE"
+        },
+        "1573297615": {
+            "edge-atlas-shv-01-vie1.facebook.com": "INACTIVE"
+        },
+        "1573297620": {
+            "edge-snaptu-http-p1-shv-01-bru2.facebook.com": "INACTIVE"
+        },
+        "1573297626": {
+            "z-p3-scontent.fbga1-1.fna.fbcdn.net": "INACTIVE"
+        },
+        "1573297631": {
+            "po213.psw02.fra5.tfbnw.net": "INACTIVE"
         }
     }
 }
