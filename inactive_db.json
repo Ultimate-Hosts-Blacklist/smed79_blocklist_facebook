@@ -1022,9 +1022,6 @@
         "1573297508": {
             "edge-mqtt-shv-01-nrt1.facebook.com": "INACTIVE"
         },
-        "1573297509": {
-            "instagram-p3-shv-01-nrt1.fbcdn.net": "INACTIVE"
-        },
         "1573297511": {
             "sphotos-b-ord.xx.fbcdn.net": "INACTIVE"
         },
@@ -1455,9 +1452,6 @@
         "1573944727": {
             "irc.tfbnw.net": "INACTIVE",
             "sphotos-a-ord.xx.fbcdn.net": "INACTIVE"
-        },
-        "1573944728": {
-            "instagram-p3-shv-01-nrt1.fbcdn.net": "INACTIVE"
         },
         "1573944729": {
             "edge-video-shv-01-arn2.fbcdn.net": "INACTIVE",
@@ -2125,6 +2119,173 @@
             "po213.psw02.fra5.tfbnw.net": "INACTIVE"
         },
         "1574335437": {
+            "irc-prn.tfbnw.net": "INACTIVE"
+        },
+        "1574462453": {
+            "scontent-lhr3-1.xx.fbcdn.net": "INACTIVE"
+        },
+        "1574462517": {
+            "video.xx.fbcdn.net": "INACTIVE"
+        },
+        "1574462613": {
+            "scontent-cdg.xx.fbcdn.net": "INACTIVE"
+        },
+        "1574462620": {
+            "aura-11-01-snc7.facebook.com": "INACTIVE"
+        },
+        "1574462632": {
+            "a.ns.tfbnw.net": "INACTIVE"
+        },
+        "1574462633": {
+            "tomcat.mfbcdn.net": "INACTIVE"
+        },
+        "1574462638": {
+            "psw02.vie1.tfbnw.net": "INACTIVE"
+        },
+        "1574462643": {
+            "a.ns.t.tfbnw.net": "INACTIVE"
+        },
+        "1574462651": {
+            "po122.asw01.hkg3.tfbnw.net": "INACTIVE"
+        },
+        "1574462657": {
+            "msw1ac.01.sea1.tfbnw.net": "INACTIVE"
+        },
+        "1574462663": {
+            "ae0.bb01.ams2.tfbnw.net": "INACTIVE"
+        },
+        "1574462671": {
+            "ae59.pr03.sin1.tfbnw.net": "INACTIVE"
+        },
+        "1574462678": {
+            "oob1-vpn-sjc.tfbnw.net": "INACTIVE"
+        },
+        "1574462683": {
+            "oob2-vpn-iad.tfbnw.net": "INACTIVE"
+        },
+        "1574462689": {
+            "ae10.bb01.atl1.tfbnw.net": "INACTIVE"
+        },
+        "1574462695": {
+            "b.ns.facebook.com": "INACTIVE"
+        },
+        "1574462696": {
+            "m.messenger.com": "INACTIVE"
+        },
+        "1574462706": {
+            "edge-snaptu-http-p1-shv-01-bru2.facebook.com": "INACTIVE"
+        },
+        "1574462713": {
+            "oob-vpn-sjc.tfbnw.net": "INACTIVE"
+        },
+        "1574462719": {
+            "edge-snaptu-http-p1-shv-01-lhr3.facebook.com": "INACTIVE"
+        },
+        "1574462724": {
+            "irc.t.tfbnw.net": "INACTIVE"
+        },
+        "1574462730": {
+            "b.ns.t.tfbnw.net": "INACTIVE"
+        },
+        "1574462736": {
+            "po106.psw04.mia3.tfbnw.net": "INACTIVE"
+        },
+        "1574462746": {
+            "edge-mqtt-shv-01-cdg2.facebook.com": "INACTIVE"
+        },
+        "1574462756": {
+            "xx-fbcdn-shv-01-dfw5.fbcdn.net": "INACTIVE"
+        },
+        "1574462764": {
+            "sphotos-a-mia.xx.fbcdn.net": "INACTIVE"
+        },
+        "1574462770": {
+            "z-p3-scontent.fbga1-1.fna.fbcdn.net": "INACTIVE"
+        },
+        "1574462776": {
+            "po213.psw02.fra5.tfbnw.net": "INACTIVE"
+        },
+        "1574462782": {
+            "t003.fma.fb.me": "INACTIVE"
+        },
+        "1574462783": {
+            "edgeray-shv-01-bru2.facebook.com": "INACTIVE"
+        },
+        "1574462790": {
+            "ae29.bb02.mia1.tfbnw.net": "INACTIVE"
+        },
+        "1574462796": {
+            "dr02.nao1.tfbnw.net": "INACTIVE"
+        },
+        "1574462801": {
+            "edge-snaptu-http-p1-shv-01-nrt1.facebook.com": "INACTIVE"
+        },
+        "1574462807": {
+            "edge-snaptu-http-p1-shv-01-cdg2.facebook.com": "INACTIVE"
+        },
+        "1574462823": {
+            "b.ns.t.facebook.net": "INACTIVE"
+        },
+        "1574462833": {
+            "dr01.snc1.tfbnw.net": "INACTIVE"
+        },
+        "1574462839": {
+            "profile-a-sjc.xx.fbcdn.net": "INACTIVE"
+        },
+        "1574462853": {
+            "ae0.bb01.bos2.tfbnw.net": "INACTIVE"
+        },
+        "1574462858": {
+            "msw1ao.01.gru2.tfbnw.net": "INACTIVE"
+        },
+        "1574462865": {
+            "fa08.ftw1.tfbnw.net": "INACTIVE"
+        },
+        "1574462870": {
+            "edge-mqtt-shv-01-lhr3.facebook.com": "INACTIVE",
+            "presence.facebook.net": "INACTIVE"
+        },
+        "1574462877": {
+            "a.ns.t.facebook.net": "INACTIVE"
+        },
+        "1574462882": {
+            "ae0.bb01.atl1.tfbnw.net": "INACTIVE"
+        },
+        "1574462889": {
+            "po103.psw01.lga3.tfbnw.net": "INACTIVE"
+        },
+        "1574462898": {
+            "edge-snaptu-http-p1-shv-01-mad1.facebook.com": "INACTIVE"
+        },
+        "1574462905": {
+            "bb01.cdg1.tfbnw.net": "INACTIVE"
+        },
+        "1574462911": {
+            "edge-snaptu-http-p1-shv-01-gru1.facebook.com": "INACTIVE"
+        },
+        "1574462916": {
+            "ae0.pr03.sjc1.tfbnw.net": "INACTIVE"
+        },
+        "1574462924": {
+            "edge-snaptu-http-p1-shv-01-sea1.facebook.com": "INACTIVE"
+        },
+        "1574462931": {
+            "edgeray-shv-01-sea1.facebook.com": "INACTIVE"
+        },
+        "1574462933": {
+            "edgeray-shv-01-cdg2.facebook.com": "INACTIVE"
+        },
+        "1574462938": {
+            "ae0.pr04.sjc1.tfbnw.net": "INACTIVE"
+        },
+        "1574462944": {
+            "ae4.bb02.ams2.tfbnw.net": "INACTIVE",
+            "edge-mqtt-shv-01-bru2.facebook.com": "INACTIVE"
+        },
+        "1574462951": {
+            "oob2-vpn-sjc.tfbnw.net": "INACTIVE"
+        },
+        "1574462957": {
             "irc-prn.tfbnw.net": "INACTIVE"
         }
     }
