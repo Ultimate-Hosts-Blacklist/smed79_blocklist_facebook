@@ -553,7 +553,6 @@
         },
         "1572866419": {
             "1-edge-chat.facebook.com": "INACTIVE",
-            "edge-atlas-shv-01-vie1.facebook.com": "INACTIVE",
             "www.apps-902424996813091.apps.fbsbx.com": "INACTIVE"
         },
         "1572866421": {
@@ -1120,9 +1119,6 @@
         "1573297614": {
             "ae29.bb02.mia1.tfbnw.net": "INACTIVE"
         },
-        "1573297615": {
-            "edge-atlas-shv-01-vie1.facebook.com": "INACTIVE"
-        },
         "1573297620": {
             "edge-snaptu-http-p1-shv-01-bru2.facebook.com": "INACTIVE"
         },
@@ -1259,7 +1255,6 @@
             "xx-fbcdn-shv-01-cdg2.fbcdn.net": "INACTIVE"
         },
         "1573944484": {
-            "edge-atlas-shv-01-vie1.facebook.com": "INACTIVE",
             "l.messenger.com": "INACTIVE"
         },
         "1573944490": {
@@ -2286,6 +2281,15 @@
             "m.messenger.com": "INACTIVE"
         },
         "1574635735": {
+            "m.messenger.com": "INACTIVE"
+        },
+        "1574807266": {
+            "sphotos-b-mad.xx.fbcdn.net": "INACTIVE"
+        },
+        "1574807293": {
+            "m.messenger.com": "INACTIVE"
+        },
+        "1574807340": {
             "m.messenger.com": "INACTIVE"
         }
     }
