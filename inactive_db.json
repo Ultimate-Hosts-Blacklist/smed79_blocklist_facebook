@@ -1009,9 +1009,6 @@
         "1573297500": {
             "sphotos-b-atl.xx.fbcdn.net": "INACTIVE"
         },
-        "1573297501": {
-            "edge-mqtt.facebook.com": "INACTIVE"
-        },
         "1573297503": {
             "sphotos-a-cdg.xx.fbcdn.net": "INACTIVE"
         },
@@ -2290,6 +2287,9 @@
             "m.messenger.com": "INACTIVE"
         },
         "1574807340": {
+            "m.messenger.com": "INACTIVE"
+        },
+        "1574981478": {
             "m.messenger.com": "INACTIVE"
         }
     }
