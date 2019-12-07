@@ -670,9 +670,6 @@
             "lookaside.fbsbx.com": "INACTIVE",
             "www.apps-416920988735303.apps.fbsbx.com": "INACTIVE"
         },
-        "1572992067": {
-            "4-edge-chat.messenger.com": "INACTIVE"
-        },
         "1572992080": {
             "scontent.fssa10-1.fna.fbcdn.net": "INACTIVE"
         },
@@ -2290,6 +2287,9 @@
             "m.messenger.com": "INACTIVE"
         },
         "1574981478": {
+            "m.messenger.com": "INACTIVE"
+        },
+        "1575731436": {
             "m.messenger.com": "INACTIVE"
         }
     }
