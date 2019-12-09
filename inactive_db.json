@@ -450,9 +450,6 @@
         "1572866348": {
             "www.apps-900016243542343.apps.fbsbx.com": "INACTIVE"
         },
-        "1572866350": {
-            "profile-a-sjc.xx.fbcdn.net": "INACTIVE"
-        },
         "1572866351": {
             "www.apps-186681675513260.apps.fbsbx.com": "INACTIVE"
         },
@@ -720,7 +717,6 @@
         },
         "1572992148": {
             "po122.asw01.hkg3.tfbnw.net": "INACTIVE",
-            "profile-a-sjc.xx.fbcdn.net": "INACTIVE",
             "stun.fbsbx.com": "INACTIVE",
             "www.apps-253763508667335.apps.fbsbx.com": "INACTIVE",
             "z-1-lookaside.fbsbx.com": "INACTIVE"
@@ -2208,9 +2204,6 @@
         "1574462833": {
             "dr01.snc1.tfbnw.net": "INACTIVE"
         },
-        "1574462839": {
-            "profile-a-sjc.xx.fbcdn.net": "INACTIVE"
-        },
         "1574462853": {
             "ae0.bb01.bos2.tfbnw.net": "INACTIVE"
         },
@@ -2290,6 +2283,12 @@
         },
         "1575803855": {
             "m.messenger.com": "INACTIVE"
+        },
+        "1575932611": {
+            "uhaul.messenger.com": "INACTIVE"
+        },
+        "1575932668": {
+            "external.fbkk10-1.fna.fbcdn.net": "INACTIVE"
         }
     }
 }
