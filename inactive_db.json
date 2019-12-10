@@ -1211,9 +1211,6 @@
         "1573944447": {
             "edgeray-shv-01-cdg2.facebook.com": "INACTIVE"
         },
-        "1573944449": {
-            "edge-video-shv-02-sin6.fbcdn.net": "INACTIVE"
-        },
         "1573944458": {
             "xx-fbcdn-shv-01-tpe1.fbcdn.net": "INACTIVE"
         },
@@ -2289,6 +2286,12 @@
         },
         "1575932668": {
             "external.fbkk10-1.fna.fbcdn.net": "INACTIVE"
+        },
+        "1575977025": {
+            "m.messenger.com": "INACTIVE"
+        },
+        "1575977226": {
+            "m.messenger.com": "INACTIVE"
         }
     }
 }
