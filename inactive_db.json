@@ -157,9 +157,6 @@
             "b.beta.facebook.net": "INACTIVE",
             "profile-b-ord.xx.fbcdn.net": "INACTIVE"
         },
-        "1572646014": {
-            "snaptu-z.facebook.com": "INACTIVE"
-        },
         "1572646015": {
             "www.apps-1545834658847763.apps.fbsbx.com": "INACTIVE"
         },
@@ -696,9 +693,6 @@
             "edge-mqtt-shv-01-sea1.facebook.com": "INACTIVE",
             "edge-snaptu-http-p1-shv-01-gru1.facebook.com": "INACTIVE"
         },
-        "1572992124": {
-            "snaptu-z.facebook.com": "INACTIVE"
-        },
         "1572992125": {
             "www.apps-546661508998943.apps.fbsbx.com": "INACTIVE"
         },
@@ -941,9 +935,6 @@
         },
         "1573208988": {
             "0-edge-chat.messenger.com": "INACTIVE"
-        },
-        "1573208995": {
-            "snaptu-z.facebook.com": "INACTIVE"
         },
         "1573209001": {
             "6-edge-chat.messenger.com": "INACTIVE",
@@ -2291,6 +2282,9 @@
             "m.messenger.com": "INACTIVE"
         },
         "1575977226": {
+            "m.messenger.com": "INACTIVE"
+        },
+        "1576105227": {
             "m.messenger.com": "INACTIVE"
         }
     }
