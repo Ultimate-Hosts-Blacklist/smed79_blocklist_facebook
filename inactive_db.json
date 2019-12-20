@@ -200,9 +200,6 @@
             "6-edge-chat.messenger.com": "INACTIVE",
             "irc.hack.tfbnw.net": "INACTIVE"
         },
-        "1572646056": {
-            "mirror-ext.t.tfbnw.net": "INACTIVE"
-        },
         "1572646062": {
             "edge-snaptu-http-p1-shv-01-cdg2.facebook.com": "INACTIVE",
             "sphotos-a.xx.fbcdn.net": "INACTIVE",
@@ -811,7 +808,6 @@
             "po122.asw01.hkg3.tfbnw.net": "INACTIVE"
         },
         "1573125896": {
-            "mirror-ext.t.tfbnw.net": "INACTIVE",
             "www.apps-232170860602554.apps.fbsbx.com": "INACTIVE"
         },
         "1573125902": {
@@ -1284,9 +1280,6 @@
         "1573944553": {
             "a.ns.t.tfbnw.net": "INACTIVE"
         },
-        "1573944558": {
-            "mirror-ext.t.tfbnw.net": "INACTIVE"
-        },
         "1573944564": {
             "edge-snaptu-http-p1-shv-01-gru1.facebook.com": "INACTIVE",
             "edgeray-shv-01-mad1.facebook.com": "INACTIVE"
@@ -1501,9 +1494,6 @@
         },
         "1574116699": {
             "edge-snaptu-http-p1-shv-01-gru1.facebook.com": "INACTIVE"
-        },
-        "1574116704": {
-            "mirror-ext.t.tfbnw.net": "INACTIVE"
         },
         "1574116711": {
             "z-p3-scontent.fbga1-1.fna.fbcdn.net": "INACTIVE"
@@ -1977,9 +1967,6 @@
         "1574335226": {
             "edge-mqtt-shv-01-sea1.facebook.com": "INACTIVE"
         },
-        "1574335238": {
-            "mirror-ext.t.tfbnw.net": "INACTIVE"
-        },
         "1574335243": {
             "oob2-vpn-iad.tfbnw.net": "INACTIVE"
         },
@@ -2284,6 +2271,21 @@
         },
         "1576428877": {
             "m.messenger.com": "INACTIVE"
+        },
+        "1576884594": {
+            "bg-bg.id-id.fb.me": "INACTIVE"
+        },
+        "1576884672": {
+            "www.1907113739430074.fb.me": "INACTIVE"
+        },
+        "1576884754": {
+            "scontent.fhkg10-1.fna.fbcdn.net": "INACTIVE"
+        },
+        "1576884820": {
+            "scontent-b-dfw.xx.fbcdn.net": "INACTIVE"
+        },
+        "1576884875": {
+            "attachments.facebook.com": "INACTIVE"
         }
     }
 }
