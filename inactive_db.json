@@ -860,8 +860,7 @@
             "www.apps-2265079503727097.apps.fbsbx.com": "INACTIVE"
         },
         "1573208928": {
-            "graph.facebook.com": "INACTIVE",
-            "xx-fbcdn-shv-01-gru2.fbcdn.net": "INACTIVE"
+            "graph.facebook.com": "INACTIVE"
         },
         "1573208929": {
             "www.apps-232170860602554.apps.fbsbx.com": "INACTIVE",
@@ -1046,8 +1045,7 @@
         },
         "1573297551": {
             "irc.tfbnw.net": "INACTIVE",
-            "photos-a.xx.fbcdn.net": "INACTIVE",
-            "xx-fbcdn-shv-01-gru2.fbcdn.net": "INACTIVE"
+            "photos-a.xx.fbcdn.net": "INACTIVE"
         },
         "1573297556": {
             "aura-11-01-snc7.facebook.com": "INACTIVE"
@@ -1428,9 +1426,6 @@
         "1573944737": {
             "3-edge-chat.messenger.com": "INACTIVE",
             "profile-a-mia.xx.fbcdn.net": "INACTIVE"
-        },
-        "1573944738": {
-            "xx-fbcdn-shv-01-gru2.fbcdn.net": "INACTIVE"
         },
         "1573944744": {
             "oob-vpn-sjc.tfbnw.net": "INACTIVE"
@@ -2286,6 +2281,12 @@
         },
         "1576884875": {
             "attachments.facebook.com": "INACTIVE"
+        },
+        "1576889360": {
+            "m.messenger.com": "INACTIVE"
+        },
+        "1576889387": {
+            "m.messenger.com": "INACTIVE"
         }
     }
 }
