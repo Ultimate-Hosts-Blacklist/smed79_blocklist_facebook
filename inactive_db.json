@@ -2288,6 +2288,15 @@
         },
         "1577010540": {
             "edge-mqtt.facebook.com": "INACTIVE"
+        },
+        "1577012342": {
+            "m.messenger.com": "INACTIVE"
+        },
+        "1577012422": {
+            "z-p3-scontent.fbga1-1.fna.fbcdn.net": "INACTIVE"
+        },
+        "1577012423": {
+            "m.messenger.com": "INACTIVE"
         }
     }
 }

@@ -2,6 +2,8 @@
 # Date of generation: 2019-12-22T10:27:17.795301
 
 0.0.0.0 edge-mqtt.facebook.com
+0.0.0.0 m.messenger.com
 0.0.0.0 snafu.tfbnw.net
 0.0.0.0 z-m-scontent.fmex10-1.fna.fbcdn.net
 0.0.0.0 z-p3-scontent.faqa1-1.fna.fbcdn.net
+0.0.0.0 z-p3-scontent.fbga1-1.fna.fbcdn.net
