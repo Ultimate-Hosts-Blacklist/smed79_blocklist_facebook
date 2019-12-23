@@ -230,6 +230,7 @@ edge-mqtt-shv-01-nrt1.facebook.com
 edge-mqtt-shv-01-sea1.facebook.com
 edge-mqtt-shv-01-tpe1.facebook.com
 edge-mqtt-shv-01-vie1.facebook.com
+edge-mqtt.facebook.com
 edge-oculus-shv-01-lga3.fbcdn.net
 edge-oculus-shv-01-mia3.fbcdn.net
 edge-oculus-shv-01-sea1.fbcdn.net
@@ -724,6 +725,7 @@ silfra.facebook.net
 sk-sk.facebook.com
 sk-sk.messenger.com
 sl-si.messenger.com
+snafu.tfbnw.net
 snaptu-mini.facebook.com
 snaptu-p2.facebook.com
 snaptu-z.facebook.com
@@ -1051,6 +1053,7 @@ z-1-video.fszb1-1.fna.fbcdn.net
 z-m-graph.facebook.com
 z-m-scontent.fceb1-1.fna.fbcdn.net
 z-m-scontent.fdac1-1.fna.fbcdn.net
+z-m-scontent.fmex10-1.fna.fbcdn.net
 z-m.c10r.facebook.com
 z-m.facebook.com
 z-p3-cdn.fbsbx.com
@@ -1060,6 +1063,7 @@ z-p3-graph.facebook.com
 z-p3-lookaside.fbsbx.com
 z-p3-scontent-lax3-1.xx.fbcdn.net
 z-p3-scontent.facc1-1.fna.fbcdn.net
+z-p3-scontent.faqa1-1.fna.fbcdn.net
 z-p3-scontent.fsub1-1.fna.fbcdn.net
 z-p3-scontent.ftpa1-1.fna.fbcdn.net
 z-p3-video-vie1-1.xx.fbcdn.net
