@@ -839,9 +839,6 @@
             "a.ns.tfbnw.net": "INACTIVE",
             "z-1-lookaside.fbsbx.com": "INACTIVE"
         },
-        "1573125959": {
-            "oob2-vpn-iad.tfbnw.net": "INACTIVE"
-        },
         "1573208922": {
             "www.apps-166387070613883.apps.fbsbx.com": "INACTIVE"
         },
@@ -1549,9 +1546,6 @@
         "1574116862": {
             "irc-prn.tfbnw.net": "INACTIVE"
         },
-        "1574116867": {
-            "oob2-vpn-iad.tfbnw.net": "INACTIVE"
-        },
         "1574116875": {
             "fa08.ftw1.tfbnw.net": "INACTIVE"
         },
@@ -1663,9 +1657,6 @@
         "1574162300": {
             "edge-mqtt-shv-01-gru1.facebook.com": "INACTIVE"
         },
-        "1574162306": {
-            "oob2-vpn-iad.tfbnw.net": "INACTIVE"
-        },
         "1574162312": {
             "ae0.bb01.ams2.tfbnw.net": "INACTIVE"
         },
@@ -1726,9 +1717,6 @@
         },
         "1574289668": {
             "oob-vpn-sjc.tfbnw.net": "INACTIVE"
-        },
-        "1574289675": {
-            "oob2-vpn-iad.tfbnw.net": "INACTIVE"
         },
         "1574289680": {
             "edge-snaptu-http-p1-shv-01-mad1.facebook.com": "INACTIVE"
@@ -1921,9 +1909,6 @@
         "1574335226": {
             "edge-mqtt-shv-01-sea1.facebook.com": "INACTIVE"
         },
-        "1574335243": {
-            "oob2-vpn-iad.tfbnw.net": "INACTIVE"
-        },
         "1574335260": {
             "a.ns.tfbnw.net": "INACTIVE"
         },
@@ -2049,9 +2034,6 @@
         },
         "1574462678": {
             "oob1-vpn-sjc.tfbnw.net": "INACTIVE"
-        },
-        "1574462683": {
-            "oob2-vpn-iad.tfbnw.net": "INACTIVE"
         },
         "1574462689": {
             "ae10.bb01.atl1.tfbnw.net": "INACTIVE"
@@ -2273,6 +2255,21 @@
         },
         "1577621535": {
             "z-p3-scontent.fbga1-1.fna.fbcdn.net": "INACTIVE"
+        },
+        "1577746900": {
+            "z-p3-scontent.ftpa1-1.fna.fbcdn.net": "INACTIVE"
+        },
+        "1577746979": {
+            "b-www.facebook.com": "INACTIVE"
+        },
+        "1577747083": {
+            "f6eec677a80kdno4pyq-kxornjlf1521512613-sonar.xz.fbcdn.net": "INACTIVE"
+        },
+        "1577747143": {
+            "sk-sk.facebook.com": "INACTIVE"
+        },
+        "1577747305": {
+            "m.messenger.com": "INACTIVE"
         }
     }
 }
