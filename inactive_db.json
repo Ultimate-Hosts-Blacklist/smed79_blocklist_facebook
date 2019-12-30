@@ -1014,9 +1014,6 @@
             "mabasic.beta.facebook.net": "INACTIVE",
             "sphotos-a-pao.xx.fbcdn.net": "INACTIVE"
         },
-        "1573297530": {
-            "instagram-p3-shv-01-frt3.fbcdn.net": "INACTIVE"
-        },
         "1573297532": {
             "www.apps-325224894889683.apps.fbsbx.com": "INACTIVE"
         },
@@ -2269,6 +2266,9 @@
             "sk-sk.facebook.com": "INACTIVE"
         },
         "1577747305": {
+            "m.messenger.com": "INACTIVE"
+        },
+        "1577750166": {
             "m.messenger.com": "INACTIVE"
         }
     }

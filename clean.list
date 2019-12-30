@@ -159,7 +159,6 @@ b-api.alpha.facebook.com
 b-api.facebook.com
 b-graph.facebook.com
 b-m.facebook.com
-b-www.facebook.com
 b.beta.facebook.net
 b.ns.facebook.com
 b.ns.t.facebook.net
@@ -195,6 +194,7 @@ cs-cz.facebook.com
 cs-cz.messenger.com
 d.facebook.com
 d.fb.me
+d028.fma.fb.me
 da-dk.facebook.com
 da-dk.messenger.com
 de-de.facebook.com
@@ -253,8 +253,10 @@ edge-star-shv-01-lga3.facebook.com
 edge-star-shv-01-lhr3.facebook.com
 edge-video-shv-01-arn2.fbcdn.net
 edge-video-shv-01-yyz1.fbcdn.net
+edge-video-shv-02-sin6.fbcdn.net
 edgeray-shv-01-bru2.facebook.com
 edgeray-shv-01-cdg2.facebook.com
+edgeray-shv-01-gru1.facebook.com
 edgeray-shv-01-iad3.facebook.com
 edgeray-shv-01-lhr3.facebook.com
 edgeray-shv-01-mad1.facebook.com
@@ -295,7 +297,6 @@ external.ftpa1-1.fna.fbcdn.net
 external.fvit1-1.fna.fbcdn.net
 f.m.me
 f.messenger.com
-f6eec677a80kdno4pyq-kxornjlf1521512613-sonar.xz.fbcdn.net
 f91858abe80k2geylvi-zhianuzp1521559729-sonar.xx.fbcdn.net
 fa08.ftw1.tfbnw.net
 facebook-web-clients.appspot.com
@@ -464,6 +465,7 @@ lookaside.fbsbx.com
 lt-lt.facebook.com
 lt-lt.fb.me
 lt-lt.messenger.com
+m.ar-ar.he-il.fb.me
 m.facebook.com
 m.fb.me
 m.m.me
@@ -497,7 +499,6 @@ mtouch.facebook.com
 mx.fb.me
 mx.messenger.com
 mysql.mirror.facebook.net
-nb-no.facebook.com
 nb-no.messenger.com
 ncontent.xx.fbcdn.net
 newsroom.fb.com
@@ -522,7 +523,6 @@ oob2-vpn-sjc.tfbnw.net
 or.fb.me
 origincache-ash.t.fbcdn.net
 origincache-cln.fbsbx.com
-origincache-frc.fbsbx.com
 origincache-frc.t.fbcdn.net
 origincache-lla.fbcdn.net
 origincache-prn.t.fbcdn.net
@@ -587,6 +587,7 @@ ru-ru.messenger.com
 ru-ru.vi-vn.fb.me
 rupload.facebook.com
 s.update.fbsbx.com
+scontent-a-ams.xx.fbcdn.net
 scontent-a-atl.xx.fbcdn.net
 scontent-a-cdg.xx.fbcdn.net
 scontent-a-dfw.xx.fbcdn.net
@@ -717,7 +718,6 @@ scontent.fybz2-2.fna.fbcdn.net
 scontent.fymy1-2.fna.fbcdn.net
 scontent.xx.fbcdn.net
 silfra.facebook.net
-sk-sk.facebook.com
 sk-sk.messenger.com
 sl-si.messenger.com
 snafu.tfbnw.net
@@ -1001,6 +1001,7 @@ xx-fbcdn-shv-01-amt2.fbcdn.net
 xx-fbcdn-shv-01-arn2.fbcdn.net
 xx-fbcdn-shv-01-atl3.fbcdn.net
 xx-fbcdn-shv-01-bog1.fbcdn.net
+xx-fbcdn-shv-01-bom1.fbcdn.net
 xx-fbcdn-shv-01-bru2.fbcdn.net
 xx-fbcdn-shv-01-cdg2.fbcdn.net
 xx-fbcdn-shv-01-dfw5.fbcdn.net
@@ -1058,7 +1059,7 @@ z-p3-lookaside.fbsbx.com
 z-p3-scontent-lax3-1.xx.fbcdn.net
 z-p3-scontent.facc1-1.fna.fbcdn.net
 z-p3-scontent.faqa1-1.fna.fbcdn.net
-z-p3-scontent.ftpa1-1.fna.fbcdn.net
+z-p3-scontent.fsub1-1.fna.fbcdn.net
 z-p3-video-vie1-1.xx.fbcdn.net
 z-p3-video.flpb1-1.fna.fbcdn.net
 z-p3-video.fpfb1-1.fna.fbcdn.net
