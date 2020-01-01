@@ -206,7 +206,6 @@
             "stun.fbsbx.com": "INACTIVE"
         },
         "1572646073": {
-            "edge-snaptu-http-p1-shv-01-sea1.facebook.com": "INACTIVE",
             "instagram-p3-shv-01-sea1.fbcdn.net": "INACTIVE",
             "www.apps-1942263932536467.apps.fbsbx.com": "INACTIVE",
             "www.apps-253763508667335.apps.fbsbx.com": "INACTIVE"
@@ -1597,9 +1596,6 @@
         "1574162181": {
             "po213.psw02.fra5.tfbnw.net": "INACTIVE"
         },
-        "1574162187": {
-            "edge-snaptu-http-p1-shv-01-sea1.facebook.com": "INACTIVE"
-        },
         "1574162193": {
             "oob-vpn-sjc.tfbnw.net": "INACTIVE"
         },
@@ -1784,9 +1780,6 @@
         },
         "1574289832": {
             "bb01.sea1.tfbnw.net": "INACTIVE"
-        },
-        "1574289838": {
-            "edge-snaptu-http-p1-shv-01-sea1.facebook.com": "INACTIVE"
         },
         "1574289844": {
             "dr02.nao1.tfbnw.net": "INACTIVE"
@@ -2126,9 +2119,6 @@
         "1574462916": {
             "ae0.pr03.sjc1.tfbnw.net": "INACTIVE"
         },
-        "1574462924": {
-            "edge-snaptu-http-p1-shv-01-sea1.facebook.com": "INACTIVE"
-        },
         "1574462931": {
             "edgeray-shv-01-sea1.facebook.com": "INACTIVE"
         },
@@ -2270,6 +2260,9 @@
         },
         "1577750166": {
             "m.messenger.com": "INACTIVE"
+        },
+        "1577919941": {
+            "video-iad3-1.xx.fbcdn.net": "INACTIVE"
         }
     }
 }
