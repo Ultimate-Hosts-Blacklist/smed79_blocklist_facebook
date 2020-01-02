@@ -150,6 +150,7 @@ az-az.fb.me
 b-api.alpha.facebook.com
 b-graph.facebook.com
 b-m.facebook.com
+b-www.facebook.com
 b.beta.facebook.net
 b.ns.facebook.com
 b.ns.t.facebook.net
@@ -286,6 +287,7 @@ external.ftpa1-1.fna.fbcdn.net
 external.fvit1-1.fna.fbcdn.net
 f.m.me
 f.messenger.com
+f6eec677a80kdno4pyq-kxornjlf1521512613-sonar.xz.fbcdn.net
 f91858abe80k2geylvi-zhianuzp1521559729-sonar.xx.fbcdn.net
 fa08.ftw1.tfbnw.net
 facebook-web-clients.appspot.com
@@ -474,7 +476,6 @@ mobile.messenger.com
 more.fb.me
 mozilla.mirror.facebook.net
 mqtt-mini.facebook.com
-mqtt.c10r.facebook.com
 ms-my.facebook.com
 msn.messenger.com
 msw1ac.01.sea1.tfbnw.net
@@ -483,6 +484,7 @@ mtouch.facebook.com
 mx.fb.me
 mx.messenger.com
 mysql.mirror.facebook.net
+nb-no.facebook.com
 nb-no.messenger.com
 ncontent.xx.fbcdn.net
 newsroom.fb.com
@@ -507,6 +509,7 @@ oob2-vpn-sjc.tfbnw.net
 or.fb.me
 origincache-ash.t.fbcdn.net
 origincache-cln.fbsbx.com
+origincache-frc.fbsbx.com
 origincache-frc.t.fbcdn.net
 origincache-lla.fbcdn.net
 origincache-prn.t.fbcdn.net
@@ -699,6 +702,7 @@ scontent.fwbw1-1.fna.fbcdn.net
 scontent.fybz2-2.fna.fbcdn.net
 scontent.fymy1-2.fna.fbcdn.net
 silfra.facebook.net
+sk-sk.facebook.com
 sk-sk.messenger.com
 sl-si.messenger.com
 snafu.tfbnw.net
@@ -791,7 +795,6 @@ vi-vn.fb.me
 vi-vn.messenger.com
 vi-vn.www.on.fb.me
 video-hkg3-1.xx.fbcdn.net
-video-iad3-1.xx.fbcdn.net
 video-sof1-1.xx.fbcdn.net
 video.facc1-1.fna.fbcdn.net
 video.fada1-10.fna.fbcdn.net
@@ -1034,6 +1037,7 @@ z-p3-scontent-lax3-1.xx.fbcdn.net
 z-p3-scontent.facc1-1.fna.fbcdn.net
 z-p3-scontent.faqa1-1.fna.fbcdn.net
 z-p3-scontent.fsub1-1.fna.fbcdn.net
+z-p3-scontent.ftpa1-1.fna.fbcdn.net
 z-p3-video-vie1-1.xx.fbcdn.net
 z-p3-video.flpb1-1.fna.fbcdn.net
 z-p3-video.fpfb1-1.fna.fbcdn.net

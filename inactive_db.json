@@ -1153,9 +1153,6 @@
         "1573944376": {
             "en.fb.me": "INACTIVE"
         },
-        "1573944389": {
-            "fna-fbcdn-shv-02-fdet1.fbcdn.net": "INACTIVE"
-        },
         "1573944404": {
             "instagram-p3-shv-02-lax3.fbcdn.net": "INACTIVE"
         },
@@ -2263,6 +2260,12 @@
         },
         "1577919941": {
             "video-iad3-1.xx.fbcdn.net": "INACTIVE"
+        },
+        "1577923370": {
+            "z-p3-scontent.fbga1-1.fna.fbcdn.net": "INACTIVE"
+        },
+        "1577923373": {
+            "m.messenger.com": "INACTIVE"
         }
     }
 }
