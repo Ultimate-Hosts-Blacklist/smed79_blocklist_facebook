@@ -48,7 +48,6 @@
             "www.apps-430637457408280.apps.fbsbx.com": "INACTIVE"
         },
         "1572645915": {
-            "ae0.bb01.atl1.tfbnw.net": "INACTIVE",
             "edgeray-shv-01-mad1.facebook.com": "INACTIVE",
             "www.apps-236694420248901.apps.fbsbx.com": "INACTIVE",
             "www.apps-261796957853828.apps.fbsbx.com": "INACTIVE"
@@ -1620,9 +1619,6 @@
         "1574162241": {
             "dr01.snc1.tfbnw.net": "INACTIVE"
         },
-        "1574162246": {
-            "ae0.bb01.atl1.tfbnw.net": "INACTIVE"
-        },
         "1574162252": {
             "z-p3-scontent.fbga1-1.fna.fbcdn.net": "INACTIVE"
         },
@@ -1789,9 +1785,6 @@
         },
         "1574289864": {
             "msw1ao.01.gru2.tfbnw.net": "INACTIVE"
-        },
-        "1574289870": {
-            "ae0.bb01.atl1.tfbnw.net": "INACTIVE"
         },
         "1574289883": {
             "po106.psw04.mia3.tfbnw.net": "INACTIVE"
@@ -2098,9 +2091,6 @@
         "1574462877": {
             "a.ns.t.facebook.net": "INACTIVE"
         },
-        "1574462882": {
-            "ae0.bb01.atl1.tfbnw.net": "INACTIVE"
-        },
         "1574462889": {
             "po103.psw01.lga3.tfbnw.net": "INACTIVE"
         },
@@ -2266,6 +2256,12 @@
         },
         "1577923373": {
             "m.messenger.com": "INACTIVE"
+        },
+        "1578093386": {
+            "instagram.fssa11-1.fna.fbcdn.net": "INACTIVE"
+        },
+        "1578093579": {
+            "lt-lt.fb.me": "INACTIVE"
         }
     }
 }
