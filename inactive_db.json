@@ -220,9 +220,6 @@
             "www.apps-365534404016002.apps.fbsbx.com": "INACTIVE",
             "www.apps.fbsbx.com": "INACTIVE"
         },
-        "1572818992": {
-            "po103.psw01.lga3.tfbnw.net": "INACTIVE"
-        },
         "1572818993": {
             "www.apps-936118136567755.apps.fbsbx.com": "INACTIVE"
         },
@@ -1235,8 +1232,7 @@
             "edge-sonar-mini-shv-01-ort2.fbcdn.net": "INACTIVE"
         },
         "1573944536": {
-            "instagram-p3-shv-01-amt2.fbcdn.net": "INACTIVE",
-            "po103.psw01.lga3.tfbnw.net": "INACTIVE"
+            "instagram-p3-shv-01-amt2.fbcdn.net": "INACTIVE"
         },
         "1573944547": {
             "ae59.pr03.sin1.tfbnw.net": "INACTIVE"
@@ -1434,9 +1430,6 @@
         },
         "1574116668": {
             "a.ns.facebook.com": "INACTIVE"
-        },
-        "1574116679": {
-            "po103.psw01.lga3.tfbnw.net": "INACTIVE"
         },
         "1574116690": {
             "edge-snaptu-http-p1-shv-01-lhr3.facebook.com": "INACTIVE"
@@ -1655,9 +1648,6 @@
         "1574162364": {
             "edge-mqtt-shv-01-bru2.facebook.com": "INACTIVE"
         },
-        "1574162370": {
-            "po103.psw01.lga3.tfbnw.net": "INACTIVE"
-        },
         "1574162371": {
             "edgeray-shv-01-gru1.facebook.com": "INACTIVE"
         },
@@ -1788,9 +1778,6 @@
         "1574289908": {
             "a.ns.t.facebook.net": "INACTIVE"
         },
-        "1574289915": {
-            "po103.psw01.lga3.tfbnw.net": "INACTIVE"
-        },
         "1574289922": {
             "ae0.bb01.ams2.tfbnw.net": "INACTIVE",
             "edgeray-shv-01-gru1.facebook.com": "INACTIVE"
@@ -1891,9 +1878,6 @@
         },
         "1574335286": {
             "ae10.bb01.atl1.tfbnw.net": "INACTIVE"
-        },
-        "1574335292": {
-            "po103.psw01.lga3.tfbnw.net": "INACTIVE"
         },
         "1574335298": {
             "edge-snaptu-http-p1-shv-01-gru1.facebook.com": "INACTIVE"
@@ -2075,9 +2059,6 @@
         "1574462877": {
             "a.ns.t.facebook.net": "INACTIVE"
         },
-        "1574462889": {
-            "po103.psw01.lga3.tfbnw.net": "INACTIVE"
-        },
         "1574462898": {
             "edge-snaptu-http-p1-shv-01-mad1.facebook.com": "INACTIVE"
         },
@@ -2248,6 +2229,12 @@
             "lt-lt.fb.me": "INACTIVE"
         },
         "1578096659": {
+            "m.messenger.com": "INACTIVE"
+        },
+        "1578221759": {
+            "m.messenger.com": "INACTIVE"
+        },
+        "1578221844": {
             "m.messenger.com": "INACTIVE"
         }
     }
