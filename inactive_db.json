@@ -99,7 +99,6 @@
         },
         "1572645964": {
             "edge-mqtt-shv-01-bru2.facebook.com": "INACTIVE",
-            "silfra.facebook.net": "INACTIVE",
             "www.apps-308084433059751.apps.fbsbx.com": "INACTIVE"
         },
         "1572645969": {
@@ -396,7 +395,6 @@
             "edge-mqtt-shv-01-bru2.facebook.com": "INACTIVE"
         },
         "1572819130": {
-            "silfra.facebook.net": "INACTIVE",
             "www.apps-1942263932536467.apps.fbsbx.com": "INACTIVE"
         },
         "1572819135": {
@@ -1213,9 +1211,6 @@
         },
         "1573944509": {
             "bb01.sea1.tfbnw.net": "INACTIVE"
-        },
-        "1573944515": {
-            "silfra.facebook.net": "INACTIVE"
         },
         "1573944520": {
             "msw1ac.01.sea1.tfbnw.net": "INACTIVE"
@@ -2238,6 +2233,9 @@
             "z-p3-scontent.fbga1-1.fna.fbcdn.net": "INACTIVE"
         },
         "1578352383": {
+            "m.messenger.com": "INACTIVE"
+        },
+        "1578698238": {
             "m.messenger.com": "INACTIVE"
         }
     }
