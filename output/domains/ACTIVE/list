@@ -153,6 +153,7 @@ atlas.c10r.facebook.com
 atlasdirect.com
 attachment.fbsbx.com
 attachments.facebook.com
+aura-11-01-snc7.facebook.com
 autodiscover.messenger.com
 az-az.facebook.com
 az-az.fb.me
@@ -160,6 +161,7 @@ badge.facebook.com
 b-api.alpha.facebook.com
 b-api.facebook.com
 bb01.cdg1.tfbnw.net
+bb01.sea1.tfbnw.net
 b.beta.facebook.net
 beta.facebook.net
 beta.fb.me
@@ -210,8 +212,10 @@ dr02.nao1.tfbnw.net
 edge-atlas-shv-01-bru2.facebook.com
 edge-atlas-shv-01-cdg2.facebook.com
 edge-atlas-shv-01-gru1.facebook.com
+edge-atlas-shv-01-iad3.facebook.com
 edge-atlas-shv-01-lhr3.facebook.com
 edge-atlas-shv-01-mad1.facebook.com
+edge-atlas-shv-01-mxp1.facebook.com
 edge-atlas-shv-01-nrt1.facebook.com
 edge-atlas-shv-01-sea1.facebook.com
 edge-atlas-shv-01-vie1.facebook.com
@@ -344,6 +348,7 @@ graph.fb.me
 he-il.el-gr.fb.me
 he-il.facebook.com
 he-il.fb.me
+helpdesk.tfbnw.net
 herningrideklub.netscontent-a-ams.xx.fbcdn.net
 h.fb.me
 hi5.messenger.com
@@ -394,6 +399,7 @@ instagram.fyka1-1.fna.fbcdn.net
 instagram-p15-shv-01-iad3.fbcdn.net
 instagram-p3-shv-01-amt2.fbcdn.net
 instagram-p3-shv-01-arn2.fbcdn.net
+instagram-p3-shv-01-atl3.fbcdn.net
 instagram-p3-shv-01-bru2.fbcdn.net
 instagram-p3-shv-01-cdg2.fbcdn.net
 instagram-p3-shv-01-cdt1.fbcdn.net
@@ -402,6 +408,7 @@ instagram-p3-shv-01-hkg3.fbcdn.net
 instagram-p3-shv-01-iad3.fbcdn.net
 instagram-p3-shv-01-kut2.fbcdn.net
 instagram-p3-shv-01-lax3.fbcdn.net
+instagram-p3-shv-01-lga3.fbcdn.net
 instagram-p3-shv-01-lhr3.fbcdn.net
 instagram-p3-shv-01-mad1.fbcdn.net
 instagram-p3-shv-01-mxp1.fbcdn.net
@@ -412,10 +419,12 @@ instagram-p3-shv-01-sin6.fbcdn.net
 instagram-p3-shv-01-sjc3.fbcdn.net
 instagram-p3-shv-01-vie1.fbcdn.net
 instagram-p3-shv-01-waw1.fbcdn.net
+instagram-p3-shv-01-yyz1.fbcdn.net
 instagram-p3-shv-02-frt3.fbcdn.net
 instagram-p3-shv-02-lax3.fbcdn.net
 instagram-p3-shv-02-ort2.fbcdn.net
 instagram-p3-shv-02-sin6.fbcdn.net
+instagram-p42-shv-01-iad3.fbcdn.net
 instagram-p42-shv-01-lga3.fbcdn.net
 instagramstatic-a.akamaihd.net
 instagramstatic-a.akamaihd.net.edgesuite.net
@@ -509,8 +518,8 @@ of.fb.me
 oh.fb.me
 ol.fb.me
 om.fb.me
-on.fb.me
 o.n.fb.me
+on.fb.me
 oob1-vpn-sjc.tfbnw.net
 oob2-vpn-iad.tfbnw.net
 oob2-vpn-sjc.tfbnw.net
@@ -527,6 +536,7 @@ pa-in.facebook.com
 paltalk.messenger.com
 pdlvimeocdn-a.akamaihd.net
 photos-a-ord.xx.fbcdn.net
+photos-a.xx.fbcdn.net
 photos-b-ord.xx.fbcdn.net
 photos-b.xx.fbcdn.net
 php.mirror.facebook.net
@@ -550,10 +560,12 @@ postmaster.fb.me
 presence.facebook.net
 prodigy.messenger.com
 prod.messenger.com
+profile-a-atl.xx.fbcdn.net
 profile-a-dfw.xx.fbcdn.net
 profile-a-iad.xx.fbcdn.net
 profile-a-lax.xx.fbcdn.net
 profile-a-lga.xx.fbcdn.net
+profile-a-mia.xx.fbcdn.net
 profile-a-ord.xx.fbcdn.net
 profile-a-sea.xx.fbcdn.net
 profile-a-sjc.xx.fbcdn.net
@@ -686,6 +698,7 @@ scontent-hkg3-2.xx.fbcdn.net
 scontent-iad3-1.xx.fbcdn.net
 scontent-icn1-1.xx.fbcdn.net
 scontent-lax3-1.xx.fbcdn.net
+scontent-lax3-2.xx.fbcdn.net
 scontent-lax.xx.fbcdn.net
 scontent-lga3-1.xx.fbcdn.net
 scontent-lga.xx.fbcdn.net
@@ -725,6 +738,7 @@ sonar-iad.xx.fbcdn.net
 sphotos-a-ams.xx.fbcdn.net
 sphotos-a-atl.xx.fbcdn.net
 sphotos-a-cdg.xx.fbcdn.net
+sphotos-a-dfw.xx.fbcdn.net
 sphotos-a-iad.xx.fbcdn.net
 sphotos-a-lax.xx.fbcdn.net
 sphotos-a-lga.xx.fbcdn.net
@@ -735,14 +749,19 @@ sphotos-a-mxp.xx.fbcdn.net
 sphotos-a-ord.xx.fbcdn.net
 sphotos-a-pao.xx.fbcdn.net
 sphotos-a-sea.xx.fbcdn.net
+sphotos-a-sjc.xx.fbcdn.net
 sphotos-a-vie.xx.fbcdn.net
+sphotos-a.xx.fbcdn.net
 sphotos-b-ams.xx.fbcdn.net
 sphotos-b-atl.xx.fbcdn.net
+sphotos-b-cdg.xx.fbcdn.net
 sphotos-b-dfw.xx.fbcdn.net
 sphotos-b-iad.xx.fbcdn.net
 sphotos-b-lax.xx.fbcdn.net
 sphotos-b-lga.xx.fbcdn.net
+sphotos-b-lhr.xx.fbcdn.net
 sphotos-b-mad.xx.fbcdn.net
+sphotos-b-mia.xx.fbcdn.net
 sphotos-b-mxp.xx.fbcdn.net
 sphotos-b-ord.xx.fbcdn.net
 sphotosbord.xx.fbcdn.net
@@ -987,7 +1006,9 @@ xn--n-wya.fb.me
 xn--o-ila.fb.me
 xx-fbcdn6-shv-01-atl3.fbcdn.net
 xx-fbcdn6-shv-01-lax3.fbcdn.net
+xx-fbcdn-shv-01-amt2.fbcdn.net
 xx-fbcdn-shv-01-arn2.fbcdn.net
+xx-fbcdn-shv-01-atl3.fbcdn.net
 xx-fbcdn-shv-01-bog1.fbcdn.net
 xx-fbcdn-shv-01-bom1.fbcdn.net
 xx-fbcdn-shv-01-bru2.fbcdn.net
@@ -998,8 +1019,10 @@ xx-fbcdn-shv-01-frt3.fbcdn.net
 xx-fbcdn-shv-01-gru1.fbcdn.net
 xx-fbcdn-shv-01-gru2.fbcdn.net
 xx-fbcdn-shv-01-hkg3.fbcdn.net
+xx-fbcdn-shv-01-iad3.fbcdn.net
 xx-fbcdn-shv-01-icn1.fbcdn.net
 xx-fbcdn-shv-01-kut2.fbcdn.net
+xx-fbcdn-shv-01-lax3.fbcdn.net
 xx-fbcdn-shv-01-lga3.fbcdn.net
 xx-fbcdn-shv-01-lhr3.fbcdn.net
 xx-fbcdn-shv-01-lht6.fbcdn.net
@@ -1015,6 +1038,7 @@ xx-fbcdn-shv-01-syd2.fbcdn.net
 xx-fbcdn-shv-01-tpe1.fbcdn.net
 xx-fbcdn-shv-01-vie1.fbcdn.net
 xx-fbcdn-shv-01-waw1.fbcdn.net
+xx-fbcdn-shv-01-yyz1.fbcdn.net
 xx-fbcdn-shv-02-frt3.fbcdn.net
 xx-fbcdn-shv-02-ort2.fbcdn.net
 xx-fbcdn-shv-02-sin6.fbcdn.net
@@ -1031,6 +1055,7 @@ z-1-scontent.xx.fbcdn.net
 z-1-video.fpoa10-1.fna.fbcdn.net
 z-1-video.fszb1-1.fna.fbcdn.net
 zero.fb.me
+z.fma.fb.me
 zh-cn.facebook.com
 zh-cn.messenger.com
 zh-cn.www.on.fb.me

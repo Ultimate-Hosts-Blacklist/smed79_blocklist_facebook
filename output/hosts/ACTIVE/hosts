@@ -153,6 +153,7 @@
 0.0.0.0 atlasdirect.com
 0.0.0.0 attachment.fbsbx.com
 0.0.0.0 attachments.facebook.com
+0.0.0.0 aura-11-01-snc7.facebook.com
 0.0.0.0 autodiscover.messenger.com
 0.0.0.0 az-az.facebook.com
 0.0.0.0 az-az.fb.me
@@ -160,6 +161,7 @@
 0.0.0.0 b-api.alpha.facebook.com
 0.0.0.0 b-api.facebook.com
 0.0.0.0 bb01.cdg1.tfbnw.net
+0.0.0.0 bb01.sea1.tfbnw.net
 0.0.0.0 b.beta.facebook.net
 0.0.0.0 beta.facebook.net
 0.0.0.0 beta.fb.me
@@ -210,8 +212,10 @@
 0.0.0.0 edge-atlas-shv-01-bru2.facebook.com
 0.0.0.0 edge-atlas-shv-01-cdg2.facebook.com
 0.0.0.0 edge-atlas-shv-01-gru1.facebook.com
+0.0.0.0 edge-atlas-shv-01-iad3.facebook.com
 0.0.0.0 edge-atlas-shv-01-lhr3.facebook.com
 0.0.0.0 edge-atlas-shv-01-mad1.facebook.com
+0.0.0.0 edge-atlas-shv-01-mxp1.facebook.com
 0.0.0.0 edge-atlas-shv-01-nrt1.facebook.com
 0.0.0.0 edge-atlas-shv-01-sea1.facebook.com
 0.0.0.0 edge-atlas-shv-01-vie1.facebook.com
@@ -344,6 +348,7 @@
 0.0.0.0 he-il.el-gr.fb.me
 0.0.0.0 he-il.facebook.com
 0.0.0.0 he-il.fb.me
+0.0.0.0 helpdesk.tfbnw.net
 0.0.0.0 herningrideklub.netscontent-a-ams.xx.fbcdn.net
 0.0.0.0 h.fb.me
 0.0.0.0 hi5.messenger.com
@@ -394,6 +399,7 @@
 0.0.0.0 instagram-p15-shv-01-iad3.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-amt2.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-arn2.fbcdn.net
+0.0.0.0 instagram-p3-shv-01-atl3.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-bru2.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-cdg2.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-cdt1.fbcdn.net
@@ -402,6 +408,7 @@
 0.0.0.0 instagram-p3-shv-01-iad3.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-kut2.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-lax3.fbcdn.net
+0.0.0.0 instagram-p3-shv-01-lga3.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-lhr3.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-mad1.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-mxp1.fbcdn.net
@@ -412,10 +419,12 @@
 0.0.0.0 instagram-p3-shv-01-sjc3.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-vie1.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-waw1.fbcdn.net
+0.0.0.0 instagram-p3-shv-01-yyz1.fbcdn.net
 0.0.0.0 instagram-p3-shv-02-frt3.fbcdn.net
 0.0.0.0 instagram-p3-shv-02-lax3.fbcdn.net
 0.0.0.0 instagram-p3-shv-02-ort2.fbcdn.net
 0.0.0.0 instagram-p3-shv-02-sin6.fbcdn.net
+0.0.0.0 instagram-p42-shv-01-iad3.fbcdn.net
 0.0.0.0 instagram-p42-shv-01-lga3.fbcdn.net
 0.0.0.0 instagramstatic-a.akamaihd.net
 0.0.0.0 instagramstatic-a.akamaihd.net.edgesuite.net
@@ -509,8 +518,8 @@
 0.0.0.0 oh.fb.me
 0.0.0.0 ol.fb.me
 0.0.0.0 om.fb.me
-0.0.0.0 o.n.fb.me
 0.0.0.0 on.fb.me
+0.0.0.0 o.n.fb.me
 0.0.0.0 oob1-vpn-sjc.tfbnw.net
 0.0.0.0 oob2-vpn-iad.tfbnw.net
 0.0.0.0 oob2-vpn-sjc.tfbnw.net
@@ -527,6 +536,7 @@
 0.0.0.0 paltalk.messenger.com
 0.0.0.0 pdlvimeocdn-a.akamaihd.net
 0.0.0.0 photos-a-ord.xx.fbcdn.net
+0.0.0.0 photos-a.xx.fbcdn.net
 0.0.0.0 photos-b-ord.xx.fbcdn.net
 0.0.0.0 photos-b.xx.fbcdn.net
 0.0.0.0 php.mirror.facebook.net
@@ -550,10 +560,12 @@
 0.0.0.0 presence.facebook.net
 0.0.0.0 prodigy.messenger.com
 0.0.0.0 prod.messenger.com
+0.0.0.0 profile-a-atl.xx.fbcdn.net
 0.0.0.0 profile-a-dfw.xx.fbcdn.net
 0.0.0.0 profile-a-iad.xx.fbcdn.net
 0.0.0.0 profile-a-lax.xx.fbcdn.net
 0.0.0.0 profile-a-lga.xx.fbcdn.net
+0.0.0.0 profile-a-mia.xx.fbcdn.net
 0.0.0.0 profile-a-ord.xx.fbcdn.net
 0.0.0.0 profile-a-sea.xx.fbcdn.net
 0.0.0.0 profile-a-sjc.xx.fbcdn.net
@@ -686,6 +698,7 @@
 0.0.0.0 scontent-iad3-1.xx.fbcdn.net
 0.0.0.0 scontent-icn1-1.xx.fbcdn.net
 0.0.0.0 scontent-lax3-1.xx.fbcdn.net
+0.0.0.0 scontent-lax3-2.xx.fbcdn.net
 0.0.0.0 scontent-lax.xx.fbcdn.net
 0.0.0.0 scontent-lga3-1.xx.fbcdn.net
 0.0.0.0 scontent-lga.xx.fbcdn.net
@@ -725,6 +738,7 @@
 0.0.0.0 sphotos-a-ams.xx.fbcdn.net
 0.0.0.0 sphotos-a-atl.xx.fbcdn.net
 0.0.0.0 sphotos-a-cdg.xx.fbcdn.net
+0.0.0.0 sphotos-a-dfw.xx.fbcdn.net
 0.0.0.0 sphotos-a-iad.xx.fbcdn.net
 0.0.0.0 sphotos-a-lax.xx.fbcdn.net
 0.0.0.0 sphotos-a-lga.xx.fbcdn.net
@@ -735,17 +749,22 @@
 0.0.0.0 sphotos-a-ord.xx.fbcdn.net
 0.0.0.0 sphotos-a-pao.xx.fbcdn.net
 0.0.0.0 sphotos-a-sea.xx.fbcdn.net
+0.0.0.0 sphotos-a-sjc.xx.fbcdn.net
 0.0.0.0 sphotos-a-vie.xx.fbcdn.net
+0.0.0.0 sphotos-a.xx.fbcdn.net
 0.0.0.0 sphotos-b-ams.xx.fbcdn.net
 0.0.0.0 sphotos-b-atl.xx.fbcdn.net
+0.0.0.0 sphotos-b-cdg.xx.fbcdn.net
 0.0.0.0 sphotos-b-dfw.xx.fbcdn.net
 0.0.0.0 sphotos-b-iad.xx.fbcdn.net
 0.0.0.0 sphotos-b-lax.xx.fbcdn.net
 0.0.0.0 sphotos-b-lga.xx.fbcdn.net
+0.0.0.0 sphotos-b-lhr.xx.fbcdn.net
 0.0.0.0 sphotos-b-mad.xx.fbcdn.net
+0.0.0.0 sphotos-b-mia.xx.fbcdn.net
 0.0.0.0 sphotos-b-mxp.xx.fbcdn.net
-0.0.0.0 sphotosbord.xx.fbcdn.net
 0.0.0.0 sphotos-b-ord.xx.fbcdn.net
+0.0.0.0 sphotosbord.xx.fbcdn.net
 0.0.0.0 sphotos-b-pao.xx.fbcdn.net
 0.0.0.0 sphotos-b-sea.xx.fbcdn.net
 0.0.0.0 sphotos-b-sjc.xx.fbcdn.net
@@ -987,7 +1006,9 @@
 0.0.0.0 xn--o-ila.fb.me
 0.0.0.0 xx-fbcdn6-shv-01-atl3.fbcdn.net
 0.0.0.0 xx-fbcdn6-shv-01-lax3.fbcdn.net
+0.0.0.0 xx-fbcdn-shv-01-amt2.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-arn2.fbcdn.net
+0.0.0.0 xx-fbcdn-shv-01-atl3.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-bog1.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-bom1.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-bru2.fbcdn.net
@@ -998,8 +1019,10 @@
 0.0.0.0 xx-fbcdn-shv-01-gru1.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-gru2.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-hkg3.fbcdn.net
+0.0.0.0 xx-fbcdn-shv-01-iad3.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-icn1.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-kut2.fbcdn.net
+0.0.0.0 xx-fbcdn-shv-01-lax3.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-lga3.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-lhr3.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-lht6.fbcdn.net
@@ -1015,6 +1038,7 @@
 0.0.0.0 xx-fbcdn-shv-01-tpe1.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-vie1.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-waw1.fbcdn.net
+0.0.0.0 xx-fbcdn-shv-01-yyz1.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-02-frt3.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-02-ort2.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-02-sin6.fbcdn.net
@@ -1031,6 +1055,7 @@
 0.0.0.0 z-1-video.fpoa10-1.fna.fbcdn.net
 0.0.0.0 z-1-video.fszb1-1.fna.fbcdn.net
 0.0.0.0 zero.fb.me
+0.0.0.0 z.fma.fb.me
 0.0.0.0 zh-cn.facebook.com
 0.0.0.0 zh-cn.messenger.com
 0.0.0.0 zh-cn.www.on.fb.me
