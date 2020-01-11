@@ -728,9 +728,6 @@
         "1573125853": {
             "graph.fb.me": "INACTIVE"
         },
-        "1573125856": {
-            "profile-a-mia.xx.fbcdn.net": "INACTIVE"
-        },
         "1573125857": {
             "edge-mqtt-shv-01-cdg2.facebook.com": "INACTIVE"
         },
@@ -1378,8 +1375,7 @@
             "ae0.pr03.sjc1.tfbnw.net": "INACTIVE"
         },
         "1573944737": {
-            "3-edge-chat.messenger.com": "INACTIVE",
-            "profile-a-mia.xx.fbcdn.net": "INACTIVE"
+            "3-edge-chat.messenger.com": "INACTIVE"
         },
         "1573944744": {
             "oob-vpn-sjc.tfbnw.net": "INACTIVE"
