@@ -615,9 +615,6 @@
             "mqtt-mini.facebook.com": "INACTIVE",
             "www.apps-207011573569527.apps.fbsbx.com": "INACTIVE"
         },
-        "1572992046": {
-            "sphotos-b.xx.fbcdn.net": "INACTIVE"
-        },
         "1572992048": {
             "0-edge-chat.messenger.com": "INACTIVE",
             "edge-video-shv-01-arn2.fbcdn.net": "INACTIVE",
@@ -2232,6 +2229,9 @@
         },
         "1578701307": {
             "m.messenger.com": "INACTIVE"
+        },
+        "1579044962": {
+            "z-p3-scontent.fbga1-1.fna.fbcdn.net": "INACTIVE"
         }
     }
 }
