@@ -521,7 +521,6 @@
             "herningrideklub.netscontent-a-ams.xx.fbcdn.net": "INACTIVE"
         },
         "1572866418": {
-            "sphotos-a-ams.xx.fbcdn.net": "INACTIVE",
             "www.apps-226166117984247.apps.fbsbx.com": "INACTIVE",
             "xx-fbcdn-shv-01-atl3.fbcdn.net": "INACTIVE",
             "xx-fbcdn-shv-01-tpe1.fbcdn.net": "INACTIVE"
@@ -2232,6 +2231,9 @@
         },
         "1579044962": {
             "z-p3-scontent.fbga1-1.fna.fbcdn.net": "INACTIVE"
+        },
+        "1579049643": {
+            "m.messenger.com": "INACTIVE"
         }
     }
 }
