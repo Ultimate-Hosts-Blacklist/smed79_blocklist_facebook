@@ -1,17 +1,8 @@
 {
-    "current_stats": {
-        "builds": 1,
-        "counter": {
-            "down": 2,
-            "invalid": 0,
-            "tested": 970,
-            "up": 968
-        }
-    },
-    "currently_under_test": "1",
+    "currently_under_test": "0",
     "days_until_next_test": 1,
-    "end_datetime": "Sun Jan 19 00:08:02 2020",
-    "end_epoch": 1579392482.70167,
+    "end_datetime": "Sun Jan 19 21:04:52 2020",
+    "end_epoch": 1579467892.640732,
     "last_autosave_datetime": "Sun Jan 19 20:18:40 2020",
     "last_autosave_epoch": 1579465120.494243,
     "name": "smed79_blocklist_facebook",
