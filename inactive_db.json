@@ -88,8 +88,7 @@
             "www.fbcdn.com": "INACTIVE"
         },
         "1572645949": {
-            "sphotosbord.xx.fbcdn.net": "INACTIVE",
-            "tomcat.mfbcdn.net": "INACTIVE"
+            "sphotosbord.xx.fbcdn.net": "INACTIVE"
         },
         "1572645953": {
             "snaptu-mini.facebook.com": "INACTIVE"
@@ -1918,9 +1917,6 @@
         "1574462632": {
             "a.ns.tfbnw.net": "INACTIVE"
         },
-        "1574462633": {
-            "tomcat.mfbcdn.net": "INACTIVE"
-        },
         "1574462638": {
             "psw02.vie1.tfbnw.net": "INACTIVE"
         },
@@ -2224,6 +2220,9 @@
             "m.messenger.com": "INACTIVE"
         },
         "1579467685": {
+            "ae4.bb02.ams2.tfbnw.net": "INACTIVE"
+        },
+        "1579560021": {
             "ae4.bb02.ams2.tfbnw.net": "INACTIVE"
         }
     }
