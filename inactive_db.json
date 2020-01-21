@@ -192,7 +192,6 @@
         },
         "1572646062": {
             "edge-snaptu-http-p1-shv-01-cdg2.facebook.com": "INACTIVE",
-            "sphotos-a.xx.fbcdn.net": "INACTIVE",
             "z-p3-lookaside.fbsbx.com": "INACTIVE"
         },
         "1572646067": {
@@ -373,7 +372,6 @@
         },
         "1572819113": {
             "bb01.sea1.tfbnw.net": "INACTIVE",
-            "sphotos-a.xx.fbcdn.net": "INACTIVE",
             "www.apps-1939015149698140.apps.fbsbx.com": "INACTIVE",
             "www.apps-779934465677983.apps.fbsbx.com": "INACTIVE"
         },
@@ -2224,6 +2222,15 @@
         },
         "1579560021": {
             "ae4.bb02.ams2.tfbnw.net": "INACTIVE"
+        },
+        "1579649792": {
+            "ae4.bb02.ams2.tfbnw.net": "INACTIVE"
+        },
+        "1579649811": {
+            "z-p3-scontent.fbga1-1.fna.fbcdn.net": "INACTIVE"
+        },
+        "1579650043": {
+            "m.messenger.com": "INACTIVE"
         }
     }
 }
