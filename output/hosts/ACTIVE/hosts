@@ -16,6 +16,7 @@
 0.0.0.0 2.m.me
 0.0.0.0 348214209341889.apps.fbsbx.com
 0.0.0.0 3-edge-chat.facebook.com
+0.0.0.0 3-edge-chat.messenger.com
 0.0.0.0 3.fb.me
 0.0.0.0 3.m.me
 0.0.0.0 46.m.me
@@ -30,6 +31,7 @@
 0.0.0.0 a17-112-152-32.fb.me
 0.0.0.0 a5.fb.me
 0.0.0.0 acestrea.m.me
+0.0.0.0 ae0.bb01.ams2.tfbnw.net
 0.0.0.0 ae0.bb01.atl1.tfbnw.net
 0.0.0.0 ae0.bb01.bos2.tfbnw.net
 0.0.0.0 ae0.pr03.sjc1.tfbnw.net
@@ -151,6 +153,7 @@
 0.0.0.0 atlasdirect.com
 0.0.0.0 attachment.fbsbx.com
 0.0.0.0 attachments.facebook.com
+0.0.0.0 aura-11-01-snc7.facebook.com
 0.0.0.0 autodiscover.messenger.com
 0.0.0.0 az-az.facebook.com
 0.0.0.0 az-az.fb.me
@@ -389,6 +392,7 @@
 0.0.0.0 instagram.fssa11-1.fna.fbcdn.net
 0.0.0.0 instagram.fssa1-1.fna.fbcdn.net
 0.0.0.0 instagram.fsub1-1.fna.fbcdn.net
+0.0.0.0 instagram.fszb1-1.fna.fbcdn.net
 0.0.0.0 instagram.fvga1-1.fna.fbcdn.net
 0.0.0.0 instagram.fwaw3-1.fna.fbcdn.net
 0.0.0.0 instagram.fyka1-1.fna.fbcdn.net
@@ -419,6 +423,7 @@
 0.0.0.0 instagram-p3-shv-02-frt3.fbcdn.net
 0.0.0.0 instagram-p3-shv-02-lax3.fbcdn.net
 0.0.0.0 instagram-p3-shv-02-ort2.fbcdn.net
+0.0.0.0 instagram-p3-shv-02-sin6.fbcdn.net
 0.0.0.0 instagram-p42-shv-01-iad3.fbcdn.net
 0.0.0.0 instagram-p42-shv-01-lga3.fbcdn.net
 0.0.0.0 instagramstatic-a.akamaihd.net
@@ -426,6 +431,7 @@
 0.0.0.0 investor.fb.com
 0.0.0.0 irc.hack.tfbnw.net
 0.0.0.0 irc-prn.tfbnw.net
+0.0.0.0 irc.tfbnw.net
 0.0.0.0 irc.t.tfbnw.net
 0.0.0.0 isbahrain.co.m.me
 0.0.0.0 isbanka.m.me
@@ -514,6 +520,7 @@
 0.0.0.0 om.fb.me
 0.0.0.0 o.n.fb.me
 0.0.0.0 on.fb.me
+0.0.0.0 oob1-vpn-sjc.tfbnw.net
 0.0.0.0 oob2-vpn-iad.tfbnw.net
 0.0.0.0 oob2-vpn-sjc.tfbnw.net
 0.0.0.0 oob-vpn-sjc.tfbnw.net
@@ -733,6 +740,7 @@
 0.0.0.0 sphotos-a-cdg.xx.fbcdn.net
 0.0.0.0 sphotos-a-dfw.xx.fbcdn.net
 0.0.0.0 sphotos-a-iad.xx.fbcdn.net
+0.0.0.0 sphotos-a-lax.xx.fbcdn.net
 0.0.0.0 sphotos-a-lga.xx.fbcdn.net
 0.0.0.0 sphotos-a-lhr.xx.fbcdn.net
 0.0.0.0 sphotos-a-mad.xx.fbcdn.net
@@ -745,6 +753,7 @@
 0.0.0.0 sphotos-a-vie.xx.fbcdn.net
 0.0.0.0 sphotos-a.xx.fbcdn.net
 0.0.0.0 sphotos-b-ams.xx.fbcdn.net
+0.0.0.0 sphotos-b-atl.xx.fbcdn.net
 0.0.0.0 sphotos-b-cdg.xx.fbcdn.net
 0.0.0.0 sphotos-b-dfw.xx.fbcdn.net
 0.0.0.0 sphotos-b-iad.xx.fbcdn.net
@@ -1007,6 +1016,7 @@
 0.0.0.0 xx-fbcdn-shv-01-dfw5.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-eze1.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-frt3.fbcdn.net
+0.0.0.0 xx-fbcdn-shv-01-gru1.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-gru2.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-hkg3.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-iad3.fbcdn.net
@@ -1017,6 +1027,7 @@
 0.0.0.0 xx-fbcdn-shv-01-lhr3.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-lht6.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-mad1.fbcdn.net
+0.0.0.0 xx-fbcdn-shv-01-mia3.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-mxp1.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-nrt1.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-ort2.fbcdn.net
