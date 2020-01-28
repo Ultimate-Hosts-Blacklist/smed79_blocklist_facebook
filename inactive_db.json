@@ -443,8 +443,7 @@
             "www.apps-2172349176344205.apps.fbsbx.com": "INACTIVE"
         },
         "1572866361": {
-            "lm.messenger.com": "INACTIVE",
-            "t003.fma.fb.me": "INACTIVE"
+            "lm.messenger.com": "INACTIVE"
         },
         "1572866362": {
             "sphotos-b-vie.xx.fbcdn.net": "INACTIVE",
@@ -1480,9 +1479,6 @@
         "1574116875": {
             "fa08.ftw1.tfbnw.net": "INACTIVE"
         },
-        "1574116880": {
-            "t003.fma.fb.me": "INACTIVE"
-        },
         "1574116888": {
             "msw1ac.01.sea1.tfbnw.net": "INACTIVE"
         },
@@ -1572,9 +1568,6 @@
         },
         "1574162286": {
             "bb01.sea1.tfbnw.net": "INACTIVE"
-        },
-        "1574162293": {
-            "t003.fma.fb.me": "INACTIVE"
         },
         "1574162300": {
             "edge-mqtt-shv-01-gru1.facebook.com": "INACTIVE"
@@ -1676,9 +1669,6 @@
         },
         "1574289757": {
             "edge-snaptu-http-p1-shv-01-iad3.facebook.com": "INACTIVE"
-        },
-        "1574289764": {
-            "t003.fma.fb.me": "INACTIVE"
         },
         "1574289769": {
             "oob2-vpn-sjc.tfbnw.net": "INACTIVE"
@@ -1860,9 +1850,6 @@
         "1574335368": {
             "aura-11-01-snc7.facebook.com": "INACTIVE"
         },
-        "1574335373": {
-            "t003.fma.fb.me": "INACTIVE"
-        },
         "1574335379": {
             "po122.asw01.hkg3.tfbnw.net": "INACTIVE"
         },
@@ -1962,9 +1949,6 @@
         },
         "1574462776": {
             "po213.psw02.fra5.tfbnw.net": "INACTIVE"
-        },
-        "1574462782": {
-            "t003.fma.fb.me": "INACTIVE"
         },
         "1574462783": {
             "edgeray-shv-01-bru2.facebook.com": "INACTIVE"
@@ -2245,6 +2229,15 @@
             "z-p3-scontent.fbga1-1.fna.fbcdn.net": "INACTIVE"
         },
         "1580154539": {
+            "m.messenger.com": "INACTIVE"
+        },
+        "1580254009": {
+            "m.messenger.com": "INACTIVE"
+        },
+        "1580254136": {
+            "ae4.bb02.ams2.tfbnw.net": "INACTIVE"
+        },
+        "1580254145": {
             "m.messenger.com": "INACTIVE"
         }
     }
