@@ -324,6 +324,7 @@
 0.0.0.0 f.messenger.com
 0.0.0.0 f.m.me
 0.0.0.0 fna.fbcdn.net
+0.0.0.0 fna-fbcdn-shv-01-fmaa1.fbcdn.net
 0.0.0.0 fna-fbcdn-shv-02-fdet1.fbcdn.net
 0.0.0.0 fna-fbcdn-video-shv-01-ffjr1.fbcdn.net
 0.0.0.0 fr-ca.facebook.com
@@ -684,6 +685,7 @@
 0.0.0.0 scontent.fsdu10-1.fna.fbcdn.net
 0.0.0.0 scontent.fsdu11-1.fna.fbcdn.net
 0.0.0.0 scontent.fsjo1-1.fna.fbcdn.net
+0.0.0.0 scontent.fssa10-1.fna.fbcdn.net
 0.0.0.0 scontent.fssa11-1.fna.fbcdn.net
 0.0.0.0 scontent.fssa1-1.fna.fbcdn.net
 0.0.0.0 scontent.fsub1-1.fna.fbcdn.net
@@ -726,6 +728,7 @@
 0.0.0.0 sl-si.messenger.com
 0.0.0.0 snafu.tfbnw.net
 0.0.0.0 snaptu-mini.facebook.com
+0.0.0.0 snaptu-p2.facebook.com
 0.0.0.0 snaptu-z.facebook.com
 0.0.0.0 sonar.fbsb1-1.fna.fbcdn.net
 0.0.0.0 sonar.fgua1-1.fna.fbcdn.net
@@ -750,6 +753,7 @@
 0.0.0.0 sphotos-a-vie.xx.fbcdn.net
 0.0.0.0 sphotos-a.xx.fbcdn.net
 0.0.0.0 sphotos-b-ams.xx.fbcdn.net
+0.0.0.0 sphotos-b-atl.xx.fbcdn.net
 0.0.0.0 sphotos-b-cdg.xx.fbcdn.net
 0.0.0.0 sphotos-b-dfw.xx.fbcdn.net
 0.0.0.0 sphotos-b-iad.xx.fbcdn.net
@@ -759,8 +763,8 @@
 0.0.0.0 sphotos-b-mad.xx.fbcdn.net
 0.0.0.0 sphotos-b-mia.xx.fbcdn.net
 0.0.0.0 sphotos-b-mxp.xx.fbcdn.net
-0.0.0.0 sphotosbord.xx.fbcdn.net
 0.0.0.0 sphotos-b-ord.xx.fbcdn.net
+0.0.0.0 sphotosbord.xx.fbcdn.net
 0.0.0.0 sphotos-b-pao.xx.fbcdn.net
 0.0.0.0 sphotos-b-sea.xx.fbcdn.net
 0.0.0.0 sphotos-b-sjc.xx.fbcdn.net
@@ -1036,6 +1040,7 @@
 0.0.0.0 xx-fbcdn-shv-01-waw1.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-yyz1.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-02-frt3.fbcdn.net
+0.0.0.0 xx-fbcdn-shv-02-ort2.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-02-sin6.fbcdn.net
 0.0.0.0 yahoomail.messenger.com
 0.0.0.0 you.m.me
@@ -1071,6 +1076,7 @@
 0.0.0.0 z-p3-lookaside.fbsbx.com
 0.0.0.0 z-p3-scontent.facc1-1.fna.fbcdn.net
 0.0.0.0 z-p3-scontent.faqa1-1.fna.fbcdn.net
+0.0.0.0 z-p3-scontent.fsub1-1.fna.fbcdn.net
 0.0.0.0 z-p3-scontent.ftpa1-1.fna.fbcdn.net
 0.0.0.0 z-p3-scontent-lax3-1.xx.fbcdn.net
 0.0.0.0 z-p3-video.flpb1-1.fna.fbcdn.net
