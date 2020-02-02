@@ -88,7 +88,6 @@ links:
     psl: https://raw.githubusercontent.com/PyFunceble/public-suffix/master/public-suffix.json
     repo: https://github.com/funilrys/PyFunceble
     requirements: https://raw.githubusercontent.com/funilrys/PyFunceble/dev/requirements.txt
-    user_agents: https://raw.githubusercontent.com/PyFunceble/user_agents/master/user_agents.json
 local: false
 logs: true
 maximal_processes: 25
@@ -153,6 +152,7 @@ outputs:
 plain_list_domain: true
 quiet: true
 reputation: false
+seconds_before_http_timeout: 6
 share_logs: true
 show_execution_time: false
 show_percentage: true
@@ -204,7 +204,6 @@ status:
         valid: VALID
 syntax: false
 timeout: 5
-timout: 6
 unified: false
 use_reputation_data: false
 user_agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)
