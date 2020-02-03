@@ -152,6 +152,7 @@
 0.0.0.0 atlas.c10r.facebook.com
 0.0.0.0 atlasdirect.com
 0.0.0.0 attachment.fbsbx.com
+0.0.0.0 attachments.facebook.com
 0.0.0.0 aura-11-01-snc7.facebook.com
 0.0.0.0 autodiscover.messenger.com
 0.0.0.0 az-az.facebook.com
@@ -220,6 +221,7 @@
 0.0.0.0 edge-atlas-shv-01-vie1.facebook.com
 0.0.0.0 edge-chat.facebook.com
 0.0.0.0 edge-chat.messenger.com
+0.0.0.0 edge-mqtt.facebook.com
 0.0.0.0 edge-mqtt-shv-01-bru2.facebook.com
 0.0.0.0 edge-mqtt-shv-01-cdg2.facebook.com
 0.0.0.0 edge-mqtt-shv-01-gru1.facebook.com
@@ -249,9 +251,11 @@
 0.0.0.0 edge-snaptu-http-p1-shv-01-gru1.facebook.com
 0.0.0.0 edge-snaptu-http-p1-shv-01-iad3.facebook.com
 0.0.0.0 edge-snaptu-http-p1-shv-01-lhr3.facebook.com
+0.0.0.0 edge-snaptu-http-p1-shv-01-mad1.facebook.com
 0.0.0.0 edge-snaptu-http-p1-shv-01-nrt1.facebook.com
 0.0.0.0 edge-snaptu-http-p1-shv-01-sea1.facebook.com
 0.0.0.0 edge-sonar-mini-shv-01-bru2.fbcdn.net
+0.0.0.0 edge-sonar-mini-shv-01-lht6.fbcdn.net
 0.0.0.0 edge-sonar-mini-shv-01-ort2.fbcdn.net
 0.0.0.0 edge-star-shv-01-arn2.facebook.com
 0.0.0.0 edge-star-shv-01-atl3.facebook.com
@@ -385,6 +389,7 @@
 0.0.0.0 instagram.fsdu10-1.fna.fbcdn.net
 0.0.0.0 instagram.fsdu11-1.fna.fbcdn.net
 0.0.0.0 instagram.fssa10-1.fna.fbcdn.net
+0.0.0.0 instagram.fssa11-1.fna.fbcdn.net
 0.0.0.0 instagram.fssa1-1.fna.fbcdn.net
 0.0.0.0 instagram.fsub1-1.fna.fbcdn.net
 0.0.0.0 instagram.fszb1-1.fna.fbcdn.net
@@ -426,6 +431,7 @@
 0.0.0.0 investor.fb.com
 0.0.0.0 irc.hack.tfbnw.net
 0.0.0.0 irc-prn.tfbnw.net
+0.0.0.0 irc.tfbnw.net
 0.0.0.0 irc.t.tfbnw.net
 0.0.0.0 isbahrain.co.m.me
 0.0.0.0 isbanka.m.me
@@ -461,6 +467,7 @@
 0.0.0.0 lookaside.fbcdn.com
 0.0.0.0 lookaside.fbsbx.com
 0.0.0.0 lt-lt.facebook.com
+0.0.0.0 lt-lt.fb.me
 0.0.0.0 lt-lt.messenger.com
 0.0.0.0 mabasic.beta.facebook.net
 0.0.0.0 mail.hack.tfbnw.net
@@ -515,6 +522,7 @@
 0.0.0.0 on.fb.me
 0.0.0.0 oob1-vpn-sjc.tfbnw.net
 0.0.0.0 oob2-vpn-iad.tfbnw.net
+0.0.0.0 oob2-vpn-sjc.tfbnw.net
 0.0.0.0 oob-vpn-sjc.tfbnw.net
 0.0.0.0 oo.fb.me
 0.0.0.0 or.fb.me
@@ -528,7 +536,9 @@
 0.0.0.0 paltalk.messenger.com
 0.0.0.0 pdlvimeocdn-a.akamaihd.net
 0.0.0.0 photos-a-ord.xx.fbcdn.net
+0.0.0.0 photos-a.xx.fbcdn.net
 0.0.0.0 photos-b-ord.xx.fbcdn.net
+0.0.0.0 photos-b.xx.fbcdn.net
 0.0.0.0 php.mirror.facebook.net
 0.0.0.0 pics.m.me
 0.0.0.0 pixel.facebook.com
@@ -550,6 +560,7 @@
 0.0.0.0 presence.facebook.net
 0.0.0.0 prodigy.messenger.com
 0.0.0.0 prod.messenger.com
+0.0.0.0 profile-a-atl.xx.fbcdn.net
 0.0.0.0 profile-a-dfw.xx.fbcdn.net
 0.0.0.0 profile-a-iad.xx.fbcdn.net
 0.0.0.0 profile-a-lax.xx.fbcdn.net
@@ -627,6 +638,7 @@
 0.0.0.0 scontent-b-vie.xx.fbcdn.net
 0.0.0.0 scontent-b.xx.fbcdn.net
 0.0.0.0 scontent-cdg2-1.xx.fbcdn.net
+0.0.0.0 scontent-cdg.xx.fbcdn.net
 0.0.0.0 scontent-cdt1-1.xx.fbcdn.net
 0.0.0.0 scontent-dfw5-1.xx.fbcdn.net
 0.0.0.0 scontent-dfw.xx.fbcdn.net
@@ -711,6 +723,7 @@
 0.0.0.0 scontent-waw1-1.xx.fbcdn.net
 0.0.0.0 scontent.xx.fbcdn.net
 0.0.0.0 silfra.facebook.net
+0.0.0.0 sk-sk.facebook.com
 0.0.0.0 sk-sk.messenger.com
 0.0.0.0 sl-si.messenger.com
 0.0.0.0 snafu.tfbnw.net
@@ -750,8 +763,8 @@
 0.0.0.0 sphotos-b-mad.xx.fbcdn.net
 0.0.0.0 sphotos-b-mia.xx.fbcdn.net
 0.0.0.0 sphotos-b-mxp.xx.fbcdn.net
-0.0.0.0 sphotosbord.xx.fbcdn.net
 0.0.0.0 sphotos-b-ord.xx.fbcdn.net
+0.0.0.0 sphotosbord.xx.fbcdn.net
 0.0.0.0 sphotos-b-pao.xx.fbcdn.net
 0.0.0.0 sphotos-b-sea.xx.fbcdn.net
 0.0.0.0 sphotos-b-sjc.xx.fbcdn.net
@@ -773,6 +786,7 @@
 0.0.0.0 static.mfbcdn.net
 0.0.0.0 staticxx.facebook.com
 0.0.0.0 static.xx.fbcdn.net
+0.0.0.0 stun.fbsbx.com
 0.0.0.0 s.update.fbsbx.com
 0.0.0.0 sv-se.ar-ar.fb.me
 0.0.0.0 sv-se.facebook.com
@@ -1021,11 +1035,13 @@
 0.0.0.0 xx-fbcdn-shv-01-sea1.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-sin6.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-syd2.fbcdn.net
+0.0.0.0 xx-fbcdn-shv-01-tpe1.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-vie1.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-waw1.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-yyz1.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-02-frt3.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-02-ort2.fbcdn.net
+0.0.0.0 xx-fbcdn-shv-02-sin6.fbcdn.net
 0.0.0.0 yahoomail.messenger.com
 0.0.0.0 you.m.me
 0.0.0.0 z022-fma.fb.me
@@ -1056,6 +1072,7 @@
 0.0.0.0 z-p3-cdn.fbsbx.com
 0.0.0.0 z-p3-external.fmdc1-1.fna.fbcdn.net
 0.0.0.0 z-p3-external.fsdu11-1.fna.fbcdn.net
+0.0.0.0 z-p3-graph.facebook.com
 0.0.0.0 z-p3-lookaside.fbsbx.com
 0.0.0.0 z-p3-scontent.facc1-1.fna.fbcdn.net
 0.0.0.0 z-p3-scontent.faqa1-1.fna.fbcdn.net
