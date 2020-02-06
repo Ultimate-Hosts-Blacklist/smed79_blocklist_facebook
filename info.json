@@ -1,32 +1,23 @@
 {
-    "current_stats": {
-        "builds": 1,
-        "counter": {
-            "down": 10,
-            "invalid": 0,
-            "tested": 1014,
-            "up": 1004
-        }
-    },
-    "currently_under_test": "1",
+    "currently_under_test": "0",
     "days_until_next_test": 1,
-    "end_datetime": "Tue Feb  4 11:50:32 2020",
-    "end_epoch": 1580817032.188377,
+    "end_datetime": "Thu Feb  6 00:13:39 2020",
+    "end_epoch": 1580948019.941476,
     "last_autosave_datetime": "Wed Feb  5 23:33:11 2020",
     "last_autosave_epoch": 1580945591.280404,
     "name": "smed79_blocklist_facebook",
     "previous_stats": {
         "builds": 2,
-        "clean.list": 1081,
+        "clean.list": 1073,
         "counter": {
-            "down": 5,
+            "down": 13,
             "invalid": 0,
             "tested": 1086,
-            "up": 1081
+            "up": 1073
         },
         "domains.list": 1086,
-        "volatile.list": 1055,
-        "whitelisted.list": 1055
+        "volatile.list": 1047,
+        "whitelisted.list": 1047
     },
     "raw_link": "https://raw.githubusercontent.com/smed79/blacklist/master/extra/facebook.txt",
     "start_datetime": "Wed Feb  5 23:23:08 2020",
