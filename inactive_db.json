@@ -62,9 +62,6 @@
             "instagram-p3-shv-01-cdg2.fbcdn.net": "INACTIVE",
             "xx-fbcdn6-shv-01-atl3.fbcdn.net": "INACTIVE"
         },
-        "1572645931": {
-            "b.ns.facebook.com": "INACTIVE"
-        },
         "1572645932": {
             "edge-sonar-mini-shv-01-ort2.fbcdn.net": "INACTIVE",
             "www.apps-2439130869458646.apps.fbsbx.com": "INACTIVE"
@@ -761,7 +758,6 @@
             "profile-b-ord.xx.fbcdn.net": "INACTIVE"
         },
         "1573125908": {
-            "b.ns.facebook.com": "INACTIVE",
             "www.apps-1192247540901063.apps.fbsbx.com": "INACTIVE"
         },
         "1573125913": {
@@ -1387,9 +1383,6 @@
         "1574116740": {
             "dr02.nao1.tfbnw.net": "INACTIVE"
         },
-        "1574116745": {
-            "b.ns.facebook.com": "INACTIVE"
-        },
         "1574116752": {
             "ae0.pr04.sjc1.tfbnw.net": "INACTIVE"
         },
@@ -1571,9 +1564,6 @@
         "1574162398": {
             "ae4.bb02.ams2.tfbnw.net": "INACTIVE"
         },
-        "1574162404": {
-            "b.ns.facebook.com": "INACTIVE"
-        },
         "1574162410": {
             "irc.t.tfbnw.net": "INACTIVE"
         },
@@ -1690,9 +1680,6 @@
         },
         "1574289939": {
             "z-p3-scontent.fbga1-1.fna.fbcdn.net": "INACTIVE"
-        },
-        "1574289947": {
-            "b.ns.facebook.com": "INACTIVE"
         },
         "1574334971": {
             "edgeray-shv-01-iad3.facebook.com": "INACTIVE"
@@ -1855,9 +1842,6 @@
         },
         "1574462678": {
             "oob1-vpn-sjc.tfbnw.net": "INACTIVE"
-        },
-        "1574462695": {
-            "b.ns.facebook.com": "INACTIVE"
         },
         "1574462696": {
             "m.messenger.com": "INACTIVE"
@@ -2253,6 +2237,15 @@
         },
         "1581119452": {
             "instagramstatic-a.akamaihd.net.edgesuite.net": "INACTIVE"
+        },
+        "1581291237": {
+            "instagram-p3-shv-01-lhr3.fbcdn.net": "INACTIVE"
+        },
+        "1581291298": {
+            "edge-star-shv-01-lhr3.facebook.com": "INACTIVE"
+        },
+        "1581291453": {
+            "m.messenger.com": "INACTIVE"
         }
     }
 }
