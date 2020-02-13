@@ -21,7 +21,6 @@
             "edge-snaptu-http-p1-shv-01-gru1.facebook.com": "INACTIVE"
         },
         "1572645886": {
-            "bb01.sea1.tfbnw.net": "INACTIVE",
             "instagram-p3-shv-01-amt2.fbcdn.net": "INACTIVE",
             "www.apps-194046404492818.apps.fbsbx.com": "INACTIVE",
             "www.apps-517524528760947.apps.fbsbx.com": "INACTIVE"
@@ -366,7 +365,6 @@
             "www.apps-440945256433897.apps.fbsbx.com": "INACTIVE"
         },
         "1572819113": {
-            "bb01.sea1.tfbnw.net": "INACTIVE",
             "www.apps-1939015149698140.apps.fbsbx.com": "INACTIVE",
             "www.apps-779934465677983.apps.fbsbx.com": "INACTIVE"
         },
@@ -1156,9 +1154,6 @@
             "profile-b-ord.xx.fbcdn.net": "INACTIVE",
             "sphotos-a-dfw.xx.fbcdn.net": "INACTIVE"
         },
-        "1573944509": {
-            "bb01.sea1.tfbnw.net": "INACTIVE"
-        },
         "1573944520": {
             "msw1ac.01.sea1.tfbnw.net": "INACTIVE"
         },
@@ -1463,9 +1458,6 @@
         "1574116936": {
             "ae4.bb02.ams2.tfbnw.net": "INACTIVE"
         },
-        "1574116944": {
-            "bb01.sea1.tfbnw.net": "INACTIVE"
-        },
         "1574162149": {
             "dr02.nao1.tfbnw.net": "INACTIVE"
         },
@@ -1522,9 +1514,6 @@
         },
         "1574162277": {
             "psw02.vie1.tfbnw.net": "INACTIVE"
-        },
-        "1574162286": {
-            "bb01.sea1.tfbnw.net": "INACTIVE"
         },
         "1574162300": {
             "edge-mqtt-shv-01-gru1.facebook.com": "INACTIVE"
@@ -1634,9 +1623,6 @@
         },
         "1574289827": {
             "po213.psw02.fra5.tfbnw.net": "INACTIVE"
-        },
-        "1574289832": {
-            "bb01.sea1.tfbnw.net": "INACTIVE"
         },
         "1574289844": {
             "dr02.nao1.tfbnw.net": "INACTIVE"
@@ -1795,9 +1781,6 @@
         },
         "1574335396": {
             "ae4.bb02.ams2.tfbnw.net": "INACTIVE"
-        },
-        "1574335401": {
-            "bb01.sea1.tfbnw.net": "INACTIVE"
         },
         "1574335408": {
             "ae59.pr03.sin1.tfbnw.net": "INACTIVE"
@@ -2260,6 +2243,15 @@
         },
         "1581463784": {
             "m.messenger.com": "INACTIVE"
+        },
+        "1581637014": {
+            "mirror-ext.t.tfbnw.net": "INACTIVE"
+        },
+        "1581637347": {
+            "instagramstatic-a.akamaihd.net.edgesuite.net": "INACTIVE"
+        },
+        "1581637400": {
+            "xx-fbcdn-shv-01-lhr3.fbcdn.net": "INACTIVE"
         }
     }
 }
