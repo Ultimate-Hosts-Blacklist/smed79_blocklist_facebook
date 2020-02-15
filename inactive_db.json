@@ -126,7 +126,6 @@
         },
         "1572645997": {
             "instagram-p42-shv-01-iad3.fbcdn.net": "INACTIVE",
-            "presence.facebook.net": "INACTIVE",
             "www.apps-2069434719753161.apps.fbsbx.com": "INACTIVE",
             "www.apps-261796957853828.apps.fbsbx.com": "INACTIVE"
         },
@@ -1273,9 +1272,6 @@
             "facebook-web-clients.appspot.com": "INACTIVE",
             "vthumb.xx.fbcdn.net": "INACTIVE"
         },
-        "1573944691": {
-            "presence.facebook.net": "INACTIVE"
-        },
         "1573944696": {
             "po106.psw04.mia3.tfbnw.net": "INACTIVE"
         },
@@ -1370,9 +1366,6 @@
         },
         "1574116722": {
             "edge-snaptu-http-p1-shv-01-cdg2.facebook.com": "INACTIVE"
-        },
-        "1574116733": {
-            "presence.facebook.net": "INACTIVE"
         },
         "1574116740": {
             "dr02.nao1.tfbnw.net": "INACTIVE"
@@ -1493,9 +1486,6 @@
         },
         "1574162220": {
             "ae0.pr03.sjc1.tfbnw.net": "INACTIVE"
-        },
-        "1574162225": {
-            "presence.facebook.net": "INACTIVE"
         },
         "1574162235": {
             "po122.asw01.hkg3.tfbnw.net": "INACTIVE"
@@ -1883,8 +1873,7 @@
             "fa08.ftw1.tfbnw.net": "INACTIVE"
         },
         "1574462870": {
-            "edge-mqtt-shv-01-lhr3.facebook.com": "INACTIVE",
-            "presence.facebook.net": "INACTIVE"
+            "edge-mqtt-shv-01-lhr3.facebook.com": "INACTIVE"
         },
         "1574462877": {
             "a.ns.t.facebook.net": "INACTIVE"
@@ -2252,6 +2241,30 @@
         },
         "1581637400": {
             "xx-fbcdn-shv-01-lhr3.fbcdn.net": "INACTIVE"
+        },
+        "1581809367": {
+            "latest.messenger.com": "INACTIVE"
+        },
+        "1581809446": {
+            "sphotos-b-pao.xx.fbcdn.net": "INACTIVE"
+        },
+        "1581809547": {
+            "instagram.fpoa1-1.fna.fbcdn.net": "INACTIVE"
+        },
+        "1581809694": {
+            "edge-snaptu-http-p1-shv-01-lhr3.facebook.com": "INACTIVE"
+        },
+        "1581809697": {
+            "instagram-p3-shv-01-lhr3.fbcdn.net": "INACTIVE"
+        },
+        "1581809706": {
+            "xx-fbcdn-shv-01-lhr3.fbcdn.net": "INACTIVE"
+        },
+        "1581809710": {
+            "ae4.bb02.ams2.tfbnw.net": "INACTIVE"
+        },
+        "1581809717": {
+            "edge-atlas-shv-01-lhr3.facebook.com": "INACTIVE"
         }
     }
 }
