@@ -608,7 +608,6 @@
             "6-edge-chat.facebook.com": "INACTIVE"
         },
         "1572992054": {
-            "instagram-p3-shv-01-bru2.fbcdn.net": "INACTIVE",
             "sphotos-b-sjc.xx.fbcdn.net": "INACTIVE"
         },
         "1572992055": {
@@ -1110,9 +1109,6 @@
         },
         "1573944463": {
             "d028.fma.fb.me": "INACTIVE"
-        },
-        "1573944464": {
-            "instagram-p3-shv-01-bru2.fbcdn.net": "INACTIVE"
         },
         "1573944470": {
             "photos-b.xx.fbcdn.net": "INACTIVE",
@@ -2304,6 +2300,16 @@
         },
         "1582023862": {
             "instagram-p3-shv-01-lhr3.fbcdn.net": "INACTIVE"
+        },
+        "1582026507": {
+            "edge-mqtt-shv-01-lhr3.facebook.com": "INACTIVE",
+            "m.messenger.com": "INACTIVE"
+        },
+        "1582026526": {
+            "m.messenger.com": "INACTIVE"
+        },
+        "1582026530": {
+            "xx-fbcdn-shv-01-icn1.fbcdn.net": "INACTIVE"
         }
     }
 }
