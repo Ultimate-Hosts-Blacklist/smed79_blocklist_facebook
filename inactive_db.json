@@ -1551,9 +1551,6 @@
         "1574162429": {
             "b.ns.t.facebook.net": "INACTIVE"
         },
-        "1574162435": {
-            "oob1-vpn-sjc.tfbnw.net": "INACTIVE"
-        },
         "1574289680": {
             "edge-snaptu-http-p1-shv-01-mad1.facebook.com": "INACTIVE"
         },
@@ -1574,9 +1571,6 @@
         },
         "1574289717": {
             "a.ns.facebook.com": "INACTIVE"
-        },
-        "1574289724": {
-            "oob1-vpn-sjc.tfbnw.net": "INACTIVE"
         },
         "1574289732": {
             "edge-mqtt-shv-01-mad1.facebook.com": "INACTIVE"
@@ -1778,9 +1772,6 @@
         "1574335413": {
             "edge-snaptu-http-p1-shv-01-cdg2.facebook.com": "INACTIVE"
         },
-        "1574335421": {
-            "oob1-vpn-sjc.tfbnw.net": "INACTIVE"
-        },
         "1574335429": {
             "edge-mqtt-shv-01-cdg2.facebook.com": "INACTIVE",
             "po213.psw02.fra5.tfbnw.net": "INACTIVE"
@@ -1811,9 +1802,6 @@
         },
         "1574462671": {
             "ae59.pr03.sin1.tfbnw.net": "INACTIVE"
-        },
-        "1574462678": {
-            "oob1-vpn-sjc.tfbnw.net": "INACTIVE"
         },
         "1574462696": {
             "m.messenger.com": "INACTIVE"
@@ -2295,6 +2283,27 @@
         },
         "1581982771": {
             "edgeray-shv-01-lhr3.facebook.com": "INACTIVE"
+        },
+        "1582023740": {
+            "edge-atlas-shv-01-lhr3.facebook.com": "INACTIVE"
+        },
+        "1582023763": {
+            "edge-snaptu-http-p1-shv-01-lhr3.facebook.com": "INACTIVE"
+        },
+        "1582023775": {
+            "instagramstatic-a.akamaihd.net.edgesuite.net": "INACTIVE"
+        },
+        "1582023795": {
+            "xx-fbcdn-shv-01-lhr3.fbcdn.net": "INACTIVE"
+        },
+        "1582023805": {
+            "edge-star-shv-01-lhr3.facebook.com": "INACTIVE"
+        },
+        "1582023840": {
+            "edgeray-shv-01-lhr3.facebook.com": "INACTIVE"
+        },
+        "1582023862": {
+            "instagram-p3-shv-01-lhr3.fbcdn.net": "INACTIVE"
         }
     }
 }
