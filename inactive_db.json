@@ -342,7 +342,6 @@
         },
         "1572819094": {
             "fbcdn-profile-a.akamaihd.net": "INACTIVE",
-            "po122.asw01.hkg3.tfbnw.net": "INACTIVE",
             "www.apps-249058842412197.apps.fbsbx.com": "INACTIVE"
         },
         "1572819096": {
@@ -659,7 +658,6 @@
             "www.apps-278152362840481.apps.fbsbx.com": "INACTIVE"
         },
         "1572992148": {
-            "po122.asw01.hkg3.tfbnw.net": "INACTIVE",
             "stun.fbsbx.com": "INACTIVE",
             "www.apps-253763508667335.apps.fbsbx.com": "INACTIVE",
             "z-1-lookaside.fbsbx.com": "INACTIVE"
@@ -742,9 +740,6 @@
         "1573125885": {
             "a.ns.facebook.com": "INACTIVE",
             "www.facebook-web-clients.appspot.com": "INACTIVE"
-        },
-        "1573125890": {
-            "po122.asw01.hkg3.tfbnw.net": "INACTIVE"
         },
         "1573125896": {
             "www.apps-232170860602554.apps.fbsbx.com": "INACTIVE"
@@ -1399,9 +1394,6 @@
         "1574116812": {
             "a.ns.t.facebook.net": "INACTIVE"
         },
-        "1574116817": {
-            "po122.asw01.hkg3.tfbnw.net": "INACTIVE"
-        },
         "1574116824": {
             "edgeray-shv-01-gru1.facebook.com": "INACTIVE"
         },
@@ -1483,9 +1475,6 @@
         "1574162220": {
             "ae0.pr03.sjc1.tfbnw.net": "INACTIVE"
         },
-        "1574162235": {
-            "po122.asw01.hkg3.tfbnw.net": "INACTIVE"
-        },
         "1574162241": {
             "dr01.snc1.tfbnw.net": "INACTIVE"
         },
@@ -1549,9 +1538,6 @@
         },
         "1574289680": {
             "edge-snaptu-http-p1-shv-01-mad1.facebook.com": "INACTIVE"
-        },
-        "1574289693": {
-            "po122.asw01.hkg3.tfbnw.net": "INACTIVE"
         },
         "1574289699": {
             "ae59.pr03.sin1.tfbnw.net": "INACTIVE"
@@ -1750,9 +1736,6 @@
         "1574335368": {
             "aura-11-01-snc7.facebook.com": "INACTIVE"
         },
-        "1574335379": {
-            "po122.asw01.hkg3.tfbnw.net": "INACTIVE"
-        },
         "1574335385": {
             "bb01.cdg1.tfbnw.net": "INACTIVE"
         },
@@ -1789,9 +1772,6 @@
         },
         "1574462638": {
             "psw02.vie1.tfbnw.net": "INACTIVE"
-        },
-        "1574462651": {
-            "po122.asw01.hkg3.tfbnw.net": "INACTIVE"
         },
         "1574462657": {
             "msw1ac.01.sea1.tfbnw.net": "INACTIVE"
@@ -2127,9 +2107,6 @@
         "1580773151": {
             "m.messenger.com": "INACTIVE"
         },
-        "1580816868": {
-            "po122.asw01.hkg3.tfbnw.net": "INACTIVE"
-        },
         "1580816997": {
             "m.messenger.com": "INACTIVE"
         },
@@ -2181,9 +2158,6 @@
         "1581117594": {
             "edge-snaptu-http-p1-shv-01-lhr3.facebook.com": "INACTIVE"
         },
-        "1581117639": {
-            "po122.asw01.hkg3.tfbnw.net": "INACTIVE"
-        },
         "1581119360": {
             "m.messenger.com": "INACTIVE"
         },
@@ -2210,9 +2184,6 @@
         },
         "1581463704": {
             "z-p3-scontent.fbga1-1.fna.fbcdn.net": "INACTIVE"
-        },
-        "1581463760": {
-            "po122.asw01.hkg3.tfbnw.net": "INACTIVE"
         },
         "1581463784": {
             "m.messenger.com": "INACTIVE"
@@ -2271,9 +2242,6 @@
         "1581982700": {
             "xx-fbcdn-shv-01-lhr3.fbcdn.net": "INACTIVE"
         },
-        "1581982702": {
-            "po122.asw01.hkg3.tfbnw.net": "INACTIVE"
-        },
         "1581982711": {
             "instagramstatic-a.akamaihd.net.edgesuite.net": "INACTIVE"
         },
@@ -2325,6 +2293,24 @@
         },
         "1582154875": {
             "m.messenger.com": "INACTIVE"
+        },
+        "1582327285": {
+            "facebook.messenger.com": "INACTIVE"
+        },
+        "1582327513": {
+            "edge-mqtt-shv-01-lhr3.facebook.com": "INACTIVE"
+        },
+        "1582327528": {
+            "ae0.pr04.sjc1.tfbnw.net": "INACTIVE"
+        },
+        "1582327560": {
+            "f6eec677a80kdno4pyq-kxornjlf1521512613-sonar.xz.fbcdn.net": "INACTIVE"
+        },
+        "1582327570": {
+            "mirror-ext.t.tfbnw.net": "INACTIVE"
+        },
+        "1582327578": {
+            "po122.asw01.hkg3.tfbnw.net": "INACTIVE"
         }
     }
 }
