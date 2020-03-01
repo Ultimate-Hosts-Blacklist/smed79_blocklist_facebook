@@ -496,9 +496,6 @@
         "1572866416": {
             "xx-fbcdn-shv-01-gru1.fbcdn.net": "INACTIVE"
         },
-        "1572866417": {
-            "herningrideklub.netscontent-a-ams.xx.fbcdn.net": "INACTIVE"
-        },
         "1572866418": {
             "www.apps-226166117984247.apps.fbsbx.com": "INACTIVE",
             "xx-fbcdn-shv-01-atl3.fbcdn.net": "INACTIVE",
@@ -1204,7 +1201,6 @@
             "msw1ao.01.gru2.tfbnw.net": "INACTIVE"
         },
         "1573944626": {
-            "herningrideklub.netscontent-a-ams.xx.fbcdn.net": "INACTIVE",
             "instagram-p3-shv-01-arn2.fbcdn.net": "INACTIVE"
         },
         "1573944632": {
@@ -2420,6 +2416,19 @@
         },
         "1582932322": {
             "m.messenger.com": "INACTIVE"
+        },
+        "1583106485": {
+            "m.messenger.com": "INACTIVE"
+        },
+        "1583106602": {
+            "edgeray-shv-01-lhr3.facebook.com": "INACTIVE"
+        },
+        "1583106631": {
+            "edge-mqtt-shv-01-lhr3.facebook.com": "INACTIVE"
+        },
+        "1583106659": {
+            "edge-star-shv-01-lhr3.facebook.com": "INACTIVE",
+            "instagramstatic-a.akamaihd.net.edgesuite.net": "INACTIVE"
         }
     }
 }
