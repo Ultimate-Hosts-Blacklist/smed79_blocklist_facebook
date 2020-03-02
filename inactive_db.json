@@ -1014,9 +1014,6 @@
         "1573297626": {
             "z-p3-scontent.fbga1-1.fna.fbcdn.net": "INACTIVE"
         },
-        "1573297631": {
-            "po213.psw02.fra5.tfbnw.net": "INACTIVE"
-        },
         "1573944219": {
             "xx-fbcdn-shv-01-bog1.fbcdn.net": "INACTIVE"
         },
@@ -1310,9 +1307,6 @@
         "1573944766": {
             "edge-atlas-shv-01-sea1.facebook.com": "INACTIVE"
         },
-        "1573944771": {
-            "po213.psw02.fra5.tfbnw.net": "INACTIVE"
-        },
         "1573944777": {
             "a.ns.facebook.com": "INACTIVE"
         },
@@ -1400,9 +1394,6 @@
         "1574116850": {
             "msw1ao.01.gru2.tfbnw.net": "INACTIVE"
         },
-        "1574116857": {
-            "po213.psw02.fra5.tfbnw.net": "INACTIVE"
-        },
         "1574116875": {
             "fa08.ftw1.tfbnw.net": "INACTIVE"
         },
@@ -1447,9 +1438,6 @@
         },
         "1574162176": {
             "mqtt.c10r.facebook.com": "INACTIVE"
-        },
-        "1574162181": {
-            "po213.psw02.fra5.tfbnw.net": "INACTIVE"
         },
         "1574162194": {
             "edgeray-shv-01-sea1.facebook.com": "INACTIVE"
@@ -1577,9 +1565,6 @@
         },
         "1574289820": {
             "edgeray-shv-01-mxp1.facebook.com": "INACTIVE"
-        },
-        "1574289827": {
-            "po213.psw02.fra5.tfbnw.net": "INACTIVE"
         },
         "1574289844": {
             "dr02.nao1.tfbnw.net": "INACTIVE"
@@ -1743,8 +1728,7 @@
             "edge-snaptu-http-p1-shv-01-cdg2.facebook.com": "INACTIVE"
         },
         "1574335429": {
-            "edge-mqtt-shv-01-cdg2.facebook.com": "INACTIVE",
-            "po213.psw02.fra5.tfbnw.net": "INACTIVE"
+            "edge-mqtt-shv-01-cdg2.facebook.com": "INACTIVE"
         },
         "1574462453": {
             "scontent-lhr3-1.xx.fbcdn.net": "INACTIVE"
@@ -1796,9 +1780,6 @@
         },
         "1574462770": {
             "z-p3-scontent.fbga1-1.fna.fbcdn.net": "INACTIVE"
-        },
-        "1574462776": {
-            "po213.psw02.fra5.tfbnw.net": "INACTIVE"
         },
         "1574462783": {
             "edgeray-shv-01-bru2.facebook.com": "INACTIVE"
@@ -2429,6 +2410,39 @@
         "1583106659": {
             "edge-star-shv-01-lhr3.facebook.com": "INACTIVE",
             "instagramstatic-a.akamaihd.net.edgesuite.net": "INACTIVE"
+        },
+        "1583147943": {
+            "wicys2019ctf.fb.com": "INACTIVE"
+        },
+        "1583148182": {
+            "irc.t.tfbnw.net": "INACTIVE"
+        },
+        "1583148204": {
+            "mirror-ext.t.tfbnw.net": "INACTIVE"
+        },
+        "1583148213": {
+            "z-p3-scontent.fbga1-1.fna.fbcdn.net": "INACTIVE"
+        },
+        "1583148214": {
+            "m.messenger.com": "INACTIVE"
+        },
+        "1583148217": {
+            "po122.asw01.hkg3.tfbnw.net": "INACTIVE"
+        },
+        "1583148227": {
+            "edge-mqtt-shv-01-lhr3.facebook.com": "INACTIVE"
+        },
+        "1583148262": {
+            "xx-fbcdn-shv-01-icn1.fbcdn.net": "INACTIVE"
+        },
+        "1583148283": {
+            "instagram-p3-shv-01-lhr3.fbcdn.net": "INACTIVE"
+        },
+        "1583148289": {
+            "xx-fbcdn-shv-01-lhr3.fbcdn.net": "INACTIVE"
+        },
+        "1583148291": {
+            "ae0.pr04.sjc1.tfbnw.net": "INACTIVE"
         }
     }
 }
