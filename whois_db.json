@@ -1,51 +1,51 @@
 {
     "atlasdirect.com": {
-        "epoch": 1626134400,
+        "epoch": 1626134400.0,
         "expiration_date": "13-jul-2021",
         "state": "future"
     },
     "facebook.com": {
-        "epoch": 1837987200,
+        "epoch": 1837987200.0,
         "expiration_date": "30-mar-2028",
         "state": "future"
     },
     "fb.com": {
-        "epoch": 1842652800,
+        "epoch": 1842652800.0,
         "expiration_date": "23-may-2028",
         "state": "future"
     },
     "fb.me": {
-        "epoch": 1816387200,
+        "epoch": 1816387200.0,
         "expiration_date": "24-jul-2027",
         "state": "future"
     },
     "fbcdn.com": {
-        "epoch": 1840924800,
+        "epoch": 1840924800.0,
         "expiration_date": "03-may-2028",
         "state": "future"
     },
     "fbcdn.net": {
-        "epoch": 1840924800,
+        "epoch": 1840924800.0,
         "expiration_date": "03-may-2028",
         "state": "future"
     },
     "fbsbx.com": {
-        "epoch": 1812412800,
+        "epoch": 1812412800.0,
         "expiration_date": "08-jun-2027",
         "state": "future"
     },
     "m.me": {
-        "epoch": 1810771200,
+        "epoch": 1810771200.0,
         "expiration_date": "20-may-2027",
         "state": "future"
     },
     "messenger.com": {
-        "epoch": 1825200000,
+        "epoch": 1825200000.0,
         "expiration_date": "03-nov-2027",
         "state": "future"
     },
     "mfbcdn.net": {
-        "epoch": 1588204800,
+        "epoch": 1588204800.0,
         "expiration_date": "30-apr-2020",
         "state": "future"
     }
