@@ -7,7 +7,7 @@
     "last_autosave_epoch": 1583148298.22237,
     "name": "smed79_blocklist_facebook",
     "previous_stats": {
-        "builds": 7,
+        "builds": 1,
         "clean_list": 1234,
         "counter": {
             "down": 0,
@@ -23,6 +23,6 @@
         "whitelisted.list": 1208
     },
     "raw_link": "https://raw.githubusercontent.com/smed79/blacklist/master/extra/facebook.txt",
-    "start_datetime": "2020-03-13T23:26:03.915833",
-    "start_epoch": 1584141963.915833
+    "start_datetime": "2020-03-14T11:27:17.539779",
+    "start_epoch": 1584185237.539779
 }
