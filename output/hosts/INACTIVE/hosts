@@ -2,7 +2,12 @@
 # Date of generation: 2020-03-15T11:37:15.352243
 
 0.0.0.0 ae0.pr03.sjc1.tfbnw.net
+0.0.0.0 ae0.pr04.sjc1.tfbnw.net
+0.0.0.0 edge-atlas-shv-01-lhr3.facebook.com
+0.0.0.0 edge-mqtt-shv-01-lhr3.facebook.com
+0.0.0.0 edge-star-shv-01-lhr3.facebook.com
 0.0.0.0 instagram-p42-shv-01-iad3.fbcdn.com
+0.0.0.0 mirror-ext.t.tfbnw.net
 0.0.0.0 m.messenger.com
 0.0.0.0 static.fbcdn.com
 0.0.0.0 wicys2019ctf.fb.com
