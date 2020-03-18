@@ -2911,6 +2911,12 @@
         },
         "1584505955": {
             "irc.t.tfbnw.net": "INACTIVE"
+        },
+        "1584513433": {
+            "edge-snaptu-http-p1-shv-01-lhr3.facebook.com": "INACTIVE"
+        },
+        "1584513464": {
+            "edge-mqtt-shv-01-lhr3.facebook.com": "INACTIVE"
         }
     }
 }
