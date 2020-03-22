@@ -2991,6 +2991,33 @@
         },
         "1584689987": {
             "instagramstatic-a.akamaihd.net.edgesuite.net": "INACTIVE"
+        },
+        "1584835548": {
+            "None": "INVALID"
+        },
+        "1584835669": {
+            "beta.t.facebook.net": "INACTIVE"
+        },
+        "1584835672": {
+            "cdn.facebook.net": "INACTIVE"
+        },
+        "1584835676": {
+            "connnect.facebook.net": "INACTIVE"
+        },
+        "1584835936": {
+            "rdns.facebook.net": "INACTIVE"
+        },
+        "1584835937": {
+            "reviews.facebook.net": "INACTIVE"
+        },
+        "1584836006": {
+            "static.fbcdn.com": "INACTIVE"
+        },
+        "1584836085": {
+            "m.messenger.com": "INACTIVE"
+        },
+        "1584836122": {
+            "edge-snaptu-http-p1-shv-01-lhr3.facebook.com": "INACTIVE"
         }
     }
 }
