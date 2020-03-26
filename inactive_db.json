@@ -3147,6 +3147,75 @@
         },
         "1585028346": {
             "edge-snaptu-http-p1-shv-01-lhr3.facebook.com": "INACTIVE"
+        },
+        "1585181631": {
+            "None": "INVALID"
+        },
+        "1585181731": {
+            "beta.t.facebook.net": "INACTIVE"
+        },
+        "1585181733": {
+            "cdn.facebook.net": "INACTIVE"
+        },
+        "1585181735": {
+            "connnect.facebook.net": "INACTIVE"
+        },
+        "1585181952": {
+            "rdns.facebook.net": "INACTIVE"
+        },
+        "1585181953": {
+            "reviews.facebook.net": "INACTIVE"
+        },
+        "1585182003": {
+            "static.fbcdn.com": "INACTIVE"
+        },
+        "1585182064": {
+            "m.messenger.com": "INACTIVE"
+        },
+        "1585182108": {
+            "edgeray-shv-01-lhr3.facebook.com": "INACTIVE"
+        },
+        "1585182127": {
+            "ae0.pr03.sjc1.tfbnw.net": "INACTIVE",
+            "instagram-p3-shv-01-lhr3.fbcdn.net": "INACTIVE",
+            "instagramstatic-a.akamaihd.net.edgesuite.net": "INACTIVE"
+        },
+        "1585182130": {
+            "mirror-ext.t.tfbnw.net": "INACTIVE"
+        },
+        "1585182138": {
+            "edge-atlas-shv-01-lhr3.facebook.com": "INACTIVE"
+        },
+        "1585182141": {
+            "edge-star-shv-01-lhr3.facebook.com": "INACTIVE"
+        },
+        "1585182152": {
+            "edge-snaptu-http-p1-shv-01-lhr3.facebook.com": "INACTIVE"
+        },
+        "1585182159": {
+            "po122.asw01.hkg3.tfbnw.net": "INACTIVE"
+        },
+        "1585182160": {
+            "xx-fbcdn-shv-01-lhr3.fbcdn.net": "INACTIVE"
+        },
+        "1585182165": {
+            "instagram-p42-shv-01-iad3.fbcdn.com": "INACTIVE"
+        },
+        "1585182168": {
+            "edge-mqtt-shv-01-lhr3.facebook.com": "INACTIVE"
+        },
+        "1585182171": {
+            "ae4.bb02.ams2.tfbnw.net": "INACTIVE"
+        },
+        "1585182186": {
+            "wicys2019ctf.fb.com": "INACTIVE"
+        },
+        "1585182187": {
+            "ae0.pr04.sjc1.tfbnw.net": "INACTIVE",
+            "xx-fbcdn-shv-01-icn1.fbcdn.net": "INACTIVE"
+        },
+        "1585182228": {
+            "irc.t.tfbnw.net": "INACTIVE"
         }
     }
 }
