@@ -3441,6 +3441,79 @@
         },
         "1585626715": {
             "edge-atlas-shv-01-lhr3.facebook.com": "INACTIVE"
+        },
+        "1585740233": {
+            "None": "INVALID"
+        },
+        "1585740330": {
+            "beta.t.facebook.net": "INACTIVE"
+        },
+        "1585740331": {
+            "cdn.facebook.net": "INACTIVE"
+        },
+        "1585740333": {
+            "connnect.facebook.net": "INACTIVE"
+        },
+        "1585740548": {
+            "rdns.facebook.net": "INACTIVE"
+        },
+        "1585740549": {
+            "reviews.facebook.net": "INACTIVE"
+        },
+        "1585740624": {
+            "static.fbcdn.com": "INACTIVE"
+        },
+        "1585740684": {
+            "m.messenger.com": "INACTIVE"
+        },
+        "1585740708": {
+            "ae0.pr03.sjc1.tfbnw.net": "INACTIVE"
+        },
+        "1585740710": {
+            "edge-star-shv-01-lhr3.facebook.com": "INACTIVE"
+        },
+        "1585740711": {
+            "mirror-ext.t.tfbnw.net": "INACTIVE"
+        },
+        "1585740729": {
+            "edge-mqtt-shv-01-lhr3.facebook.com": "INACTIVE",
+            "xx-fbcdn-shv-01-lhr3.fbcdn.net": "INACTIVE"
+        },
+        "1585740732": {
+            "ae0.pr04.sjc1.tfbnw.net": "INACTIVE"
+        },
+        "1585740734": {
+            "wicys2019ctf.fb.com": "INACTIVE"
+        },
+        "1585740739": {
+            "po122.asw01.hkg3.tfbnw.net": "INACTIVE"
+        },
+        "1585740744": {
+            "edgeray-shv-01-lhr3.facebook.com": "INACTIVE"
+        },
+        "1585740746": {
+            "instagramstatic-a.akamaihd.net.edgesuite.net": "INACTIVE"
+        },
+        "1585740761": {
+            "z-p3-scontent.fbga1-1.fna.fbcdn.net": "INACTIVE"
+        },
+        "1585740785": {
+            "instagram-p42-shv-01-iad3.fbcdn.com": "INACTIVE"
+        },
+        "1585740792": {
+            "irc.t.tfbnw.net": "INACTIVE"
+        },
+        "1585740798": {
+            "ae4.bb02.ams2.tfbnw.net": "INACTIVE"
+        },
+        "1585740806": {
+            "xx-fbcdn-shv-01-icn1.fbcdn.net": "INACTIVE"
+        },
+        "1585740811": {
+            "instagram-p3-shv-01-lhr3.fbcdn.net": "INACTIVE"
+        },
+        "1585740825": {
+            "edge-atlas-shv-01-lhr3.facebook.com": "INACTIVE"
         }
     }
 }
