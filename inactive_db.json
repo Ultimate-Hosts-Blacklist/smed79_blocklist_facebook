@@ -3589,6 +3589,56 @@
         },
         "1585876045": {
             "edgeray-shv-01-lhr3.facebook.com": "INACTIVE"
+        },
+        "1586045821": {
+            "None": "INVALID"
+        },
+        "1586045919": {
+            "beta.t.facebook.net": "INACTIVE"
+        },
+        "1586045920": {
+            "cdn.facebook.net": "INACTIVE"
+        },
+        "1586045923": {
+            "connnect.facebook.net": "INACTIVE"
+        },
+        "1586046160": {
+            "rdns.facebook.net": "INACTIVE",
+            "reviews.facebook.net": "INACTIVE"
+        },
+        "1586046227": {
+            "static.fbcdn.com": "INACTIVE"
+        },
+        "1586046294": {
+            "m.messenger.com": "INACTIVE"
+        },
+        "1586046365": {
+            "instagram-p3-shv-01-lhr3.fbcdn.net": "INACTIVE",
+            "po122.asw01.hkg3.tfbnw.net": "INACTIVE"
+        },
+        "1586046366": {
+            "wicys2019ctf.fb.com": "INACTIVE"
+        },
+        "1586046375": {
+            "ae4.bb02.ams2.tfbnw.net": "INACTIVE"
+        },
+        "1586046379": {
+            "edge-snaptu-http-p1-shv-01-lhr3.facebook.com": "INACTIVE"
+        },
+        "1586046380": {
+            "edge-atlas-shv-01-lhr3.facebook.com": "INACTIVE"
+        },
+        "1586046388": {
+            "irc.t.tfbnw.net": "INACTIVE"
+        },
+        "1586046396": {
+            "instagram-p42-shv-01-iad3.fbcdn.com": "INACTIVE"
+        },
+        "1586046397": {
+            "ae0.pr03.sjc1.tfbnw.net": "INACTIVE"
+        },
+        "1586046414": {
+            "z-p3-scontent.fbga1-1.fna.fbcdn.net": "INACTIVE"
         }
     }
 }
