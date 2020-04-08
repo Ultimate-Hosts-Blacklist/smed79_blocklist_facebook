@@ -3814,6 +3814,9 @@
         },
         "1586372339": {
             "edge-atlas-shv-01-lhr3.facebook.com": "INACTIVE"
+        },
+        "1586373228": {
+            "edge-mqtt-shv-01-lhr3.facebook.com": "INACTIVE"
         }
     }
 }
