@@ -3817,6 +3817,40 @@
         },
         "1586373228": {
             "edge-mqtt-shv-01-lhr3.facebook.com": "INACTIVE"
+        },
+        "1586438706": {
+            "None": "INVALID"
+        },
+        "1586438814": {
+            "beta.t.facebook.net": "INACTIVE"
+        },
+        "1586438816": {
+            "cdn.facebook.net": "INACTIVE"
+        },
+        "1586438823": {
+            "connnect.facebook.net": "INACTIVE"
+        },
+        "1586439066": {
+            "rdns.facebook.net": "INACTIVE",
+            "reviews.facebook.net": "INACTIVE"
+        },
+        "1586439123": {
+            "static.fbcdn.com": "INACTIVE"
+        },
+        "1586439188": {
+            "m.messenger.com": "INACTIVE"
+        },
+        "1586439217": {
+            "mirror-ext.t.tfbnw.net": "INACTIVE"
+        },
+        "1586439226": {
+            "po122.asw01.hkg3.tfbnw.net": "INACTIVE"
+        },
+        "1586439240": {
+            "edgeray-shv-01-lhr3.facebook.com": "INACTIVE"
+        },
+        "1586439242": {
+            "irc.t.tfbnw.net": "INACTIVE"
         }
     }
 }
