@@ -3944,6 +3944,18 @@
         },
         "1586544101": {
             "wicys2019ctf.fb.com": "INACTIVE"
+        },
+        "1586548749": {
+            "edge-atlas-shv-01-lhr3.facebook.com": "INACTIVE"
+        },
+        "1586548750": {
+            "edge-mqtt-shv-01-lhr3.facebook.com": "INACTIVE"
+        },
+        "1586548829": {
+            "edge-snaptu-http-p1-shv-01-lhr3.facebook.com": "INACTIVE"
+        },
+        "1586548842": {
+            "edge-star-shv-01-lhr3.facebook.com": "INACTIVE"
         }
     }
 }
