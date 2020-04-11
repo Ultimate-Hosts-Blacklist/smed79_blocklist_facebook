@@ -3968,6 +3968,30 @@
         },
         "1586557268": {
             "xx-fbcdn-shv-01-icn1.fbcdn.net": "INACTIVE"
+        },
+        "1586613521": {
+            "None": "INVALID"
+        },
+        "1586613633": {
+            "beta.t.facebook.net": "INACTIVE"
+        },
+        "1586613635": {
+            "cdn.facebook.net": "INACTIVE"
+        },
+        "1586613638": {
+            "connnect.facebook.net": "INACTIVE"
+        },
+        "1586613886": {
+            "rdns.facebook.net": "INACTIVE"
+        },
+        "1586613887": {
+            "reviews.facebook.net": "INACTIVE"
+        },
+        "1586613948": {
+            "static.fbcdn.com": "INACTIVE"
+        },
+        "1586614022": {
+            "m.messenger.com": "INACTIVE"
         }
     }
 }
