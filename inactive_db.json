@@ -4049,6 +4049,28 @@
         },
         "1586667523": {
             "instagramstatic-a.akamaihd.net": "INACTIVE"
+        },
+        "1586700318": {
+            "None": "INVALID"
+        },
+        "1586700429": {
+            "beta.t.facebook.net": "INACTIVE"
+        },
+        "1586700431": {
+            "cdn.facebook.net": "INACTIVE"
+        },
+        "1586700434": {
+            "connnect.facebook.net": "INACTIVE"
+        },
+        "1586700691": {
+            "rdns.facebook.net": "INACTIVE",
+            "reviews.facebook.net": "INACTIVE"
+        },
+        "1586700759": {
+            "static.fbcdn.com": "INACTIVE"
+        },
+        "1586700840": {
+            "m.messenger.com": "INACTIVE"
         }
     }
 }
