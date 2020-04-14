@@ -4209,6 +4209,30 @@
         },
         "1586859630": {
             "z-p3-scontent.fbga1-1.fna.fbcdn.net": "INACTIVE"
+        },
+        "1586873500": {
+            "None": "INVALID"
+        },
+        "1586873609": {
+            "beta.t.facebook.net": "INACTIVE"
+        },
+        "1586873611": {
+            "cdn.facebook.net": "INACTIVE"
+        },
+        "1586873613": {
+            "connnect.facebook.net": "INACTIVE"
+        },
+        "1586873859": {
+            "rdns.facebook.net": "INACTIVE"
+        },
+        "1586873862": {
+            "reviews.facebook.net": "INACTIVE"
+        },
+        "1586873920": {
+            "static.fbcdn.com": "INACTIVE"
+        },
+        "1586873999": {
+            "m.messenger.com": "INACTIVE"
         }
     }
 }
