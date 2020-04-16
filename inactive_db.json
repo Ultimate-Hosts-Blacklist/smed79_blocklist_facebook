@@ -4364,6 +4364,33 @@
         },
         "1587048488": {
             "edge-atlas-shv-01-lhr3.facebook.com": "INACTIVE"
+        },
+        "1587051821": {
+            "None": "INVALID"
+        },
+        "1587051928": {
+            "beta.t.facebook.net": "INACTIVE"
+        },
+        "1587051931": {
+            "cdn.facebook.net": "INACTIVE"
+        },
+        "1587051933": {
+            "connnect.facebook.net": "INACTIVE"
+        },
+        "1587052205": {
+            "rdns.facebook.net": "INACTIVE"
+        },
+        "1587052206": {
+            "reviews.facebook.net": "INACTIVE"
+        },
+        "1587052261": {
+            "static.fbcdn.com": "INACTIVE"
+        },
+        "1587052334": {
+            "m.messenger.com": "INACTIVE"
+        },
+        "1587052376": {
+            "xx-fbcdn-shv-01-icn1.fbcdn.net": "INACTIVE"
         }
     }
 }
