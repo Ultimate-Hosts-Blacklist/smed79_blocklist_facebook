@@ -4682,6 +4682,37 @@
         },
         "1587404580": {
             "edge-snaptu-http-p1-shv-01-lhr3.facebook.com": "INACTIVE"
+        },
+        "1587409571": {
+            "None": "INVALID"
+        },
+        "1587409686": {
+            "beta.t.facebook.net": "INACTIVE"
+        },
+        "1587409688": {
+            "cdn.facebook.net": "INACTIVE"
+        },
+        "1587409691": {
+            "connnect.facebook.net": "INACTIVE"
+        },
+        "1587409779": {
+            "instagram-p3-shv-01-hkg3.fbcdn.net": "INACTIVE"
+        },
+        "1587409935": {
+            "rdns.facebook.net": "INACTIVE",
+            "reviews.facebook.net": "INACTIVE"
+        },
+        "1587409993": {
+            "static.fbcdn.com": "INACTIVE"
+        },
+        "1587410081": {
+            "m.messenger.com": "INACTIVE"
+        },
+        "1587410096": {
+            "xx-fbcdn-shv-01-hkg3.fbcdn.net": "INACTIVE"
+        },
+        "1587410127": {
+            "edge-atlas-shv-01-lhr3.facebook.com": "INACTIVE"
         }
     }
 }
