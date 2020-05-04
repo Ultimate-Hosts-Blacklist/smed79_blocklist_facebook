@@ -2264,8 +2264,8 @@
         "xx-fbcdn-shv-01-icn1.fbcdn.net": {
             "included_at_epoch": 1588482086.0,
             "included_at_iso": "2020-05-03T05:01:26",
-            "last_retested_at_epoch": 1588482086.0,
-            "last_retested_at_iso": "2020-05-03T05:01:26",
+            "last_retested_at_epoch": 1588569025.534005,
+            "last_retested_at_iso": "2020-05-04T05:10:25.534005",
             "status": "INACTIVE"
         },
         "xx-fbcdn-shv-01-kut2.fbcdn.net": {
