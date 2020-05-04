@@ -290,8 +290,8 @@
         "edge-atlas-shv-01-lhr3.facebook.com": {
             "included_at_epoch": 1588485772.0,
             "included_at_iso": "2020-05-03T06:02:52",
-            "last_retested_at_epoch": 1588485772.0,
-            "last_retested_at_iso": "2020-05-03T06:02:52",
+            "last_retested_at_epoch": 1588582703.354747,
+            "last_retested_at_iso": "2020-05-04T08:58:23.354747",
             "status": "INACTIVE"
         },
         "edge-atlas-shv-01-mad1.facebook.com": {
@@ -2425,8 +2425,8 @@
         "z-p3-scontent.fbga1-1.fna.fbcdn.net": {
             "included_at_epoch": 1588482066.0,
             "included_at_iso": "2020-05-03T05:01:06",
-            "last_retested_at_epoch": 1588482066.0,
-            "last_retested_at_iso": "2020-05-03T05:01:06",
+            "last_retested_at_epoch": 1588582702.932446,
+            "last_retested_at_iso": "2020-05-04T08:58:22.932446",
             "status": "INACTIVE"
         },
         "z-p3-scontent.fsub1-1.fna.fbcdn.net": {
