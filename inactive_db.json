@@ -94,8 +94,8 @@
         "None": {
             "included_at_epoch": 1588505921.0,
             "included_at_iso": "2020-05-03T11:38:41",
-            "last_retested_at_epoch": 1588505921.0,
-            "last_retested_at_iso": "2020-05-03T11:38:41",
+            "last_retested_at_epoch": 1588609320.299826,
+            "last_retested_at_iso": "2020-05-04T16:22:00.299826",
             "status": "INVALID"
         },
         "a.ns.facebook.com": {
@@ -1046,8 +1046,8 @@
         "po122.asw01.hkg3.tfbnw.net": {
             "included_at_epoch": 1588515348.0,
             "included_at_iso": "2020-05-03T14:15:48",
-            "last_retested_at_epoch": 1588515348.0,
-            "last_retested_at_iso": "2020-05-03T14:15:48",
+            "last_retested_at_epoch": 1588609306.669729,
+            "last_retested_at_iso": "2020-05-04T16:21:46.669729",
             "status": "INACTIVE"
         },
         "profile-a-atl.xx.fbcdn.net": {
