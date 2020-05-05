@@ -857,8 +857,8 @@
         "instagramstatic-a.akamaihd.net.edgesuite.net": {
             "included_at_epoch": 1588496313.0,
             "included_at_iso": "2020-05-03T08:58:33",
-            "last_retested_at_epoch": 1588600511.641048,
-            "last_retested_at_iso": "2020-05-04T13:55:11.641048",
+            "last_retested_at_epoch": 1588695460.602439,
+            "last_retested_at_iso": "2020-05-05T16:17:40.602439",
             "status": "INACTIVE"
         },
         "irc.t.tfbnw.net": {
