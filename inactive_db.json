@@ -290,8 +290,8 @@
         "edge-atlas-shv-01-lhr3.facebook.com": {
             "included_at_epoch": 1588485772.0,
             "included_at_iso": "2020-05-03T06:02:52",
-            "last_retested_at_epoch": 1588582703.354747,
-            "last_retested_at_iso": "2020-05-04T08:58:23.354747",
+            "last_retested_at_epoch": 1588672510.542976,
+            "last_retested_at_iso": "2020-05-05T09:55:10.542976",
             "status": "INACTIVE"
         },
         "edge-atlas-shv-01-mad1.facebook.com": {
@@ -2264,8 +2264,8 @@
         "xx-fbcdn-shv-01-icn1.fbcdn.net": {
             "included_at_epoch": 1588482086.0,
             "included_at_iso": "2020-05-03T05:01:26",
-            "last_retested_at_epoch": 1588569025.534005,
-            "last_retested_at_iso": "2020-05-04T05:10:25.534005",
+            "last_retested_at_epoch": 1588672528.728597,
+            "last_retested_at_iso": "2020-05-05T09:55:28.728597",
             "status": "INACTIVE"
         },
         "xx-fbcdn-shv-01-kut2.fbcdn.net": {
@@ -2425,8 +2425,8 @@
         "z-p3-scontent.fbga1-1.fna.fbcdn.net": {
             "included_at_epoch": 1588482066.0,
             "included_at_iso": "2020-05-03T05:01:06",
-            "last_retested_at_epoch": 1588582702.932446,
-            "last_retested_at_iso": "2020-05-04T08:58:22.932446",
+            "last_retested_at_epoch": 1588672538.419401,
+            "last_retested_at_iso": "2020-05-05T09:55:38.419401",
             "status": "INACTIVE"
         },
         "z-p3-scontent.fsub1-1.fna.fbcdn.net": {
