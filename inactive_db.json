@@ -801,8 +801,8 @@
         "instagram-p42-shv-01-iad3.fbcdn.com": {
             "included_at_epoch": 1588512124.0,
             "included_at_iso": "2020-05-03T13:22:04",
-            "last_retested_at_epoch": 1588632376.704843,
-            "last_retested_at_iso": "2020-05-04T22:46:16.704843",
+            "last_retested_at_epoch": 1588728540.849242,
+            "last_retested_at_iso": "2020-05-06T01:29:00.849242",
             "status": "INACTIVE"
         },
         "instagram-p42-shv-01-iad3.fbcdn.net": {
@@ -948,8 +948,8 @@
         "mirror-ext.t.tfbnw.net": {
             "included_at_epoch": 1588482058.0,
             "included_at_iso": "2020-05-03T05:00:58",
-            "last_retested_at_epoch": 1588600490.984809,
-            "last_retested_at_iso": "2020-05-04T13:54:50.984809",
+            "last_retested_at_epoch": 1588728541.125481,
+            "last_retested_at_iso": "2020-05-06T01:29:01.125481",
             "status": "INACTIVE"
         },
         "mozilla.mirror.facebook.net": {
