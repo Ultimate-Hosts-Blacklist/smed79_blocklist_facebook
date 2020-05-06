@@ -535,8 +535,8 @@
         "edgeray-shv-01-lhr3.facebook.com": {
             "included_at_epoch": 1588521426.0,
             "included_at_iso": "2020-05-03T15:57:06",
-            "last_retested_at_epoch": 1588663530.282586,
-            "last_retested_at_iso": "2020-05-05T07:25:30.282586",
+            "last_retested_at_epoch": 1588759736.97836,
+            "last_retested_at_iso": "2020-05-06T10:08:56.978360",
             "status": "INACTIVE"
         },
         "edgeray-shv-01-mad1.facebook.com": {
@@ -2264,8 +2264,8 @@
         "xx-fbcdn-shv-01-icn1.fbcdn.net": {
             "included_at_epoch": 1588482086.0,
             "included_at_iso": "2020-05-03T05:01:26",
-            "last_retested_at_epoch": 1588672528.728597,
-            "last_retested_at_iso": "2020-05-05T09:55:28.728597",
+            "last_retested_at_epoch": 1588759737.704661,
+            "last_retested_at_iso": "2020-05-06T10:08:57.704661",
             "status": "INACTIVE"
         },
         "xx-fbcdn-shv-01-kut2.fbcdn.net": {
@@ -2285,8 +2285,8 @@
         "xx-fbcdn-shv-01-lhr3.fbcdn.net": {
             "included_at_epoch": 1588521426.0,
             "included_at_iso": "2020-05-03T15:57:06",
-            "last_retested_at_epoch": 1588618319.901654,
-            "last_retested_at_iso": "2020-05-04T18:51:59.901654",
+            "last_retested_at_epoch": 1588759736.977357,
+            "last_retested_at_iso": "2020-05-06T10:08:56.977357",
             "status": "INACTIVE"
         },
         "xx-fbcdn-shv-01-mia3.fbcdn.net": {
@@ -2425,8 +2425,8 @@
         "z-p3-scontent.fbga1-1.fna.fbcdn.net": {
             "included_at_epoch": 1588482066.0,
             "included_at_iso": "2020-05-03T05:01:06",
-            "last_retested_at_epoch": 1588672538.419401,
-            "last_retested_at_iso": "2020-05-05T09:55:38.419401",
+            "last_retested_at_epoch": 1588759719.969772,
+            "last_retested_at_iso": "2020-05-06T10:08:39.969772",
             "status": "INACTIVE"
         },
         "z-p3-scontent.fsub1-1.fna.fbcdn.net": {
