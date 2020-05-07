@@ -857,8 +857,8 @@
         "instagramstatic-a.akamaihd.net.edgesuite.net": {
             "included_at_epoch": 1588496313.0,
             "included_at_iso": "2020-05-03T08:58:33",
-            "last_retested_at_epoch": 1588695460.602439,
-            "last_retested_at_iso": "2020-05-05T16:17:40.602439",
+            "last_retested_at_epoch": 1588874204.841106,
+            "last_retested_at_iso": "2020-05-07T17:56:44.841106",
             "status": "INACTIVE"
         },
         "irc.t.tfbnw.net": {
@@ -2439,8 +2439,8 @@
         "z-p3-scontent.fbga1-1.fna.fbcdn.net": {
             "included_at_epoch": 1588482066.0,
             "included_at_iso": "2020-05-03T05:01:06",
-            "last_retested_at_epoch": 1588759719.969772,
-            "last_retested_at_iso": "2020-05-06T10:08:39.969772",
+            "last_retested_at_epoch": 1588874199.411775,
+            "last_retested_at_iso": "2020-05-07T17:56:39.411775",
             "status": "INACTIVE"
         },
         "z-p3-scontent.fsub1-1.fna.fbcdn.net": {
