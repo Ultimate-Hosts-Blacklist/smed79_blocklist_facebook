@@ -486,8 +486,8 @@
         "edge-star-shv-01-lhr3.facebook.com": {
             "included_at_epoch": 1588492966.0,
             "included_at_iso": "2020-05-03T08:02:46",
-            "last_retested_at_epoch": 1588700390.643853,
-            "last_retested_at_iso": "2020-05-05T17:39:50.643853",
+            "last_retested_at_epoch": 1588819810.812688,
+            "last_retested_at_iso": "2020-05-07T02:50:10.812688",
             "status": "INACTIVE"
         },
         "edge-video-shv-01-arn2.fbcdn.net": {
