@@ -94,8 +94,8 @@
         "None": {
             "included_at_epoch": 1588505921.0,
             "included_at_iso": "2020-05-03T11:38:41",
-            "last_retested_at_epoch": 1588738192.192916,
-            "last_retested_at_iso": "2020-05-06T04:09:52.192916",
+            "last_retested_at_epoch": 1588838063.052769,
+            "last_retested_at_iso": "2020-05-07T07:54:23.052769",
             "status": "INVALID"
         },
         "a.ns.facebook.com": {
@@ -122,8 +122,8 @@
         "ae0.pr03.sjc1.tfbnw.net": {
             "included_at_epoch": 1588524183.0,
             "included_at_iso": "2020-05-03T16:43:03",
-            "last_retested_at_epoch": 1588710004.140387,
-            "last_retested_at_iso": "2020-05-05T20:20:04.140387",
+            "last_retested_at_epoch": 1588838040.235773,
+            "last_retested_at_iso": "2020-05-07T07:54:00.235773",
             "status": "INACTIVE"
         },
         "ae0.pr04.sjc1.tfbnw.net": {
