@@ -864,8 +864,8 @@
         "irc.t.tfbnw.net": {
             "included_at_epoch": 1588505905.0,
             "included_at_iso": "2020-05-03T11:38:25",
-            "last_retested_at_epoch": 1588802214.369409,
-            "last_retested_at_iso": "2020-05-06T21:56:54.369409",
+            "last_retested_at_epoch": 1588922776.597329,
+            "last_retested_at_iso": "2020-05-08T07:26:16.597329",
             "status": "INACTIVE"
         },
         "irc.tfbnw.net": {
