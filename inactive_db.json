@@ -129,8 +129,8 @@
         "ae0.pr04.sjc1.tfbnw.net": {
             "included_at_epoch": 1588512156.0,
             "included_at_iso": "2020-05-03T13:22:36",
-            "last_retested_at_epoch": 1588777248.096804,
-            "last_retested_at_iso": "2020-05-06T15:00:48.096804",
+            "last_retested_at_epoch": 1588918162.485826,
+            "last_retested_at_iso": "2020-05-08T06:09:22.485826",
             "status": "INACTIVE"
         },
         "ae29.bb02.mia1.tfbnw.net": {
