@@ -444,8 +444,8 @@
         "edge-snaptu-http-p1-shv-01-lhr3.facebook.com": {
             "included_at_epoch": 1588482067.0,
             "included_at_iso": "2020-05-03T05:01:07",
-            "last_retested_at_epoch": 1588864688.786084,
-            "last_retested_at_iso": "2020-05-07T15:18:08.786084",
+            "last_retested_at_epoch": 1588975200.270729,
+            "last_retested_at_iso": "2020-05-08T22:00:00.270729",
             "status": "INACTIVE"
         },
         "edge-snaptu-http-p1-shv-01-mad1.facebook.com": {
@@ -934,8 +934,8 @@
         "m.messenger.com": {
             "included_at_epoch": 1588448572.0,
             "included_at_iso": "2020-05-02T19:42:52",
-            "last_retested_at_epoch": 1588888626.606284,
-            "last_retested_at_iso": "2020-05-07T21:57:06.606284",
+            "last_retested_at_epoch": 1588975053.28515,
+            "last_retested_at_iso": "2020-05-08T21:57:33.285150",
             "status": "INACTIVE"
         },
         "mabasic.beta.facebook.net": {
@@ -1179,8 +1179,8 @@
         "reviews.facebook.net": {
             "included_at_epoch": 1588448582.0,
             "included_at_iso": "2020-05-02T19:43:02",
-            "last_retested_at_epoch": 1588888769.584911,
-            "last_retested_at_iso": "2020-05-07T21:59:29.584911",
+            "last_retested_at_epoch": 1588975190.401891,
+            "last_retested_at_iso": "2020-05-08T21:59:50.401891",
             "status": "INACTIVE"
         },
         "rupload.facebook.com": {
