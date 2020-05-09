@@ -1550,8 +1550,8 @@
         "wicys2019ctf.fb.com": {
             "included_at_epoch": 1588505938.0,
             "included_at_iso": "2020-05-03T11:38:58",
-            "last_retested_at_epoch": 1588946311.641689,
-            "last_retested_at_iso": "2020-05-08T13:58:31.641689",
+            "last_retested_at_epoch": 1589046557.047835,
+            "last_retested_at_iso": "2020-05-09T17:49:17.047835",
             "status": "INACTIVE"
         },
         "www.1907113739430074.fb.me": {
