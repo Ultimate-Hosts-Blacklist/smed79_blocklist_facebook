@@ -94,8 +94,8 @@
         "None": {
             "included_at_epoch": 1588505921.0,
             "included_at_iso": "2020-05-03T11:38:41",
-            "last_retested_at_epoch": 1588932205.343987,
-            "last_retested_at_iso": "2020-05-08T10:03:25.343987",
+            "last_retested_at_epoch": 1589022352.13963,
+            "last_retested_at_iso": "2020-05-09T11:05:52.139630",
             "status": "INVALID"
         },
         "a.ns.facebook.com": {
@@ -122,8 +122,8 @@
         "ae0.pr03.sjc1.tfbnw.net": {
             "included_at_epoch": 1588524183.0,
             "included_at_iso": "2020-05-03T16:43:03",
-            "last_retested_at_epoch": 1588932223.910133,
-            "last_retested_at_iso": "2020-05-08T10:03:43.910133",
+            "last_retested_at_epoch": 1589022318.741243,
+            "last_retested_at_iso": "2020-05-09T11:05:18.741243",
             "status": "INACTIVE"
         },
         "ae0.pr04.sjc1.tfbnw.net": {
@@ -1046,8 +1046,8 @@
         "po122.asw01.hkg3.tfbnw.net": {
             "included_at_epoch": 1588515348.0,
             "included_at_iso": "2020-05-03T14:15:48",
-            "last_retested_at_epoch": 1588932194.421026,
-            "last_retested_at_iso": "2020-05-08T10:03:14.421026",
+            "last_retested_at_epoch": 1589022331.779728,
+            "last_retested_at_iso": "2020-05-09T11:05:31.779728",
             "status": "INACTIVE"
         },
         "profile-a-atl.xx.fbcdn.net": {
