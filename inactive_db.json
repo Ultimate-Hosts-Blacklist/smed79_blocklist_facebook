@@ -290,8 +290,8 @@
         "edge-atlas-shv-01-lhr3.facebook.com": {
             "included_at_epoch": 1588485772.0,
             "included_at_iso": "2020-05-03T06:02:52",
-            "last_retested_at_epoch": 1588951327.444656,
-            "last_retested_at_iso": "2020-05-08T15:22:07.444656",
+            "last_retested_at_epoch": 1589041627.575061,
+            "last_retested_at_iso": "2020-05-09T16:27:07.575061",
             "status": "INACTIVE"
         },
         "edge-atlas-shv-01-mad1.facebook.com": {
@@ -535,8 +535,8 @@
         "edgeray-shv-01-lhr3.facebook.com": {
             "included_at_epoch": 1588521426.0,
             "included_at_iso": "2020-05-03T15:57:06",
-            "last_retested_at_epoch": 1588951297.009811,
-            "last_retested_at_iso": "2020-05-08T15:21:37.009811",
+            "last_retested_at_epoch": 1589041636.15906,
+            "last_retested_at_iso": "2020-05-09T16:27:16.159060",
             "status": "INACTIVE"
         },
         "edgeray-shv-01-mad1.facebook.com": {
@@ -822,8 +822,8 @@
         "instagram.fper2-1.fna.fbcdn.net": {
             "included_at_epoch": 1588512097.0,
             "included_at_iso": "2020-05-03T13:21:37",
-            "last_retested_at_epoch": 1588951000.215598,
-            "last_retested_at_iso": "2020-05-08T15:16:40.215598",
+            "last_retested_at_epoch": 1589041267.581138,
+            "last_retested_at_iso": "2020-05-09T16:21:07.581138",
             "status": "INACTIVE"
         },
         "instagram.fpoa1-1.fna.fbcdn.net": {
@@ -2299,8 +2299,8 @@
         "xx-fbcdn-shv-01-lhr3.fbcdn.net": {
             "included_at_epoch": 1588521426.0,
             "included_at_iso": "2020-05-03T15:57:06",
-            "last_retested_at_epoch": 1588951313.686393,
-            "last_retested_at_iso": "2020-05-08T15:21:53.686393",
+            "last_retested_at_epoch": 1589041642.454966,
+            "last_retested_at_iso": "2020-05-09T16:27:22.454966",
             "status": "INACTIVE"
         },
         "xx-fbcdn-shv-01-mia3.fbcdn.net": {
