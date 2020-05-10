@@ -129,8 +129,8 @@
         "ae0.pr04.sjc1.tfbnw.net": {
             "included_at_epoch": 1588512156.0,
             "included_at_iso": "2020-05-03T13:22:36",
-            "last_retested_at_epoch": 1589008610.888879,
-            "last_retested_at_iso": "2020-05-09T07:16:50.888879",
+            "last_retested_at_epoch": 1589100548.919848,
+            "last_retested_at_iso": "2020-05-10T08:49:08.919848",
             "status": "INACTIVE"
         },
         "ae29.bb02.mia1.tfbnw.net": {
@@ -486,8 +486,8 @@
         "edge-star-shv-01-lhr3.facebook.com": {
             "included_at_epoch": 1588492966.0,
             "included_at_iso": "2020-05-03T08:02:46",
-            "last_retested_at_epoch": 1589008576.236876,
-            "last_retested_at_iso": "2020-05-09T07:16:16.236876",
+            "last_retested_at_epoch": 1589100564.500853,
+            "last_retested_at_iso": "2020-05-10T08:49:24.500853",
             "status": "INACTIVE"
         },
         "edge-video-shv-01-arn2.fbcdn.net": {
@@ -801,8 +801,8 @@
         "instagram-p42-shv-01-iad3.fbcdn.com": {
             "included_at_epoch": 1588512124.0,
             "included_at_iso": "2020-05-03T13:22:04",
-            "last_retested_at_epoch": 1589013109.46793,
-            "last_retested_at_iso": "2020-05-09T08:31:49.467930",
+            "last_retested_at_epoch": 1589100538.766838,
+            "last_retested_at_iso": "2020-05-10T08:48:58.766838",
             "status": "INACTIVE"
         },
         "instagram-p42-shv-01-iad3.fbcdn.net": {
