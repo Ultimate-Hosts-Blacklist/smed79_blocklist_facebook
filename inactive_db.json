@@ -535,8 +535,8 @@
         "edgeray-shv-01-lhr3.facebook.com": {
             "included_at_epoch": 1588521426.0,
             "included_at_iso": "2020-05-03T15:57:06",
-            "last_retested_at_epoch": 1589129224.099731,
-            "last_retested_at_iso": "2020-05-10T16:47:04.099731",
+            "last_retested_at_epoch": 1589226364.835738,
+            "last_retested_at_iso": "2020-05-11T19:46:04.835738",
             "status": "INACTIVE"
         },
         "edgeray-shv-01-mad1.facebook.com": {
@@ -1550,8 +1550,8 @@
         "wicys2019ctf.fb.com": {
             "included_at_epoch": 1588505938.0,
             "included_at_iso": "2020-05-03T11:38:58",
-            "last_retested_at_epoch": 1589134380.365541,
-            "last_retested_at_iso": "2020-05-10T18:13:00.365541",
+            "last_retested_at_epoch": 1589226368.133418,
+            "last_retested_at_iso": "2020-05-11T19:46:08.133418",
             "status": "INACTIVE"
         },
         "www.1907113739430074.fb.me": {
