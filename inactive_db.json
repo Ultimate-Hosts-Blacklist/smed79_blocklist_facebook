@@ -143,8 +143,8 @@
         "ae4.bb02.ams2.tfbnw.net": {
             "included_at_epoch": 1588518444.0,
             "included_at_iso": "2020-05-03T15:07:24",
-            "last_retested_at_epoch": 1589139151.681825,
-            "last_retested_at_iso": "2020-05-10T19:32:31.681825",
+            "last_retested_at_epoch": 1589278719.322331,
+            "last_retested_at_iso": "2020-05-12T10:18:39.322331",
             "status": "INACTIVE"
         },
         "ae59.pr03.sin1.tfbnw.net": {
@@ -444,8 +444,8 @@
         "edge-snaptu-http-p1-shv-01-lhr3.facebook.com": {
             "included_at_epoch": 1588482067.0,
             "included_at_iso": "2020-05-03T05:01:07",
-            "last_retested_at_epoch": 1589182355.698158,
-            "last_retested_at_iso": "2020-05-11T07:32:35.698158",
+            "last_retested_at_epoch": 1589278669.687045,
+            "last_retested_at_iso": "2020-05-12T10:17:49.687045",
             "status": "INACTIVE"
         },
         "edge-snaptu-http-p1-shv-01-mad1.facebook.com": {
@@ -486,8 +486,8 @@
         "edge-star-shv-01-lhr3.facebook.com": {
             "included_at_epoch": 1588492966.0,
             "included_at_iso": "2020-05-03T08:02:46",
-            "last_retested_at_epoch": 1589187247.671467,
-            "last_retested_at_iso": "2020-05-11T08:54:07.671467",
+            "last_retested_at_epoch": 1589278677.834562,
+            "last_retested_at_iso": "2020-05-12T10:17:57.834562",
             "status": "INACTIVE"
         },
         "edge-video-shv-01-arn2.fbcdn.net": {
@@ -2278,8 +2278,8 @@
         "xx-fbcdn-shv-01-icn1.fbcdn.net": {
             "included_at_epoch": 1588482086.0,
             "included_at_iso": "2020-05-03T05:01:26",
-            "last_retested_at_epoch": 1589163559.166449,
-            "last_retested_at_iso": "2020-05-11T02:19:19.166449",
+            "last_retested_at_epoch": 1589278728.781045,
+            "last_retested_at_iso": "2020-05-12T10:18:48.781045",
             "status": "INACTIVE"
         },
         "xx-fbcdn-shv-01-kut2.fbcdn.net": {
