@@ -535,8 +535,8 @@
         "edgeray-shv-01-lhr3.facebook.com": {
             "included_at_epoch": 1588521426.0,
             "included_at_iso": "2020-05-03T15:57:06",
-            "last_retested_at_epoch": 1589226364.835738,
-            "last_retested_at_iso": "2020-05-11T19:46:04.835738",
+            "last_retested_at_epoch": 1589313906.20591,
+            "last_retested_at_iso": "2020-05-12T20:05:06.205910",
             "status": "INACTIVE"
         },
         "edgeray-shv-01-mad1.facebook.com": {
@@ -864,8 +864,8 @@
         "irc.t.tfbnw.net": {
             "included_at_epoch": 1588505905.0,
             "included_at_iso": "2020-05-03T11:38:25",
-            "last_retested_at_epoch": 1589196960.906858,
-            "last_retested_at_iso": "2020-05-11T11:36:00.906858",
+            "last_retested_at_epoch": 1589313886.094137,
+            "last_retested_at_iso": "2020-05-12T20:04:46.094137",
             "status": "INACTIVE"
         },
         "irc.tfbnw.net": {
