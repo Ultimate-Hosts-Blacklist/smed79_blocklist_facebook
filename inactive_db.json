@@ -290,8 +290,8 @@
         "edge-atlas-shv-01-lhr3.facebook.com": {
             "included_at_epoch": 1588485772.0,
             "included_at_iso": "2020-05-03T06:02:52",
-            "last_retested_at_epoch": 1589143996.67057,
-            "last_retested_at_iso": "2020-05-10T20:53:16.670570",
+            "last_retested_at_epoch": 1589300987.765478,
+            "last_retested_at_iso": "2020-05-12T16:29:47.765478",
             "status": "INACTIVE"
         },
         "edge-atlas-shv-01-mad1.facebook.com": {
