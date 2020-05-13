@@ -360,8 +360,8 @@
         "edge-mqtt-shv-01-lhr3.facebook.com": {
             "included_at_epoch": 1588518427.0,
             "included_at_iso": "2020-05-03T15:07:07",
-            "last_retested_at_epoch": 1589251174.067337,
-            "last_retested_at_iso": "2020-05-12T02:39:34.067337",
+            "last_retested_at_epoch": 1589341387.165443,
+            "last_retested_at_iso": "2020-05-13T03:43:07.165443",
             "status": "INACTIVE"
         },
         "edge-mqtt-shv-01-mad1.facebook.com": {
@@ -703,8 +703,8 @@
         "instagram-p3-shv-01-hkg3.fbcdn.net": {
             "included_at_epoch": 1588453563.0,
             "included_at_iso": "2020-05-02T21:06:03",
-            "last_retested_at_epoch": 1589250954.936942,
-            "last_retested_at_iso": "2020-05-12T02:35:54.936942",
+            "last_retested_at_epoch": 1589341283.120631,
+            "last_retested_at_iso": "2020-05-13T03:41:23.120631",
             "status": "INACTIVE"
         },
         "instagram-p3-shv-01-iad3.fbcdn.net": {
