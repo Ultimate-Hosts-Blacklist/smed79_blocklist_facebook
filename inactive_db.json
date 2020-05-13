@@ -444,8 +444,8 @@
         "edge-snaptu-http-p1-shv-01-lhr3.facebook.com": {
             "included_at_epoch": 1588482067.0,
             "included_at_iso": "2020-05-03T05:01:07",
-            "last_retested_at_epoch": 1589278669.687045,
-            "last_retested_at_iso": "2020-05-12T10:17:49.687045",
+            "last_retested_at_epoch": 1589413206.479451,
+            "last_retested_at_iso": "2020-05-13T23:40:06.479451",
             "status": "INACTIVE"
         },
         "edge-snaptu-http-p1-shv-01-mad1.facebook.com": {
