@@ -143,8 +143,8 @@
         "ae4.bb02.ams2.tfbnw.net": {
             "included_at_epoch": 1588518444.0,
             "included_at_iso": "2020-05-03T15:07:24",
-            "last_retested_at_epoch": 1589278719.322331,
-            "last_retested_at_iso": "2020-05-12T10:18:39.322331",
+            "last_retested_at_epoch": 1589375939.809285,
+            "last_retested_at_iso": "2020-05-13T13:18:59.809285",
             "status": "INACTIVE"
         },
         "ae59.pr03.sin1.tfbnw.net": {
@@ -486,8 +486,8 @@
         "edge-star-shv-01-lhr3.facebook.com": {
             "included_at_epoch": 1588492966.0,
             "included_at_iso": "2020-05-03T08:02:46",
-            "last_retested_at_epoch": 1589278677.834562,
-            "last_retested_at_iso": "2020-05-12T10:17:57.834562",
+            "last_retested_at_epoch": 1589375946.205434,
+            "last_retested_at_iso": "2020-05-13T13:19:06.205434",
             "status": "INACTIVE"
         },
         "edge-video-shv-01-arn2.fbcdn.net": {
@@ -801,8 +801,8 @@
         "instagram-p42-shv-01-iad3.fbcdn.com": {
             "included_at_epoch": 1588512124.0,
             "included_at_iso": "2020-05-03T13:22:04",
-            "last_retested_at_epoch": 1589287645.954946,
-            "last_retested_at_iso": "2020-05-12T12:47:25.954946",
+            "last_retested_at_epoch": 1589375972.713362,
+            "last_retested_at_iso": "2020-05-13T13:19:32.713362",
             "status": "INACTIVE"
         },
         "instagram-p42-shv-01-iad3.fbcdn.net": {
@@ -2439,8 +2439,8 @@
         "z-p3-scontent.fbga1-1.fna.fbcdn.net": {
             "included_at_epoch": 1588482066.0,
             "included_at_iso": "2020-05-03T05:01:06",
-            "last_retested_at_epoch": 1589256120.69933,
-            "last_retested_at_iso": "2020-05-12T04:02:00.699330",
+            "last_retested_at_epoch": 1589375942.861703,
+            "last_retested_at_iso": "2020-05-13T13:19:02.861703",
             "status": "INACTIVE"
         },
         "z-p3-scontent.fsub1-1.fna.fbcdn.net": {
