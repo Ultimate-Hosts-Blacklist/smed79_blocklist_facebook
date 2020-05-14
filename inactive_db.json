@@ -213,8 +213,8 @@
         "beta.t.facebook.net": {
             "included_at_epoch": 1588448802.0,
             "included_at_iso": "2020-05-02T19:46:42",
-            "last_retested_at_epoch": 1589331955.013934,
-            "last_retested_at_iso": "2020-05-13T01:05:55.013934",
+            "last_retested_at_epoch": 1589421686.894608,
+            "last_retested_at_iso": "2020-05-14T02:01:26.894608",
             "status": "INACTIVE"
         },
         "bg-bg.id-id.fb.me": {
@@ -227,8 +227,8 @@
         "cdn.facebook.net": {
             "included_at_epoch": 1588448495.0,
             "included_at_iso": "2020-05-02T19:41:35",
-            "last_retested_at_epoch": 1589331832.939785,
-            "last_retested_at_iso": "2020-05-13T01:03:52.939785",
+            "last_retested_at_epoch": 1589422014.346696,
+            "last_retested_at_iso": "2020-05-14T02:06:54.346696",
             "status": "INACTIVE"
         },
         "connnect.facebook.net": {
@@ -535,8 +535,8 @@
         "edgeray-shv-01-lhr3.facebook.com": {
             "included_at_epoch": 1588521426.0,
             "included_at_iso": "2020-05-03T15:57:06",
-            "last_retested_at_epoch": 1589313906.20591,
-            "last_retested_at_iso": "2020-05-12T20:05:06.205910",
+            "last_retested_at_epoch": 1589422158.268169,
+            "last_retested_at_iso": "2020-05-14T02:09:18.268169",
             "status": "INACTIVE"
         },
         "edgeray-shv-01-mad1.facebook.com": {
