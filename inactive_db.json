@@ -1046,8 +1046,8 @@
         "po122.asw01.hkg3.tfbnw.net": {
             "included_at_epoch": 1588515348.0,
             "included_at_iso": "2020-05-03T14:15:48",
-            "last_retested_at_epoch": 1589323106.414695,
-            "last_retested_at_iso": "2020-05-12T22:38:26.414695",
+            "last_retested_at_epoch": 1589426521.897364,
+            "last_retested_at_iso": "2020-05-14T03:22:01.897364",
             "status": "INACTIVE"
         },
         "profile-a-atl.xx.fbcdn.net": {
@@ -2306,8 +2306,8 @@
         "xx-fbcdn-shv-01-lhr3.fbcdn.net": {
             "included_at_epoch": 1588521426.0,
             "included_at_iso": "2020-05-03T15:57:06",
-            "last_retested_at_epoch": 1589332165.497897,
-            "last_retested_at_iso": "2020-05-13T01:09:25.497897",
+            "last_retested_at_epoch": 1589426534.252689,
+            "last_retested_at_iso": "2020-05-14T03:22:14.252689",
             "status": "INACTIVE"
         },
         "xx-fbcdn-shv-01-mia3.fbcdn.net": {
