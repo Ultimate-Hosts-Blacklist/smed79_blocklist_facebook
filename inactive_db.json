@@ -2306,8 +2306,8 @@
         "xx-fbcdn-shv-01-lhr3.fbcdn.net": {
             "included_at_epoch": 1588521426.0,
             "included_at_iso": "2020-05-03T15:57:06",
-            "last_retested_at_epoch": 1589426534.252689,
-            "last_retested_at_iso": "2020-05-14T03:22:14.252689",
+            "last_retested_at_epoch": 1589534189.447016,
+            "last_retested_at_iso": "2020-05-15T09:16:29.447016",
             "status": "INACTIVE"
         },
         "xx-fbcdn-shv-01-mia3.fbcdn.net": {
