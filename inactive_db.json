@@ -444,8 +444,8 @@
         "edge-snaptu-http-p1-shv-01-lhr3.facebook.com": {
             "included_at_epoch": 1588482067.0,
             "included_at_iso": "2020-05-03T05:01:07",
-            "last_retested_at_epoch": 1589413206.479451,
-            "last_retested_at_iso": "2020-05-13T23:40:06.479451",
+            "last_retested_at_epoch": 1589520724.180853,
+            "last_retested_at_iso": "2020-05-15T05:32:04.180853",
             "status": "INACTIVE"
         },
         "edge-snaptu-http-p1-shv-01-mad1.facebook.com": {
@@ -703,8 +703,8 @@
         "instagram-p3-shv-01-hkg3.fbcdn.net": {
             "included_at_epoch": 1588453563.0,
             "included_at_iso": "2020-05-02T21:06:03",
-            "last_retested_at_epoch": 1589429875.259426,
-            "last_retested_at_iso": "2020-05-14T04:17:55.259426",
+            "last_retested_at_epoch": 1589520496.679418,
+            "last_retested_at_iso": "2020-05-15T05:28:16.679418",
             "status": "INACTIVE"
         },
         "instagram-p3-shv-01-iad3.fbcdn.net": {
@@ -1046,8 +1046,8 @@
         "po122.asw01.hkg3.tfbnw.net": {
             "included_at_epoch": 1588515348.0,
             "included_at_iso": "2020-05-03T14:15:48",
-            "last_retested_at_epoch": 1589426521.897364,
-            "last_retested_at_iso": "2020-05-14T03:22:01.897364",
+            "last_retested_at_epoch": 1589520709.806591,
+            "last_retested_at_iso": "2020-05-15T05:31:49.806591",
             "status": "INACTIVE"
         },
         "profile-a-atl.xx.fbcdn.net": {
