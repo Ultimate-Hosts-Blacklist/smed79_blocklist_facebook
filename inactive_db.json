@@ -213,8 +213,8 @@
         "beta.t.facebook.net": {
             "included_at_epoch": 1588448802.0,
             "included_at_iso": "2020-05-02T19:46:42",
-            "last_retested_at_epoch": 1589421686.894608,
-            "last_retested_at_iso": "2020-05-14T02:01:26.894608",
+            "last_retested_at_epoch": 1589511646.240707,
+            "last_retested_at_iso": "2020-05-15T03:00:46.240707",
             "status": "INACTIVE"
         },
         "bg-bg.id-id.fb.me": {
@@ -227,8 +227,8 @@
         "cdn.facebook.net": {
             "included_at_epoch": 1588448495.0,
             "included_at_iso": "2020-05-02T19:41:35",
-            "last_retested_at_epoch": 1589422014.346696,
-            "last_retested_at_iso": "2020-05-14T02:06:54.346696",
+            "last_retested_at_epoch": 1589511176.864855,
+            "last_retested_at_iso": "2020-05-15T02:52:56.864855",
             "status": "INACTIVE"
         },
         "connnect.facebook.net": {
