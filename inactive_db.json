@@ -213,8 +213,8 @@
         "beta.t.facebook.net": {
             "included_at_epoch": 1588448802.0,
             "included_at_iso": "2020-05-02T19:46:42",
-            "last_retested_at_epoch": 1589511646.240707,
-            "last_retested_at_iso": "2020-05-15T03:00:46.240707",
+            "last_retested_at_epoch": 1589598824.257127,
+            "last_retested_at_iso": "2020-05-16T03:13:44.257127",
             "status": "INACTIVE"
         },
         "bg-bg.id-id.fb.me": {
@@ -227,8 +227,8 @@
         "cdn.facebook.net": {
             "included_at_epoch": 1588448495.0,
             "included_at_iso": "2020-05-02T19:41:35",
-            "last_retested_at_epoch": 1589511176.864855,
-            "last_retested_at_iso": "2020-05-15T02:52:56.864855",
+            "last_retested_at_epoch": 1589598591.767312,
+            "last_retested_at_iso": "2020-05-16T03:09:51.767312",
             "status": "INACTIVE"
         },
         "connnect.facebook.net": {
@@ -801,8 +801,8 @@
         "instagram-p42-shv-01-iad3.fbcdn.com": {
             "included_at_epoch": 1588512124.0,
             "included_at_iso": "2020-05-03T13:22:04",
-            "last_retested_at_epoch": 1589498586.826608,
-            "last_retested_at_iso": "2020-05-14T23:23:06.826608",
+            "last_retested_at_epoch": 1589599163.640693,
+            "last_retested_at_iso": "2020-05-16T03:19:23.640693",
             "status": "INACTIVE"
         },
         "instagram-p42-shv-01-iad3.fbcdn.net": {
@@ -2285,8 +2285,8 @@
         "xx-fbcdn-shv-01-icn1.fbcdn.net": {
             "included_at_epoch": 1588482086.0,
             "included_at_iso": "2020-05-03T05:01:26",
-            "last_retested_at_epoch": 1589506985.759625,
-            "last_retested_at_iso": "2020-05-15T01:43:05.759625",
+            "last_retested_at_epoch": 1589599129.170385,
+            "last_retested_at_iso": "2020-05-16T03:18:49.170385",
             "status": "INACTIVE"
         },
         "xx-fbcdn-shv-01-kut2.fbcdn.net": {
