@@ -122,8 +122,8 @@
         "ae0.pr03.sjc1.tfbnw.net": {
             "included_at_epoch": 1588524183.0,
             "included_at_iso": "2020-05-03T16:43:03",
-            "last_retested_at_epoch": 1589506992.834132,
-            "last_retested_at_iso": "2020-05-15T01:43:12.834132",
+            "last_retested_at_epoch": 1589623219.017229,
+            "last_retested_at_iso": "2020-05-16T10:00:19.017229",
             "status": "INACTIVE"
         },
         "ae0.pr04.sjc1.tfbnw.net": {
@@ -444,8 +444,8 @@
         "edge-snaptu-http-p1-shv-01-lhr3.facebook.com": {
             "included_at_epoch": 1588482067.0,
             "included_at_iso": "2020-05-03T05:01:07",
-            "last_retested_at_epoch": 1589520724.180853,
-            "last_retested_at_iso": "2020-05-15T05:32:04.180853",
+            "last_retested_at_epoch": 1589623225.114037,
+            "last_retested_at_iso": "2020-05-16T10:00:25.114037",
             "status": "INACTIVE"
         },
         "edge-snaptu-http-p1-shv-01-mad1.facebook.com": {
