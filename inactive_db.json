@@ -143,8 +143,8 @@
         "ae4.bb02.ams2.tfbnw.net": {
             "included_at_epoch": 1588518444.0,
             "included_at_iso": "2020-05-03T15:07:24",
-            "last_retested_at_epoch": 1589699439.625504,
-            "last_retested_at_iso": "2020-05-17T07:10:39.625504",
+            "last_retested_at_epoch": 1589795020.725996,
+            "last_retested_at_iso": "2020-05-18T09:43:40.725996",
             "status": "INACTIVE"
         },
         "ae59.pr03.sin1.tfbnw.net": {
@@ -290,8 +290,8 @@
         "edge-atlas-shv-01-lhr3.facebook.com": {
             "included_at_epoch": 1588485772.0,
             "included_at_iso": "2020-05-03T06:02:52",
-            "last_retested_at_epoch": 1589695304.796515,
-            "last_retested_at_iso": "2020-05-17T06:01:44.796515",
+            "last_retested_at_epoch": 1589795026.607462,
+            "last_retested_at_iso": "2020-05-18T09:43:46.607462",
             "status": "INACTIVE"
         },
         "edge-atlas-shv-01-mad1.facebook.com": {
@@ -535,8 +535,8 @@
         "edgeray-shv-01-lhr3.facebook.com": {
             "included_at_epoch": 1588521426.0,
             "included_at_iso": "2020-05-03T15:57:06",
-            "last_retested_at_epoch": 1589654655.676907,
-            "last_retested_at_iso": "2020-05-16T18:44:15.676907",
+            "last_retested_at_epoch": 1589795017.917649,
+            "last_retested_at_iso": "2020-05-18T09:43:37.917649",
             "status": "INACTIVE"
         },
         "edgeray-shv-01-mad1.facebook.com": {
@@ -864,8 +864,8 @@
         "irc.t.tfbnw.net": {
             "included_at_epoch": 1588505905.0,
             "included_at_iso": "2020-05-03T11:38:25",
-            "last_retested_at_epoch": 1589699455.479196,
-            "last_retested_at_iso": "2020-05-17T07:10:55.479196",
+            "last_retested_at_epoch": 1589795021.572571,
+            "last_retested_at_iso": "2020-05-18T09:43:41.572571",
             "status": "INACTIVE"
         },
         "irc.tfbnw.net": {
@@ -1557,8 +1557,8 @@
         "wicys2019ctf.fb.com": {
             "included_at_epoch": 1588505938.0,
             "included_at_iso": "2020-05-03T11:38:58",
-            "last_retested_at_epoch": 1589646603.403312,
-            "last_retested_at_iso": "2020-05-16T16:30:03.403312",
+            "last_retested_at_epoch": 1589795022.437398,
+            "last_retested_at_iso": "2020-05-18T09:43:42.437398",
             "status": "INACTIVE"
         },
         "www.1907113739430074.fb.me": {
@@ -2446,8 +2446,8 @@
         "z-p3-scontent.fbga1-1.fna.fbcdn.net": {
             "included_at_epoch": 1588482066.0,
             "included_at_iso": "2020-05-03T05:01:06",
-            "last_retested_at_epoch": 1589707766.091045,
-            "last_retested_at_iso": "2020-05-17T09:29:26.091045",
+            "last_retested_at_epoch": 1589795006.279259,
+            "last_retested_at_iso": "2020-05-18T09:43:26.279259",
             "status": "INACTIVE"
         },
         "z-p3-scontent.fsub1-1.fna.fbcdn.net": {
