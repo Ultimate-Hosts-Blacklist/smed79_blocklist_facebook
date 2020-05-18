@@ -444,8 +444,8 @@
         "edge-snaptu-http-p1-shv-01-lhr3.facebook.com": {
             "included_at_epoch": 1588482067.0,
             "included_at_iso": "2020-05-03T05:01:07",
-            "last_retested_at_epoch": 1589711888.881188,
-            "last_retested_at_iso": "2020-05-17T10:38:08.881188",
+            "last_retested_at_epoch": 1589799556.984798,
+            "last_retested_at_iso": "2020-05-18T10:59:16.984798",
             "status": "INACTIVE"
         },
         "edge-snaptu-http-p1-shv-01-mad1.facebook.com": {
@@ -2285,8 +2285,8 @@
         "xx-fbcdn-shv-01-icn1.fbcdn.net": {
             "included_at_epoch": 1588482086.0,
             "included_at_iso": "2020-05-03T05:01:26",
-            "last_retested_at_epoch": 1589699493.688131,
-            "last_retested_at_iso": "2020-05-17T07:11:33.688131",
+            "last_retested_at_epoch": 1589799599.288057,
+            "last_retested_at_iso": "2020-05-18T10:59:59.288057",
             "status": "INACTIVE"
         },
         "xx-fbcdn-shv-01-kut2.fbcdn.net": {
