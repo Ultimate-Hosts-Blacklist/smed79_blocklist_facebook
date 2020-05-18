@@ -94,8 +94,8 @@
         "None": {
             "included_at_epoch": 1588505921.0,
             "included_at_iso": "2020-05-03T11:38:41",
-            "last_retested_at_epoch": 1589711881.577818,
-            "last_retested_at_iso": "2020-05-17T10:38:01.577818",
+            "last_retested_at_epoch": 1589831551.133881,
+            "last_retested_at_iso": "2020-05-18T19:52:31.133881",
             "status": "INVALID"
         },
         "a.ns.facebook.com": {
