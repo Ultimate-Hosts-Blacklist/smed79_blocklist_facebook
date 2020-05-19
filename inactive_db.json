@@ -486,8 +486,8 @@
         "edge-star-shv-01-lhr3.facebook.com": {
             "included_at_epoch": 1588492966.0,
             "included_at_iso": "2020-05-03T08:02:46",
-            "last_retested_at_epoch": 1589822327.725666,
-            "last_retested_at_iso": "2020-05-18T17:18:47.725666",
+            "last_retested_at_epoch": 1589912667.704073,
+            "last_retested_at_iso": "2020-05-19T18:24:27.704073",
             "status": "INACTIVE"
         },
         "edge-video-shv-01-arn2.fbcdn.net": {
@@ -948,8 +948,8 @@
         "mirror-ext.t.tfbnw.net": {
             "included_at_epoch": 1588482058.0,
             "included_at_iso": "2020-05-03T05:00:58",
-            "last_retested_at_epoch": 1589813359.526845,
-            "last_retested_at_iso": "2020-05-18T14:49:19.526845",
+            "last_retested_at_epoch": 1589912636.709243,
+            "last_retested_at_iso": "2020-05-19T18:23:56.709243",
             "status": "INACTIVE"
         },
         "mozilla.mirror.facebook.net": {
