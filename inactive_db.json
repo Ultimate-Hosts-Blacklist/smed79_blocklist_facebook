@@ -290,8 +290,8 @@
         "edge-atlas-shv-01-lhr3.facebook.com": {
             "included_at_epoch": 1588485772.0,
             "included_at_iso": "2020-05-03T06:02:52",
-            "last_retested_at_epoch": 1589892758.923944,
-            "last_retested_at_iso": "2020-05-19T12:52:38.923944",
+            "last_retested_at_epoch": 1589981239.83918,
+            "last_retested_at_iso": "2020-05-20T13:27:19.839180",
             "status": "INACTIVE"
         },
         "edge-atlas-shv-01-mad1.facebook.com": {
@@ -360,8 +360,8 @@
         "edge-mqtt-shv-01-lhr3.facebook.com": {
             "included_at_epoch": 1588518427.0,
             "included_at_iso": "2020-05-03T15:07:07",
-            "last_retested_at_epoch": 1589836147.498946,
-            "last_retested_at_iso": "2020-05-18T21:09:07.498946",
+            "last_retested_at_epoch": 1589981236.811098,
+            "last_retested_at_iso": "2020-05-20T13:27:16.811098",
             "status": "INACTIVE"
         },
         "edge-mqtt-shv-01-mad1.facebook.com": {
