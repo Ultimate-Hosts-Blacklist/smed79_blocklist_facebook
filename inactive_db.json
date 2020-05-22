@@ -360,8 +360,8 @@
         "edge-mqtt-shv-01-lhr3.facebook.com": {
             "included_at_epoch": 1588518427.0,
             "included_at_iso": "2020-05-03T15:07:07",
-            "last_retested_at_epoch": 1590073343.845814,
-            "last_retested_at_iso": "2020-05-21T15:02:23.845814",
+            "last_retested_at_epoch": 1590161383.789919,
+            "last_retested_at_iso": "2020-05-22T15:29:43.789919",
             "status": "INACTIVE"
         },
         "edge-mqtt-shv-01-mad1.facebook.com": {
