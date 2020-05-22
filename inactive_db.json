@@ -122,8 +122,8 @@
         "ae0.pr03.sjc1.tfbnw.net": {
             "included_at_epoch": 1588524183.0,
             "included_at_iso": "2020-05-03T16:43:03",
-            "last_retested_at_epoch": 1590020818.690748,
-            "last_retested_at_iso": "2020-05-21T00:26:58.690748",
+            "last_retested_at_epoch": 1590107632.038287,
+            "last_retested_at_iso": "2020-05-22T00:33:52.038287",
             "status": "INACTIVE"
         },
         "ae0.pr04.sjc1.tfbnw.net": {
@@ -948,8 +948,8 @@
         "mirror-ext.t.tfbnw.net": {
             "included_at_epoch": 1588482058.0,
             "included_at_iso": "2020-05-03T05:00:58",
-            "last_retested_at_epoch": 1590015819.246105,
-            "last_retested_at_iso": "2020-05-20T23:03:39.246105",
+            "last_retested_at_epoch": 1590107635.742427,
+            "last_retested_at_iso": "2020-05-22T00:33:55.742427",
             "status": "INACTIVE"
         },
         "mozilla.mirror.facebook.net": {
