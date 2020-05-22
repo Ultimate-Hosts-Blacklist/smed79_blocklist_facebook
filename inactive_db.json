@@ -143,8 +143,8 @@
         "ae4.bb02.ams2.tfbnw.net": {
             "included_at_epoch": 1588518444.0,
             "included_at_iso": "2020-05-03T15:07:24",
-            "last_retested_at_epoch": 1590073332.800424,
-            "last_retested_at_iso": "2020-05-21T15:02:12.800424",
+            "last_retested_at_epoch": 1590165863.580845,
+            "last_retested_at_iso": "2020-05-22T16:44:23.580845",
             "status": "INACTIVE"
         },
         "ae59.pr03.sin1.tfbnw.net": {
