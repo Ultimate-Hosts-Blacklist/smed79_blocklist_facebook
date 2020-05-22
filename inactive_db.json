@@ -1046,8 +1046,8 @@
         "po122.asw01.hkg3.tfbnw.net": {
             "included_at_epoch": 1588515348.0,
             "included_at_iso": "2020-05-03T14:15:48",
-            "last_retested_at_epoch": 1590015789.839162,
-            "last_retested_at_iso": "2020-05-20T23:03:09.839162",
+            "last_retested_at_epoch": 1590118369.622111,
+            "last_retested_at_iso": "2020-05-22T03:32:49.622111",
             "status": "INACTIVE"
         },
         "profile-a-atl.xx.fbcdn.net": {
