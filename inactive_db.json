@@ -444,8 +444,8 @@
         "edge-snaptu-http-p1-shv-01-lhr3.facebook.com": {
             "included_at_epoch": 1588482067.0,
             "included_at_iso": "2020-05-03T05:01:07",
-            "last_retested_at_epoch": 1590127631.054285,
-            "last_retested_at_iso": "2020-05-22T06:07:11.054285",
+            "last_retested_at_epoch": 1590220455.026949,
+            "last_retested_at_iso": "2020-05-23T07:54:15.026949",
             "status": "INACTIVE"
         },
         "edge-snaptu-http-p1-shv-01-mad1.facebook.com": {
@@ -801,8 +801,8 @@
         "instagram-p42-shv-01-iad3.fbcdn.com": {
             "included_at_epoch": 1588512124.0,
             "included_at_iso": "2020-05-03T13:22:04",
-            "last_retested_at_epoch": 1590123045.057793,
-            "last_retested_at_iso": "2020-05-22T04:50:45.057793",
+            "last_retested_at_epoch": 1590220452.572028,
+            "last_retested_at_iso": "2020-05-23T07:54:12.572028",
             "status": "INACTIVE"
         },
         "instagram-p42-shv-01-iad3.fbcdn.net": {
@@ -857,8 +857,8 @@
         "instagramstatic-a.akamaihd.net.edgesuite.net": {
             "included_at_epoch": 1588496313.0,
             "included_at_iso": "2020-05-03T08:58:33",
-            "last_retested_at_epoch": 1590132316.542789,
-            "last_retested_at_iso": "2020-05-22T07:25:16.542789",
+            "last_retested_at_epoch": 1590220422.247179,
+            "last_retested_at_iso": "2020-05-23T07:53:42.247179",
             "status": "INACTIVE"
         },
         "irc.t.tfbnw.net": {
@@ -1046,8 +1046,8 @@
         "po122.asw01.hkg3.tfbnw.net": {
             "included_at_epoch": 1588515348.0,
             "included_at_iso": "2020-05-03T14:15:48",
-            "last_retested_at_epoch": 1590118369.622111,
-            "last_retested_at_iso": "2020-05-22T03:32:49.622111",
+            "last_retested_at_epoch": 1590220453.042597,
+            "last_retested_at_iso": "2020-05-23T07:54:13.042597",
             "status": "INACTIVE"
         },
         "profile-a-atl.xx.fbcdn.net": {
@@ -2285,8 +2285,8 @@
         "xx-fbcdn-shv-01-icn1.fbcdn.net": {
             "included_at_epoch": 1588482086.0,
             "included_at_iso": "2020-05-03T05:01:26",
-            "last_retested_at_epoch": 1590127676.208736,
-            "last_retested_at_iso": "2020-05-22T06:07:56.208736",
+            "last_retested_at_epoch": 1590220421.018914,
+            "last_retested_at_iso": "2020-05-23T07:53:41.018914",
             "status": "INACTIVE"
         },
         "xx-fbcdn-shv-01-kut2.fbcdn.net": {
