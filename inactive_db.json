@@ -143,8 +143,8 @@
         "ae4.bb02.ams2.tfbnw.net": {
             "included_at_epoch": 1588518444.0,
             "included_at_iso": "2020-05-03T15:07:24",
-            "last_retested_at_epoch": 1590261809.085832,
-            "last_retested_at_iso": "2020-05-23T19:23:29.085832",
+            "last_retested_at_epoch": 1590349763.842578,
+            "last_retested_at_iso": "2020-05-24T19:49:23.842578",
             "status": "INACTIVE"
         },
         "ae59.pr03.sin1.tfbnw.net": {
@@ -290,8 +290,8 @@
         "edge-atlas-shv-01-lhr3.facebook.com": {
             "included_at_epoch": 1588485772.0,
             "included_at_iso": "2020-05-03T06:02:52",
-            "last_retested_at_epoch": 1590261787.752821,
-            "last_retested_at_iso": "2020-05-23T19:23:07.752821",
+            "last_retested_at_epoch": 1590349779.812125,
+            "last_retested_at_iso": "2020-05-24T19:49:39.812125",
             "status": "INACTIVE"
         },
         "edge-atlas-shv-01-mad1.facebook.com": {
@@ -360,8 +360,8 @@
         "edge-mqtt-shv-01-lhr3.facebook.com": {
             "included_at_epoch": 1588518427.0,
             "included_at_iso": "2020-05-03T15:07:07",
-            "last_retested_at_epoch": 1590261768.64472,
-            "last_retested_at_iso": "2020-05-23T19:22:48.644720",
+            "last_retested_at_epoch": 1590349794.150482,
+            "last_retested_at_iso": "2020-05-24T19:49:54.150482",
             "status": "INACTIVE"
         },
         "edge-mqtt-shv-01-mad1.facebook.com": {
