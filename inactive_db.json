@@ -738,8 +738,8 @@
         "instagram-p3-shv-01-lhr3.fbcdn.net": {
             "included_at_epoch": 1588485772.0,
             "included_at_iso": "2020-05-03T06:02:52",
-            "last_retested_at_epoch": 1590195896.889882,
-            "last_retested_at_iso": "2020-05-23T01:04:56.889882",
+            "last_retested_at_epoch": 1590310273.798518,
+            "last_retested_at_iso": "2020-05-24T08:51:13.798518",
             "status": "INACTIVE"
         },
         "instagram-p3-shv-01-mad1.fbcdn.net": {
@@ -1046,8 +1046,8 @@
         "po122.asw01.hkg3.tfbnw.net": {
             "included_at_epoch": 1588515348.0,
             "included_at_iso": "2020-05-03T14:15:48",
-            "last_retested_at_epoch": 1590220453.042597,
-            "last_retested_at_iso": "2020-05-23T07:54:13.042597",
+            "last_retested_at_epoch": 1590310268.764247,
+            "last_retested_at_iso": "2020-05-24T08:51:08.764247",
             "status": "INACTIVE"
         },
         "profile-a-atl.xx.fbcdn.net": {
