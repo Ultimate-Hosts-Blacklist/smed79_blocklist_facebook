@@ -822,8 +822,8 @@
         "instagram.fper2-1.fna.fbcdn.net": {
             "included_at_epoch": 1588512097.0,
             "included_at_iso": "2020-05-03T13:21:37",
-            "last_retested_at_epoch": 1590190134.696504,
-            "last_retested_at_iso": "2020-05-22T23:28:54.696504",
+            "last_retested_at_epoch": 1590278161.485607,
+            "last_retested_at_iso": "2020-05-23T23:56:01.485607",
             "status": "INACTIVE"
         },
         "instagram.fpoa1-1.fna.fbcdn.net": {
@@ -864,8 +864,8 @@
         "irc.t.tfbnw.net": {
             "included_at_epoch": 1588505905.0,
             "included_at_iso": "2020-05-03T11:38:25",
-            "last_retested_at_epoch": 1590190359.282328,
-            "last_retested_at_iso": "2020-05-22T23:32:39.282328",
+            "last_retested_at_epoch": 1590278486.558312,
+            "last_retested_at_iso": "2020-05-24T00:01:26.558312",
             "status": "INACTIVE"
         },
         "irc.tfbnw.net": {
