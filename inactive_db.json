@@ -129,8 +129,8 @@
         "ae0.pr04.sjc1.tfbnw.net": {
             "included_at_epoch": 1588512156.0,
             "included_at_iso": "2020-05-03T13:22:36",
-            "last_retested_at_epoch": 1590203295.704753,
-            "last_retested_at_iso": "2020-05-23T03:08:15.704753",
+            "last_retested_at_epoch": 1590314806.362478,
+            "last_retested_at_iso": "2020-05-24T10:06:46.362478",
             "status": "INACTIVE"
         },
         "ae29.bb02.mia1.tfbnw.net": {
@@ -703,8 +703,8 @@
         "instagram-p3-shv-01-hkg3.fbcdn.net": {
             "included_at_epoch": 1588453563.0,
             "included_at_iso": "2020-05-02T21:06:03",
-            "last_retested_at_epoch": 1590227375.237973,
-            "last_retested_at_iso": "2020-05-23T09:49:35.237973",
+            "last_retested_at_epoch": 1590314598.172388,
+            "last_retested_at_iso": "2020-05-24T10:03:18.172388",
             "status": "INACTIVE"
         },
         "instagram-p3-shv-01-iad3.fbcdn.net": {
@@ -857,8 +857,8 @@
         "instagramstatic-a.akamaihd.net.edgesuite.net": {
             "included_at_epoch": 1588496313.0,
             "included_at_iso": "2020-05-03T08:58:33",
-            "last_retested_at_epoch": 1590220422.247179,
-            "last_retested_at_iso": "2020-05-23T07:53:42.247179",
+            "last_retested_at_epoch": 1590314790.024931,
+            "last_retested_at_iso": "2020-05-24T10:06:30.024931",
             "status": "INACTIVE"
         },
         "irc.t.tfbnw.net": {
@@ -948,8 +948,8 @@
         "mirror-ext.t.tfbnw.net": {
             "included_at_epoch": 1588482058.0,
             "included_at_iso": "2020-05-03T05:00:58",
-            "last_retested_at_epoch": 1590203294.790156,
-            "last_retested_at_iso": "2020-05-23T03:08:14.790156",
+            "last_retested_at_epoch": 1590314788.556649,
+            "last_retested_at_iso": "2020-05-24T10:06:28.556649",
             "status": "INACTIVE"
         },
         "mozilla.mirror.facebook.net": {
@@ -2446,8 +2446,8 @@
         "z-p3-scontent.fbga1-1.fna.fbcdn.net": {
             "included_at_epoch": 1588482066.0,
             "included_at_iso": "2020-05-03T05:01:06",
-            "last_retested_at_epoch": 1590195909.683185,
-            "last_retested_at_iso": "2020-05-23T01:05:09.683185",
+            "last_retested_at_epoch": 1590314805.439083,
+            "last_retested_at_iso": "2020-05-24T10:06:45.439083",
             "status": "INACTIVE"
         },
         "z-p3-scontent.fsub1-1.fna.fbcdn.net": {
