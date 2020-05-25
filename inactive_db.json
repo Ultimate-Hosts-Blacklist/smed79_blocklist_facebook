@@ -535,8 +535,8 @@
         "edgeray-shv-01-lhr3.facebook.com": {
             "included_at_epoch": 1588521426.0,
             "included_at_iso": "2020-05-03T15:57:06",
-            "last_retested_at_epoch": 1590288211.679162,
-            "last_retested_at_iso": "2020-05-24T02:43:31.679162",
+            "last_retested_at_epoch": 1590435249.808424,
+            "last_retested_at_iso": "2020-05-25T19:34:09.808424",
             "status": "INACTIVE"
         },
         "edgeray-shv-01-mad1.facebook.com": {
