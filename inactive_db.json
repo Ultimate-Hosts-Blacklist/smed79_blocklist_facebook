@@ -444,8 +444,8 @@
         "edge-snaptu-http-p1-shv-01-lhr3.facebook.com": {
             "included_at_epoch": 1588482067.0,
             "included_at_iso": "2020-05-03T05:01:07",
-            "last_retested_at_epoch": 1590323107.376588,
-            "last_retested_at_iso": "2020-05-24T12:25:07.376588",
+            "last_retested_at_epoch": 1590411061.588448,
+            "last_retested_at_iso": "2020-05-25T12:51:01.588448",
             "status": "INACTIVE"
         },
         "edge-snaptu-http-p1-shv-01-mad1.facebook.com": {
@@ -857,8 +857,8 @@
         "instagramstatic-a.akamaihd.net.edgesuite.net": {
             "included_at_epoch": 1588496313.0,
             "included_at_iso": "2020-05-03T08:58:33",
-            "last_retested_at_epoch": 1590314790.024931,
-            "last_retested_at_iso": "2020-05-24T10:06:30.024931",
+            "last_retested_at_epoch": 1590411042.606697,
+            "last_retested_at_iso": "2020-05-25T12:50:42.606697",
             "status": "INACTIVE"
         },
         "irc.t.tfbnw.net": {
@@ -948,8 +948,8 @@
         "mirror-ext.t.tfbnw.net": {
             "included_at_epoch": 1588482058.0,
             "included_at_iso": "2020-05-03T05:00:58",
-            "last_retested_at_epoch": 1590314788.556649,
-            "last_retested_at_iso": "2020-05-24T10:06:28.556649",
+            "last_retested_at_epoch": 1590411046.835457,
+            "last_retested_at_iso": "2020-05-25T12:50:46.835457",
             "status": "INACTIVE"
         },
         "mozilla.mirror.facebook.net": {
@@ -2446,8 +2446,8 @@
         "z-p3-scontent.fbga1-1.fna.fbcdn.net": {
             "included_at_epoch": 1588482066.0,
             "included_at_iso": "2020-05-03T05:01:06",
-            "last_retested_at_epoch": 1590314805.439083,
-            "last_retested_at_iso": "2020-05-24T10:06:45.439083",
+            "last_retested_at_epoch": 1590411043.59979,
+            "last_retested_at_iso": "2020-05-25T12:50:43.599790",
             "status": "INACTIVE"
         },
         "z-p3-scontent.fsub1-1.fna.fbcdn.net": {
