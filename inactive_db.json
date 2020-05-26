@@ -948,8 +948,8 @@
         "mirror-ext.t.tfbnw.net": {
             "included_at_epoch": 1588482058.0,
             "included_at_iso": "2020-05-03T05:00:58",
-            "last_retested_at_epoch": 1590411046.835457,
-            "last_retested_at_iso": "2020-05-25T12:50:46.835457",
+            "last_retested_at_epoch": 1590536947.119927,
+            "last_retested_at_iso": "2020-05-26T23:49:07.119927",
             "status": "INACTIVE"
         },
         "mozilla.mirror.facebook.net": {
