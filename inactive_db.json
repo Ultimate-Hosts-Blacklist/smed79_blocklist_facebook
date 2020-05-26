@@ -122,8 +122,8 @@
         "ae0.pr03.sjc1.tfbnw.net": {
             "included_at_epoch": 1588524183.0,
             "included_at_iso": "2020-05-03T16:43:03",
-            "last_retested_at_epoch": 1590406422.635049,
-            "last_retested_at_iso": "2020-05-25T11:33:42.635049",
+            "last_retested_at_epoch": 1590504367.936477,
+            "last_retested_at_iso": "2020-05-26T14:46:07.936477",
             "status": "INACTIVE"
         },
         "ae0.pr04.sjc1.tfbnw.net": {
@@ -1557,8 +1557,8 @@
         "wicys2019ctf.fb.com": {
             "included_at_epoch": 1588505938.0,
             "included_at_iso": "2020-05-03T11:38:58",
-            "last_retested_at_epoch": 1590336532.05769,
-            "last_retested_at_iso": "2020-05-24T16:08:52.057690",
+            "last_retested_at_epoch": 1590504399.969388,
+            "last_retested_at_iso": "2020-05-26T14:46:39.969388",
             "status": "INACTIVE"
         },
         "www.1907113739430074.fb.me": {
