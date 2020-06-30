@@ -1,5 +1,19 @@
 {
-    "currently_under_test": false,
+    "current_stats": {
+        "builds": 1,
+        "counter": {
+            "down": 0,
+            "invalid": 0,
+            "malicious": 0,
+            "sane": 0,
+            "tested": 0,
+            "up": 0,
+            "valid": 0
+        },
+        "volatile.list": 1256,
+        "whitelisted.list": 1256
+    },
+    "currently_under_test": true,
     "days_until_next_test": 1,
     "end_datetime": "2020-03-04T00:00:50.647031",
     "end_epoch": 1583152766.299935,
@@ -25,6 +39,6 @@
         "whitelisted.list": 1256
     },
     "raw_link": "https://raw.githubusercontent.com/smed79/blacklist/master/extra/facebook.txt",
-    "start_datetime": "2020-06-28T01:22:13.396660",
-    "start_epoch": 1593307333.39666
+    "start_datetime": "2020-06-30T00:48:19.004862",
+    "start_epoch": 1593478099.004862
 }
