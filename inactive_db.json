@@ -864,8 +864,8 @@
         "irc.t.tfbnw.net": {
             "included_at_epoch": 1588505905.0,
             "included_at_iso": "2020-05-03T11:38:25",
-            "last_retested_at_epoch": 1595114428.325137,
-            "last_retested_at_iso": "2020-07-18T23:20:28.325137",
+            "last_retested_at_epoch": 1595301759.053467,
+            "last_retested_at_iso": "2020-07-21T03:22:39.053467",
             "status": "INACTIVE"
         },
         "irc.tfbnw.net": {
@@ -2285,8 +2285,8 @@
         "xx-fbcdn-shv-01-icn1.fbcdn.net": {
             "included_at_epoch": 1588482086.0,
             "included_at_iso": "2020-05-03T05:01:26",
-            "last_retested_at_epoch": 1595114463.902606,
-            "last_retested_at_iso": "2020-07-18T23:21:03.902606",
+            "last_retested_at_epoch": 1595301646.438826,
+            "last_retested_at_iso": "2020-07-21T03:20:46.438826",
             "status": "INACTIVE"
         },
         "xx-fbcdn-shv-01-kut2.fbcdn.net": {
