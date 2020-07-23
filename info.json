@@ -9,8 +9,8 @@
     "link": "https://raw.githubusercontent.com/smed79/blacklist/master/extra/facebook.txt",
     "name": "smed79_blocklist_facebook",
     "previous_stats": {
-        "builds": 2,
-        "clean_list": 1284,
+        "builds": 1,
+        "clean_list": 1283,
         "counter": {
             "down": 0,
             "invalid": 0,
@@ -21,10 +21,10 @@
             "valid": 0
         },
         "domains.list": 1293,
-        "volatile.list": 1256,
-        "whitelisted.list": 1256
+        "volatile.list": 1255,
+        "whitelisted.list": 1255
     },
     "raw_link": "https://raw.githubusercontent.com/smed79/blacklist/master/extra/facebook.txt",
-    "start_datetime": "2020-07-21T01:22:21.094344",
-    "start_epoch": 1595294541.094344
+    "start_datetime": "2020-07-23T01:22:52.330993",
+    "start_epoch": 1595467372.330993
 }
