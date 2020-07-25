@@ -94,8 +94,8 @@
         "None": {
             "included_at_epoch": 1588505921.0,
             "included_at_iso": "2020-05-03T11:38:41",
-            "last_retested_at_epoch": 1595468098.421794,
-            "last_retested_at_iso": "2020-07-23T01:34:58.421794",
+            "last_retested_at_epoch": 1595641132.843986,
+            "last_retested_at_iso": "2020-07-25T01:38:52.843986",
             "status": "INVALID"
         },
         "a.ns.facebook.com": {
@@ -122,15 +122,15 @@
         "ae0.pr03.sjc1.tfbnw.net": {
             "included_at_epoch": 1588524183.0,
             "included_at_iso": "2020-05-03T16:43:03",
-            "last_retested_at_epoch": 1595467955.423761,
-            "last_retested_at_iso": "2020-07-23T01:32:35.423761",
+            "last_retested_at_epoch": 1595640982.336011,
+            "last_retested_at_iso": "2020-07-25T01:36:22.336011",
             "status": "INACTIVE"
         },
         "ae0.pr04.sjc1.tfbnw.net": {
             "included_at_epoch": 1588512156.0,
             "included_at_iso": "2020-05-03T13:22:36",
-            "last_retested_at_epoch": 1595468027.246263,
-            "last_retested_at_iso": "2020-07-23T01:33:47.246263",
+            "last_retested_at_epoch": 1595641042.413659,
+            "last_retested_at_iso": "2020-07-25T01:37:22.413659",
             "status": "INACTIVE"
         },
         "ae29.bb02.mia1.tfbnw.net": {
@@ -213,8 +213,8 @@
         "beta.t.facebook.net": {
             "included_at_epoch": 1588448802.0,
             "included_at_iso": "2020-05-02T19:46:42",
-            "last_retested_at_epoch": 1595467647.190042,
-            "last_retested_at_iso": "2020-07-23T01:27:27.190042",
+            "last_retested_at_epoch": 1595640888.188481,
+            "last_retested_at_iso": "2020-07-25T01:34:48.188481",
             "status": "INACTIVE"
         },
         "bg-bg.id-id.fb.me": {
@@ -227,15 +227,15 @@
         "cdn.facebook.net": {
             "included_at_epoch": 1588448495.0,
             "included_at_iso": "2020-05-02T19:41:35",
-            "last_retested_at_epoch": 1595467935.413049,
-            "last_retested_at_iso": "2020-07-23T01:32:15.413049",
+            "last_retested_at_epoch": 1595640578.013132,
+            "last_retested_at_iso": "2020-07-25T01:29:38.013132",
             "status": "INACTIVE"
         },
         "connnect.facebook.net": {
             "included_at_epoch": 1588448695.0,
             "included_at_iso": "2020-05-02T19:44:55",
-            "last_retested_at_epoch": 1595467768.486328,
-            "last_retested_at_iso": "2020-07-23T01:29:28.486328",
+            "last_retested_at_epoch": 1595640457.573497,
+            "last_retested_at_iso": "2020-07-25T01:27:37.573497",
             "status": "INACTIVE"
         },
         "d028.fma.fb.me": {
@@ -290,8 +290,8 @@
         "edge-atlas-shv-01-lhr3.facebook.com": {
             "included_at_epoch": 1588485772.0,
             "included_at_iso": "2020-05-03T06:02:52",
-            "last_retested_at_epoch": 1595468028.300978,
-            "last_retested_at_iso": "2020-07-23T01:33:48.300978",
+            "last_retested_at_epoch": 1595641110.337956,
+            "last_retested_at_iso": "2020-07-25T01:38:30.337956",
             "status": "INACTIVE"
         },
         "edge-atlas-shv-01-mad1.facebook.com": {
@@ -360,8 +360,8 @@
         "edge-mqtt-shv-01-lhr3.facebook.com": {
             "included_at_epoch": 1588518427.0,
             "included_at_iso": "2020-05-03T15:07:07",
-            "last_retested_at_epoch": 1595468098.792519,
-            "last_retested_at_iso": "2020-07-23T01:34:58.792519",
+            "last_retested_at_epoch": 1595641134.443412,
+            "last_retested_at_iso": "2020-07-25T01:38:54.443412",
             "status": "INACTIVE"
         },
         "edge-mqtt-shv-01-mad1.facebook.com": {
@@ -444,8 +444,8 @@
         "edge-snaptu-http-p1-shv-01-lhr3.facebook.com": {
             "included_at_epoch": 1588482067.0,
             "included_at_iso": "2020-05-03T05:01:07",
-            "last_retested_at_epoch": 1595467990.940631,
-            "last_retested_at_iso": "2020-07-23T01:33:10.940631",
+            "last_retested_at_epoch": 1595641014.719643,
+            "last_retested_at_iso": "2020-07-25T01:36:54.719643",
             "status": "INACTIVE"
         },
         "edge-snaptu-http-p1-shv-01-mad1.facebook.com": {
@@ -486,8 +486,8 @@
         "edge-star-shv-01-lhr3.facebook.com": {
             "included_at_epoch": 1588492966.0,
             "included_at_iso": "2020-05-03T08:02:46",
-            "last_retested_at_epoch": 1595468101.974599,
-            "last_retested_at_iso": "2020-07-23T01:35:01.974599",
+            "last_retested_at_epoch": 1595641021.131077,
+            "last_retested_at_iso": "2020-07-25T01:37:01.131077",
             "status": "INACTIVE"
         },
         "edge-video-shv-01-arn2.fbcdn.net": {
@@ -535,8 +535,8 @@
         "edgeray-shv-01-lhr3.facebook.com": {
             "included_at_epoch": 1588521426.0,
             "included_at_iso": "2020-05-03T15:57:06",
-            "last_retested_at_epoch": 1595468100.51826,
-            "last_retested_at_iso": "2020-07-23T01:35:00.518260",
+            "last_retested_at_epoch": 1595641043.980269,
+            "last_retested_at_iso": "2020-07-25T01:37:23.980269",
             "status": "INACTIVE"
         },
         "edgeray-shv-01-mad1.facebook.com": {
@@ -591,8 +591,8 @@
         "fa08.ftw1.tfbnw.net": {
             "included_at_epoch": 1574462865.0,
             "included_at_iso": "2019-11-22T22:47:45",
-            "last_retested_at_epoch": 1595467931.617493,
-            "last_retested_at_iso": "2020-07-23T01:32:11.617493",
+            "last_retested_at_epoch": 1595640416.197501,
+            "last_retested_at_iso": "2020-07-25T01:26:56.197501",
             "status": "INACTIVE"
         },
         "facebook-web-clients.appspot.com": {
@@ -626,8 +626,8 @@
         "fmc.fb.com": {
             "included_at_epoch": 1595467561.110563,
             "included_at_iso": "2020-07-23T01:26:01.110563",
-            "last_retested_at_epoch": 1595467561.110563,
-            "last_retested_at_iso": "2020-07-23T01:26:01.110563",
+            "last_retested_at_epoch": 1595640349.023254,
+            "last_retested_at_iso": "2020-07-25T01:25:49.023254",
             "status": "INACTIVE"
         },
         "fna-fbcdn-shv-01-fmaa1.fbcdn.net": {
@@ -710,8 +710,8 @@
         "instagram-p3-shv-01-hkg3.fbcdn.net": {
             "included_at_epoch": 1588453563.0,
             "included_at_iso": "2020-05-02T21:06:03",
-            "last_retested_at_epoch": 1595467615.750427,
-            "last_retested_at_iso": "2020-07-23T01:26:55.750427",
+            "last_retested_at_epoch": 1595640667.52563,
+            "last_retested_at_iso": "2020-07-25T01:31:07.525630",
             "status": "INACTIVE"
         },
         "instagram-p3-shv-01-iad3.fbcdn.net": {
@@ -745,8 +745,8 @@
         "instagram-p3-shv-01-lhr3.fbcdn.net": {
             "included_at_epoch": 1588485772.0,
             "included_at_iso": "2020-05-03T06:02:52",
-            "last_retested_at_epoch": 1595468110.423501,
-            "last_retested_at_iso": "2020-07-23T01:35:10.423501",
+            "last_retested_at_epoch": 1595641086.48855,
+            "last_retested_at_iso": "2020-07-25T01:38:06.488550",
             "status": "INACTIVE"
         },
         "instagram-p3-shv-01-mad1.fbcdn.net": {
@@ -808,8 +808,8 @@
         "instagram-p42-shv-01-iad3.fbcdn.com": {
             "included_at_epoch": 1588512124.0,
             "included_at_iso": "2020-05-03T13:22:04",
-            "last_retested_at_epoch": 1595468013.553627,
-            "last_retested_at_iso": "2020-07-23T01:33:33.553627",
+            "last_retested_at_epoch": 1595641039.720476,
+            "last_retested_at_iso": "2020-07-25T01:37:19.720476",
             "status": "INACTIVE"
         },
         "instagram-p42-shv-01-iad3.fbcdn.net": {
@@ -829,8 +829,8 @@
         "instagram.fper2-1.fna.fbcdn.net": {
             "included_at_epoch": 1588512097.0,
             "included_at_iso": "2020-05-03T13:21:37",
-            "last_retested_at_epoch": 1595467742.184483,
-            "last_retested_at_iso": "2020-07-23T01:29:02.184483",
+            "last_retested_at_epoch": 1595640659.066761,
+            "last_retested_at_iso": "2020-07-25T01:30:59.066761",
             "status": "INACTIVE"
         },
         "instagram.fpoa1-1.fna.fbcdn.net": {
@@ -850,8 +850,8 @@
         "instagram.fszb1-1.fna.fbcdn.net": {
             "included_at_epoch": 1572866380.0,
             "included_at_iso": "2019-11-04T11:19:40",
-            "last_retested_at_epoch": 1595467806.336418,
-            "last_retested_at_iso": "2020-07-23T01:30:06.336418",
+            "last_retested_at_epoch": 1595640753.174198,
+            "last_retested_at_iso": "2020-07-25T01:32:33.174198",
             "status": "INACTIVE"
         },
         "instagramstatic-a.akamaihd.net": {
@@ -864,15 +864,15 @@
         "instagramstatic-a.akamaihd.net.edgesuite.net": {
             "included_at_epoch": 1588496313.0,
             "included_at_iso": "2020-05-03T08:58:33",
-            "last_retested_at_epoch": 1595468035.270207,
-            "last_retested_at_iso": "2020-07-23T01:33:55.270207",
+            "last_retested_at_epoch": 1595640982.097409,
+            "last_retested_at_iso": "2020-07-25T01:36:22.097409",
             "status": "INACTIVE"
         },
         "irc.t.tfbnw.net": {
             "included_at_epoch": 1588505905.0,
             "included_at_iso": "2020-05-03T11:38:25",
-            "last_retested_at_epoch": 1595468066.62442,
-            "last_retested_at_iso": "2020-07-23T01:34:26.624420",
+            "last_retested_at_epoch": 1595640992.728051,
+            "last_retested_at_iso": "2020-07-25T01:36:32.728051",
             "status": "INACTIVE"
         },
         "irc.tfbnw.net": {
@@ -941,8 +941,8 @@
         "m.messenger.com": {
             "included_at_epoch": 1588448572.0,
             "included_at_iso": "2020-05-02T19:42:52",
-            "last_retested_at_epoch": 1595467796.081101,
-            "last_retested_at_iso": "2020-07-23T01:29:56.081101",
+            "last_retested_at_epoch": 1595640804.720678,
+            "last_retested_at_iso": "2020-07-25T01:33:24.720678",
             "status": "INACTIVE"
         },
         "mabasic.beta.facebook.net": {
@@ -955,8 +955,8 @@
         "mirror-ext.t.tfbnw.net": {
             "included_at_epoch": 1588482058.0,
             "included_at_iso": "2020-05-03T05:00:58",
-            "last_retested_at_epoch": 1595468024.854421,
-            "last_retested_at_iso": "2020-07-23T01:33:44.854421",
+            "last_retested_at_epoch": 1595641137.015413,
+            "last_retested_at_iso": "2020-07-25T01:38:57.015413",
             "status": "INACTIVE"
         },
         "mozilla.mirror.facebook.net": {
@@ -1053,8 +1053,8 @@
         "po122.asw01.hkg3.tfbnw.net": {
             "included_at_epoch": 1588515348.0,
             "included_at_iso": "2020-05-03T14:15:48",
-            "last_retested_at_epoch": 1595467965.465299,
-            "last_retested_at_iso": "2020-07-23T01:32:45.465299",
+            "last_retested_at_epoch": 1595641105.868399,
+            "last_retested_at_iso": "2020-07-25T01:38:25.868399",
             "status": "INACTIVE"
         },
         "profile-a-atl.xx.fbcdn.net": {
@@ -1179,15 +1179,15 @@
         "rdns.facebook.net": {
             "included_at_epoch": 1588448781.0,
             "included_at_iso": "2020-05-02T19:46:21",
-            "last_retested_at_epoch": 1595467399.322727,
-            "last_retested_at_iso": "2020-07-23T01:23:19.322727",
+            "last_retested_at_epoch": 1595640633.608895,
+            "last_retested_at_iso": "2020-07-25T01:30:33.608895",
             "status": "INACTIVE"
         },
         "reviews.facebook.net": {
             "included_at_epoch": 1588448582.0,
             "included_at_iso": "2020-05-02T19:43:02",
-            "last_retested_at_epoch": 1595467690.138045,
-            "last_retested_at_iso": "2020-07-23T01:28:10.138045",
+            "last_retested_at_epoch": 1595640858.509713,
+            "last_retested_at_iso": "2020-07-25T01:34:18.509713",
             "status": "INACTIVE"
         },
         "rupload.facebook.com": {
@@ -1501,8 +1501,8 @@
         "static.fbcdn.com": {
             "included_at_epoch": 1588448837.0,
             "included_at_iso": "2020-05-02T19:47:17",
-            "last_retested_at_epoch": 1595467652.761651,
-            "last_retested_at_iso": "2020-07-23T01:27:32.761651",
+            "last_retested_at_epoch": 1595640823.773728,
+            "last_retested_at_iso": "2020-07-25T01:33:43.773728",
             "status": "INACTIVE"
         },
         "static.mfbcdn.net": {
@@ -1564,8 +1564,8 @@
         "wicys2019ctf.fb.com": {
             "included_at_epoch": 1588505938.0,
             "included_at_iso": "2020-05-03T11:38:58",
-            "last_retested_at_epoch": 1595467964.060891,
-            "last_retested_at_iso": "2020-07-23T01:32:44.060891",
+            "last_retested_at_epoch": 1595641134.686269,
+            "last_retested_at_iso": "2020-07-25T01:38:54.686269",
             "status": "INACTIVE"
         },
         "www.1907113739430074.fb.me": {
@@ -2278,8 +2278,8 @@
         "xx-fbcdn-shv-01-hkg3.fbcdn.net": {
             "included_at_epoch": 1588448649.0,
             "included_at_iso": "2020-05-02T19:44:09",
-            "last_retested_at_epoch": 1595467631.410146,
-            "last_retested_at_iso": "2020-07-23T01:27:11.410146",
+            "last_retested_at_epoch": 1595640514.396129,
+            "last_retested_at_iso": "2020-07-25T01:28:34.396129",
             "status": "INACTIVE"
         },
         "xx-fbcdn-shv-01-iad3.fbcdn.net": {
@@ -2292,8 +2292,8 @@
         "xx-fbcdn-shv-01-icn1.fbcdn.net": {
             "included_at_epoch": 1588482086.0,
             "included_at_iso": "2020-05-03T05:01:26",
-            "last_retested_at_epoch": 1595468005.606494,
-            "last_retested_at_iso": "2020-07-23T01:33:25.606494",
+            "last_retested_at_epoch": 1595641021.286822,
+            "last_retested_at_iso": "2020-07-25T01:37:01.286822",
             "status": "INACTIVE"
         },
         "xx-fbcdn-shv-01-kut2.fbcdn.net": {
@@ -2313,8 +2313,8 @@
         "xx-fbcdn-shv-01-lhr3.fbcdn.net": {
             "included_at_epoch": 1588521426.0,
             "included_at_iso": "2020-05-03T15:57:06",
-            "last_retested_at_epoch": 1595468063.002189,
-            "last_retested_at_iso": "2020-07-23T01:34:23.002189",
+            "last_retested_at_epoch": 1595641002.074111,
+            "last_retested_at_iso": "2020-07-25T01:36:42.074111",
             "status": "INACTIVE"
         },
         "xx-fbcdn-shv-01-mia3.fbcdn.net": {
@@ -2432,8 +2432,8 @@
         "z-1-video.fszb1-1.fna.fbcdn.net": {
             "included_at_epoch": 1591750791.207045,
             "included_at_iso": "2020-06-10T00:59:51.207045",
-            "last_retested_at_epoch": 1595467806.703713,
-            "last_retested_at_iso": "2020-07-23T01:30:06.703713",
+            "last_retested_at_epoch": 1595640378.077858,
+            "last_retested_at_iso": "2020-07-25T01:26:18.077858",
             "status": "INACTIVE"
         },
         "z-m-graph.facebook.com": {
@@ -2460,8 +2460,8 @@
         "z-p3-scontent.fbga1-1.fna.fbcdn.net": {
             "included_at_epoch": 1588482066.0,
             "included_at_iso": "2020-05-03T05:01:06",
-            "last_retested_at_epoch": 1595468061.951676,
-            "last_retested_at_iso": "2020-07-23T01:34:21.951676",
+            "last_retested_at_epoch": 1595641040.618694,
+            "last_retested_at_iso": "2020-07-25T01:37:20.618694",
             "status": "INACTIVE"
         },
         "z-p3-scontent.fsub1-1.fna.fbcdn.net": {
