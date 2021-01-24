@@ -1,0 +1,15 @@
+{
+    "abs_source": "/home/runner/work/smed79_blocklist_facebook/smed79_blocklist_facebook/domains.list",
+    "checker_type": "AVAILABILITY",
+    "destination": "domains.list",
+    "hash": "4d6146a448fc522c2c1fffa78c08937a3cb92b293cecc35b9dcd1221",
+    "line_number": 2601,
+    "output_dir": "/home/runner/work/smed79_blocklist_facebook/smed79_blocklist_facebook/output/domains.list",
+    "previous_hash": "4d6146a448fc522c2c1fffa78c08937a3cb92b293cecc35b9dcd1221",
+    "rel_source": "domains.list",
+    "session_id": "0173133c760ac9769d719743",
+    "source": "/home/runner/work/smed79_blocklist_facebook/smed79_blocklist_facebook/domains.list",
+    "subject": "/home/runner/work/smed79_blocklist_facebook/smed79_blocklist_facebook/domains.list",
+    "subject_type": "domain",
+    "type": "file"
+}
