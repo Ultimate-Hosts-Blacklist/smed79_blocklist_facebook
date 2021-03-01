@@ -1,15 +1,13 @@
 {
-    "abs_source": "/home/runner/work/smed79_blocklist_facebook/smed79_blocklist_facebook/domains.list",
     "checker_type": "AVAILABILITY",
     "destination": "domains.list",
-    "hash": "da9c48cdba4fa5124b3d6f1e3f2552ce301b8cdcf0ca0f6bedc60d7c",
+    "hash": "324be389e0691bd823618e3e6ebe27c174e45467d277e5835e29e94e",
     "line_number": 2601,
-    "output_dir": "/home/runner/work/smed79_blocklist_facebook/smed79_blocklist_facebook/output/domains.list",
-    "previous_hash": "da9c48cdba4fa5124b3d6f1e3f2552ce301b8cdcf0ca0f6bedc60d7c",
-    "rel_source": "domains.list",
-    "session_id": "9d2eaa983325eec0f4c39223",
-    "source": "/home/runner/work/smed79_blocklist_facebook/smed79_blocklist_facebook/domains.list",
-    "subject": "/home/runner/work/smed79_blocklist_facebook/smed79_blocklist_facebook/domains.list",
+    "output_dir": "/var/lib/jenkins/workspace/smed79_blocklist_facebook_master/output/domains.list",
+    "previous_hash": "324be389e0691bd823618e3e6ebe27c174e45467d277e5835e29e94e",
+    "session_id": "5a78209e250a7c43558c4db0",
+    "source": "domains.list",
+    "subject": "domains.list",
     "subject_type": "domain",
     "type": "file"
 }
