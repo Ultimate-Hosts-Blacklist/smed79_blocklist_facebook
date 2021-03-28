@@ -924,6 +924,7 @@
         "owo.codes"
     ],
     "com": [
+        "devcdnaccesso.com",
         "adobeaemcloud.com",
         "dev.adobeaemcloud.com",
         "kasserver.com",
@@ -8266,11 +8267,11 @@
         "lima.zone"
     ],
     "zw": [
-        "org.zw",
         "ac.zw",
         "co.zw",
         "gov.zw",
-        "mil.zw"
+        "mil.zw",
+        "org.zw"
     ],
     "рус": [
         "биз.рус",
