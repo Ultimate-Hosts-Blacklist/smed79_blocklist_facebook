@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-edge-sonar-mini-shv-01-lht6.fbcdn.net,AVAILABILITY,domains.list,2021-04-20 00:51:15.249475
-fna.fbcdn.net,AVAILABILITY,domains.list,2021-04-20 00:52:59.426986
 scontent-lht6-1.xx.fbcdn.net,AVAILABILITY,domains.list,2021-04-20 01:02:19.768054
 xx-fbcdn-shv-01-lht6.fbcdn.net,AVAILABILITY,domains.list,2021-04-20 01:09:30.151702
 instagramstatic-a.akamaihd.net,AVAILABILITY,domains.list,2021-04-20 12:38:14.522397
@@ -130,3 +128,5 @@ xx-fbcdn-shv-01-hkg3.fbcdn.net,AVAILABILITY,domains.list,2021-04-20 12:39:08.906
 static.fbcdn.com,AVAILABILITY,domains.list,2021-04-20 12:39:09.414346
 xx-fbcdn-shv-01-scl1.fbcdn.net,AVAILABILITY,domains.list,2021-04-20 12:39:09.797829
 z-1-video.fszb1-1.fna.fbcdn.net,AVAILABILITY,domains.list,2021-04-20 12:39:10.229426
+edge-sonar-mini-shv-01-lht6.fbcdn.net,AVAILABILITY,domains.list,2021-04-21 01:08:45.523400
+fna.fbcdn.net,AVAILABILITY,domains.list,2021-04-21 01:08:46.234596
