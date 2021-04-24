@@ -1,8 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-edge-sonar-mini-shv-01-lht6.fbcdn.net,AVAILABILITY,domains.list,2021-04-22 12:51:36.142823
-fna.fbcdn.net,AVAILABILITY,domains.list,2021-04-22 12:51:36.762520
-scontent-lht6-1.xx.fbcdn.net,AVAILABILITY,domains.list,2021-04-22 12:51:37.158422
-xx-fbcdn-shv-01-lht6.fbcdn.net,AVAILABILITY,domains.list,2021-04-22 12:51:37.659454
 instagram.fvga1-1.fna.fbcdn.net,AVAILABILITY,domains.list,2021-04-23 12:38:44.467736
 origincache-ash.t.fbcdn.net,AVAILABILITY,domains.list,2021-04-23 12:38:44.913544
 origincache-prn.t.fbcdn.net,AVAILABILITY,domains.list,2021-04-23 12:38:45.453779
@@ -129,3 +125,7 @@ xx-fbcdn-shv-01-hkg3.fbcdn.net,AVAILABILITY,domains.list,2021-04-23 12:40:14.938
 static.fbcdn.com,AVAILABILITY,domains.list,2021-04-23 12:40:15.704315
 xx-fbcdn-shv-01-scl1.fbcdn.net,AVAILABILITY,domains.list,2021-04-23 12:40:16.155833
 z-1-video.fszb1-1.fna.fbcdn.net,AVAILABILITY,domains.list,2021-04-23 12:40:16.538765
+snafu.tfbnw.net,AVAILABILITY,domains.list,2021-04-24 00:49:21.191486
+edge-sonar-mini-shv-01-lht6.fbcdn.net,AVAILABILITY,domains.list,2021-04-24 00:50:51.586389
+scontent-lht6-1.xx.fbcdn.net,AVAILABILITY,domains.list,2021-04-24 00:50:52.099788
+xx-fbcdn-shv-01-lht6.fbcdn.net,AVAILABILITY,domains.list,2021-04-24 00:50:52.376412
