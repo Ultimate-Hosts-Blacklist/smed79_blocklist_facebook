@@ -1475,6 +1475,7 @@
         "co.cz",
         "custom.metacentrum.cz",
         "e4.cz",
+        "flt.cloud.muni.cz",
         "realm.cz",
         "usr.cloud.muni.cz"
     ],
@@ -1961,7 +1962,6 @@
     "host": [
         "cloudaccess.host",
         "fastvps.host",
-        "flt.cloud.muni.cz",
         "freesite.host",
         "half.host",
         "jele.host",
@@ -7411,7 +7411,6 @@
         "com.ro",
         "firm.ro",
         "info.ro",
-        "nalchik.ru",
         "nom.ro",
         "nt.ro",
         "nym.ro",
@@ -7470,6 +7469,7 @@
         "myjino.ru",
         "mytis.ru",
         "na4u.ru",
+        "nalchik.ru",
         "net.ru",
         "nov.ru",
         "org.ru",
