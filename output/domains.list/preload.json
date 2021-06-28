@@ -1,10 +1,10 @@
 {
     "checker_type": "AVAILABILITY",
     "destination": "domains.list",
-    "hash": "abb0e61ff869aabd350ff7ee91227004c4fec63a31308b9ac869ac72",
+    "hash": "6bab8ed8c5e5867a1f8414d8415ac3ea4380f3bfd0af45dc671bae45",
     "line_number": 1294,
     "output_dir": "/home/runner/work/smed79_blocklist_facebook/smed79_blocklist_facebook/output/domains.list",
-    "previous_hash": "abb0e61ff869aabd350ff7ee91227004c4fec63a31308b9ac869ac72",
+    "previous_hash": "6bab8ed8c5e5867a1f8414d8415ac3ea4380f3bfd0af45dc671bae45",
     "session_id": "7f62bda28e499cd554f36baa",
     "source": "domains.list",
     "subject": "domains.list",
