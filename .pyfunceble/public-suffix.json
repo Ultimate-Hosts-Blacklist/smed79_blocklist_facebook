@@ -6540,6 +6540,7 @@
         "vang.no",
         "vanylven.no",
         "vardo.no",
+        "vardø.no",
         "varggat.no",
         "varoy.no",
         "vefsn.no",
@@ -6730,6 +6731,7 @@
         "xn--tysvr-vra.no",
         "xn--unjrga-rta.no",
         "xn--vads-jra.no",
+        "xn--vard-jra.no",
         "xn--vegrshei-c0a.no",
         "xn--vestvgy-ixa6o.no",
         "xn--vg-yiab.no",
@@ -7848,8 +7850,7 @@
         "nic.tj",
         "org.tj",
         "test.tj",
-        "web.tj",
-        "xn--vard-jra.no"
+        "web.tj"
     ],
     "tl": [
         "gov.tl"
