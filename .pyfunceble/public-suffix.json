@@ -293,7 +293,6 @@
         "info.az",
         "int.az",
         "mil.az",
-        "mil.cn",
         "name.az",
         "net.az",
         "org.az",
@@ -1898,6 +1897,7 @@
         "mil.gt",
         "net.gt",
         "org.gt",
+        "org.hk",
         "to.gt"
     ],
     "gu": [
