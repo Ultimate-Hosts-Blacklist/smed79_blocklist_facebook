@@ -4366,7 +4366,6 @@
         "xn--6btw5a.jp",
         "xn--6orx2r.jp",
         "xn--7t0a264c.jp",
-        "xn--8ltr62k.jp",
         "xn--8pvr4u.jp",
         "xn--c3s14m.jp",
         "xn--d5qv7z876c.jp",
@@ -7884,10 +7883,7 @@
         "org.tm"
     ],
     "tn": [
-        "agrinet.tn",
         "com.tn",
-        "defense.tn",
-        "edunet.tn",
         "ens.tn",
         "fin.tn",
         "gov.tn",
@@ -7900,11 +7896,7 @@
         "orangecloud.tn",
         "org.tn",
         "perso.tn",
-        "rnrt.tn",
-        "rns.tn",
-        "rnu.tn",
-        "tourism.tn",
-        "turen.tn"
+        "tourism.tn"
     ],
     "to": [
         "611.to",
