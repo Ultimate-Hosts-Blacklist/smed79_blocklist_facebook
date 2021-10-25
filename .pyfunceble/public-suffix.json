@@ -7374,7 +7374,6 @@
         "cloudns.pro",
         "cpa.pro",
         "eng.pro",
-        "jur.pro",
         "law.pro",
         "med.pro",
         "recht.pro"
@@ -7890,6 +7889,7 @@
         "com.tm",
         "edu.tm",
         "gov.tm",
+        "jur.pro",
         "mil.tm",
         "net.tm",
         "nom.tm",
