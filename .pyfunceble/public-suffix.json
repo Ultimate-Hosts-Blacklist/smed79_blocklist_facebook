@@ -1885,7 +1885,6 @@
         "com.gp",
         "edu.gp",
         "mobi.gp",
-        "net.gp",
         "org.gp"
     ],
     "gr": [
@@ -1941,6 +1940,7 @@
         "idv.hk",
         "inc.hk",
         "ltd.hk",
+        "net.gp",
         "net.hk",
         "org.hk",
         "secaas.hk",
