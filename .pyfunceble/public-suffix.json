@@ -6516,7 +6516,6 @@
         "sør-varanger.no",
         "sørfold.no",
         "sørreisa.no",
-        "sørum.no",
         "tana.no",
         "tananger.no",
         "time.no",
@@ -6750,7 +6749,6 @@
         "xn--sr-varanger-ggb.no",
         "xn--srfold-bya.no",
         "xn--srreisa-q1a.no",
-        "xn--srum-gra.no",
         "xn--stjrdal-s1a.no",
         "xn--stjrdalshalsen-sqb.no",
         "xn--stre-toten-zcb.no",
@@ -8388,6 +8386,7 @@
         "oh.us",
         "ok.us",
         "or.us",
+        "org.ws",
         "pa.us",
         "paroch.k12.ma.us",
         "phx.enscaled.us",
@@ -8410,7 +8409,8 @@
         "washtenaw.mi.us",
         "wi.us",
         "wv.us",
-        "wy.us"
+        "wy.us",
+        "xn--srum-gra.no"
     ],
     "uy": [
         "blogspot.com.uy",
