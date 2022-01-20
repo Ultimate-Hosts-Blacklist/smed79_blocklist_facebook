@@ -1384,6 +1384,7 @@
         "siiites.com",
         "simple-url.com",
         "sinaapp.com",
+        "site.tb-hosting.com",
         "skygearapp.com",
         "smushcdn.com",
         "space-to-rent.com",
@@ -2183,7 +2184,6 @@
         "cust.disrec.thingdust.io",
         "cust.prod.thingdust.io",
         "cust.testing.thingdust.io",
-        "dedyn.io",
         "definima.io",
         "devices.resinstaging.io",
         "drud.io",
@@ -7057,6 +7057,7 @@
         "sld.pa"
     ],
     "page": [
+        "codeberg.page",
         "hlx.page",
         "hlx3.page",
         "magnet.page",
@@ -7139,6 +7140,7 @@
         "com.pl",
         "czeladz.pl",
         "czest.pl",
+        "dedyn.io",
         "dlugoleka.pl",
         "ecommerce-shop.pl",
         "edu.pl",
