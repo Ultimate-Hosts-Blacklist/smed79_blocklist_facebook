@@ -2184,6 +2184,7 @@
         "cust.disrec.thingdust.io",
         "cust.prod.thingdust.io",
         "cust.testing.thingdust.io",
+        "dedyn.io",
         "definima.io",
         "devices.resinstaging.io",
         "drud.io",
@@ -4688,7 +4689,6 @@
     "ky": [
         "com.ky",
         "edu.ky",
-        "gov.ky",
         "net.ky",
         "org.ky"
     ],
@@ -7140,7 +7140,6 @@
         "com.pl",
         "czeladz.pl",
         "czest.pl",
-        "dedyn.io",
         "dlugoleka.pl",
         "ecommerce-shop.pl",
         "edu.pl",
