@@ -1949,7 +1949,8 @@
         "edu.gy",
         "gov.gy",
         "net.gy",
-        "org.gy"
+        "org.gy",
+        "org.hk"
     ],
     "health": [
         "hra.health"
@@ -6274,7 +6275,6 @@
         "idrett.no",
         "inderoy.no",
         "inderøy.no",
-        "intl.tn",
         "iveland.no",
         "ivgu.no",
         "jan-mayen.no",
@@ -8039,6 +8039,7 @@
         "gov.tn",
         "ind.tn",
         "info.tn",
+        "intl.tn",
         "mincom.tn",
         "nat.tn",
         "net.tn",
