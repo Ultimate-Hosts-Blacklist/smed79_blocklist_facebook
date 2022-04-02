@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-external-hkg3-1.xx.fbcdn.net,AVAILABILITY,domains.list,2022-03-31 11:29:09.592196
-external-lhr6-1.xx.fbcdn.net,AVAILABILITY,domains.list,2022-03-31 11:29:10.313114
 external-lhr10-1.xx.fbcdn.net,AVAILABILITY,domains.list,2022-04-02 08:52:22.378274
 fdda274d380ki4frcgi-rumjfjai1460158783-sonar.xx.fbcdn.net,AVAILABILITY,domains.list,2022-04-02 08:52:23.646154
 f91858abe80k2geylvi-zhianuzp1521559729-sonar.xx.fbcdn.net,AVAILABILITY,domains.list,2022-04-02 08:52:24.960727
@@ -142,3 +140,5 @@ origincache-ash.t.fbcdn.net,AVAILABILITY,domains.list,2022-04-02 08:55:27.283075
 origincache-prn.t.fbcdn.net,AVAILABILITY,domains.list,2022-04-02 08:55:28.788864
 origincache-frc.t.fbcdn.net,AVAILABILITY,domains.list,2022-04-02 08:55:30.181064
 scontent.fiev1-1.fna.fbcdn.net,AVAILABILITY,domains.list,2022-04-02 08:55:31.923456
+external-hkg3-1.xx.fbcdn.net,AVAILABILITY,domains.list,2022-04-02 08:58:26.283235
+external-lhr6-1.xx.fbcdn.net,AVAILABILITY,domains.list,2022-04-02 08:58:26.909701
