@@ -8364,7 +8364,6 @@
         "cc.in.us",
         "cc.ks.us",
         "cc.ky.us",
-        "cc.la.us",
         "cc.ma.us",
         "cc.md.us",
         "cc.me.us",
@@ -8685,6 +8684,10 @@
         "mypets.ws",
         "net.ws",
         "org.ws"
+    ],
+    "xn--j6w193g": [
+        "cc.la.us",
+        "xn--uc0atv.xn--j6w193g"
     ],
     "xyz": [
         "blogsite.xyz",
