@@ -1,14 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-bb01.cdg1.tfbnw.net,AVAILABILITY,domains.list,2022-07-16 11:16:37.759505
-xx-fbcdn-shv-01-scl1.fbcdn.net,AVAILABILITY,domains.list,2022-07-16 11:16:38.109903
-z-1-video.fszb1-1.fna.fbcdn.net,AVAILABILITY,domains.list,2022-07-16 11:16:38.432852
-instagram.fada1-10.fna.fbcdn.net,AVAILABILITY,domains.list,2022-07-16 11:16:38.766749
-scontent.fada1-10.fna.fbcdn.net,AVAILABILITY,domains.list,2022-07-16 11:16:39.111315
-scontent.fmga1-1.fna.fbcdn.net,AVAILABILITY,domains.list,2022-07-16 11:16:39.428305
-scontent.fkwi10-1.fna.fbcdn.net,AVAILABILITY,domains.list,2022-07-16 11:16:39.753134
-lt.fb.com,AVAILABILITY,domains.list,2022-07-16 11:16:40.087289
-pdocs.fb.com,AVAILABILITY,domains.list,2022-07-16 11:16:40.437115
-pimg.fb.com,AVAILABILITY,domains.list,2022-07-16 11:16:40.809277
 scontent.fmex8-2.fna.fbcdn.net,AVAILABILITY,domains.list,2022-07-16 11:16:41.114165
 tdocs.fb.com,AVAILABILITY,domains.list,2022-07-16 11:16:41.451896
 sftp-ext.fb.com,AVAILABILITY,domains.list,2022-07-16 11:16:41.776921
@@ -142,3 +132,13 @@ xx-fbcdn-shv-01-hel2.fbcdn.net,AVAILABILITY,domains.list,2022-07-16 11:17:23.077
 xx-fbcdn-shv-01-hkg3.fbcdn.net,AVAILABILITY,domains.list,2022-07-16 11:17:23.387327
 static.fbcdn.com,AVAILABILITY,domains.list,2022-07-16 11:17:23.761782
 edge-sonar-mini-shv-01-bos3.fbcdn.net,AVAILABILITY,domains.list,2022-07-16 11:17:24.066494
+bb01.cdg1.tfbnw.net,AVAILABILITY,domains.list,2022-07-18 11:20:18.092102
+xx-fbcdn-shv-01-scl1.fbcdn.net,AVAILABILITY,domains.list,2022-07-18 11:20:18.440460
+z-1-video.fszb1-1.fna.fbcdn.net,AVAILABILITY,domains.list,2022-07-18 11:20:18.785423
+instagram.fada1-10.fna.fbcdn.net,AVAILABILITY,domains.list,2022-07-18 11:20:19.132803
+scontent.fada1-10.fna.fbcdn.net,AVAILABILITY,domains.list,2022-07-18 11:20:19.479211
+scontent.fmga1-1.fna.fbcdn.net,AVAILABILITY,domains.list,2022-07-18 11:20:19.805612
+scontent.fkwi10-1.fna.fbcdn.net,AVAILABILITY,domains.list,2022-07-18 11:20:20.163548
+lt.fb.com,AVAILABILITY,domains.list,2022-07-18 11:20:20.539191
+pdocs.fb.com,AVAILABILITY,domains.list,2022-07-18 11:20:20.915869
+pimg.fb.com,AVAILABILITY,domains.list,2022-07-18 11:20:21.311202
