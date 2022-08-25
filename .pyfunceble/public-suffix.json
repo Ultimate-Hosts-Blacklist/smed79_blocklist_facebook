@@ -5073,6 +5073,9 @@
         "wedeploy.me",
         "yombo.me"
     ],
+    "media": [
+        "framer.media"
+    ],
     "men": [
         "for.men",
         "repair.men"
@@ -7282,6 +7285,9 @@
         "ngo.ph",
         "org.ph"
     ],
+    "photos": [
+        "framer.photos"
+    ],
     "pictures": [
         "1337.pictures"
     ],
@@ -7520,7 +7526,6 @@
         "wskr.gov.pl",
         "wuoz.gov.pl",
         "wzmiuw.gov.pl",
-        "xn--12cfi8ixb8l.xn--o3cw4h",
         "zachpomor.pl",
         "zagan.pl",
         "zakopane.pl",
@@ -8700,9 +8705,15 @@
         "net.vu",
         "org.vu"
     ],
+    "website": [
+        "framer.website"
+    ],
     "wf": [
         "biz.wf",
         "sch.wf"
+    ],
+    "wiki": [
+        "framer.wiki"
     ],
     "win": [
         "that.win"
