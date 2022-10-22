@@ -5890,7 +5890,6 @@
         "cloudfunctions.net",
         "cloudjiffy.net",
         "cloudycluster.net",
-        "community-pro.net",
         "cryptonomic.net",
         "dattolocal.net",
         "ddns.net",
@@ -7045,6 +7044,7 @@
         "org.nr"
     ],
     "nu": [
+        "community-pro.net",
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
