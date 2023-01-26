@@ -1,7 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-irc-prn.tfbnw.net,AVAILABILITY,domains.list,2023-01-24 03:28:20.472407
-irc.hack.tfbnw.net,AVAILABILITY,domains.list,2023-01-24 03:28:21.099628
-irc.tfbnw.net,AVAILABILITY,domains.list,2023-01-24 03:28:21.608968
 edge-sonar-mini-shv-01-ort2.fbcdn.net,AVAILABILITY,domains.list,2023-01-25 03:38:05.721443
 edge-star-mini-shv-01-ort2.facebook.com,AVAILABILITY,domains.list,2023-01-25 03:38:06.608278
 edge-star-mini-shv-02-ort2.facebook.com,AVAILABILITY,domains.list,2023-01-25 03:38:06.984762
@@ -161,3 +158,6 @@ xx-fbcdn-shv-01-hkg3.fbcdn.net,AVAILABILITY,domains.list,2023-01-25 03:40:37.841
 static.fbcdn.com,AVAILABILITY,domains.list,2023-01-25 03:40:39.439244
 edge-sonar-mini-shv-01-bos3.fbcdn.net,AVAILABILITY,domains.list,2023-01-25 03:40:59.855805
 scontent.fybz2-2.fna.fbcdn.net,AVAILABILITY,domains.list,2023-01-25 03:41:10.359240
+irc-prn.tfbnw.net,AVAILABILITY,domains.list,2023-01-26 03:27:52.427551
+irc.hack.tfbnw.net,AVAILABILITY,domains.list,2023-01-26 03:27:52.786118
+irc.tfbnw.net,AVAILABILITY,domains.list,2023-01-26 03:27:53.128686
