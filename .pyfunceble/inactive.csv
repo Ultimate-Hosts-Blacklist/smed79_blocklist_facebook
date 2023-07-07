@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-m.facebook.com,AVAILABILITY,domains.list,2023-07-06 09:29:02.963975
 www.facebookmail.com,AVAILABILITY,domains.list,2023-07-06 09:43:33.758271
 xx-fbcdn-shv-01-kut2.fbcdn.net,AVAILABILITY,domains.list,2023-07-06 09:43:34.132570
 xx-fbcdn-shv-02-frt3.fbcdn.net,AVAILABILITY,domains.list,2023-07-06 09:43:34.496194
@@ -215,3 +214,4 @@ instagram-p3-shv-02-frt3.fbcdn.net,AVAILABILITY,domains.list,2023-07-06 09:45:12
 po103.psw01.lga3.tfbnw.net,AVAILABILITY,domains.list,2023-07-06 09:45:12.539661
 scontent-frt3-2.xx.fbcdn.net,AVAILABILITY,domains.list,2023-07-06 09:45:12.911960
 scontent.fiev11-1.fna.fbcdn.net,AVAILABILITY,domains.list,2023-07-06 09:45:13.286754
+m.facebook.com,AVAILABILITY,domains.list,2023-07-07 09:46:26.055897
