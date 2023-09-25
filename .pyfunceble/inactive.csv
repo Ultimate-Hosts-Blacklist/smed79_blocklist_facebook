@@ -1,15 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-profile-b-lga.xx.fbcdn.net,AVAILABILITY,domains.list,2023-09-23 08:55:36.465384
-profile-b-iad.xx.fbcdn.net,AVAILABILITY,domains.list,2023-09-23 08:55:36.736066
-profile-b-mia.xx.fbcdn.net,AVAILABILITY,domains.list,2023-09-23 08:55:37.053937
-profile-b-sjc.xx.fbcdn.net,AVAILABILITY,domains.list,2023-09-23 08:55:37.341406
-profile-b-ord.xx.fbcdn.net,AVAILABILITY,domains.list,2023-09-23 08:55:37.634331
-scontent-a-pao.xx.fbcdn.net,AVAILABILITY,domains.list,2023-09-23 08:55:37.917066
-scontent-b-pao.xx.fbcdn.net,AVAILABILITY,domains.list,2023-09-23 08:55:38.205127
-scontent-hkg3-2.xx.fbcdn.net,AVAILABILITY,domains.list,2023-09-23 08:55:38.481709
-scontent-lhr3-1.xx.fbcdn.net,AVAILABILITY,domains.list,2023-09-23 08:55:38.753798
-scontent-icn1-1.xx.fbcdn.net,AVAILABILITY,domains.list,2023-09-23 08:55:39.034654
-scontent-hkg3-1.xx.fbcdn.net,AVAILABILITY,domains.list,2023-09-23 08:55:39.325805
 scontent-sit4-1.xx.fbcdn.net,AVAILABILITY,domains.list,2023-09-24 08:58:00.998831
 scontent-sjc2-1.xx.fbcdn.net,AVAILABILITY,domains.list,2023-09-24 08:58:01.337185
 sphotos-a.xx.fbcdn.net,AVAILABILITY,domains.list,2023-09-24 08:58:01.681440
@@ -215,3 +204,14 @@ profile-a-ord.xx.fbcdn.net,AVAILABILITY,domains.list,2023-09-25 01:46:57.957930
 profile-b.xx.fbcdn.net,AVAILABILITY,domains.list,2023-09-25 01:46:58.235029
 profile-b-dfw.xx.fbcdn.net,AVAILABILITY,domains.list,2023-09-25 01:46:58.507712
 profile-a-sjc.xx.fbcdn.net,AVAILABILITY,domains.list,2023-09-25 01:46:58.783176
+profile-b-lga.xx.fbcdn.net,AVAILABILITY,domains.list,2023-09-25 01:57:47.076052
+profile-b-iad.xx.fbcdn.net,AVAILABILITY,domains.list,2023-09-25 01:57:47.342919
+profile-b-mia.xx.fbcdn.net,AVAILABILITY,domains.list,2023-09-25 01:57:47.619343
+profile-b-sjc.xx.fbcdn.net,AVAILABILITY,domains.list,2023-09-25 01:57:47.889295
+profile-b-ord.xx.fbcdn.net,AVAILABILITY,domains.list,2023-09-25 01:57:48.170313
+scontent-a-pao.xx.fbcdn.net,AVAILABILITY,domains.list,2023-09-25 01:57:48.440007
+scontent-b-pao.xx.fbcdn.net,AVAILABILITY,domains.list,2023-09-25 01:57:48.710219
+scontent-hkg3-2.xx.fbcdn.net,AVAILABILITY,domains.list,2023-09-25 01:57:48.988666
+scontent-lhr3-1.xx.fbcdn.net,AVAILABILITY,domains.list,2023-09-25 01:57:49.268266
+scontent-icn1-1.xx.fbcdn.net,AVAILABILITY,domains.list,2023-09-25 01:57:49.542151
+scontent-hkg3-1.xx.fbcdn.net,AVAILABILITY,domains.list,2023-09-25 01:57:49.810404
