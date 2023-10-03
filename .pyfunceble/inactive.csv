@@ -1,15 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-edge-atlas-shv-01-cdg2.facebook.com,AVAILABILITY,domains.list,2023-10-02 03:57:18.174392
-edge-mqtt-shv-01-cdg2.facebook.com,AVAILABILITY,domains.list,2023-10-02 03:57:18.449202
-edge-star-shv-01-cdg2.facebook.com,AVAILABILITY,domains.list,2023-10-02 03:57:18.715053
-edgeray-shv-01-cdg2.facebook.com,AVAILABILITY,domains.list,2023-10-02 03:57:18.982988
-instagram-p3-shv-01-cdg2.fbcdn.net,AVAILABILITY,domains.list,2023-10-02 03:57:19.266950
-scontent-cdg2-1.xx.fbcdn.net,AVAILABILITY,domains.list,2023-10-02 03:57:19.545556
-xx-fbcdn-shv-01-cdg2.fbcdn.net,AVAILABILITY,domains.list,2023-10-02 03:57:19.814491
-instagram-p3-shv-01-frt3.fbcdn.net,AVAILABILITY,domains.list,2023-10-02 03:57:20.089916
-scontent-frt3-1.xx.fbcdn.net,AVAILABILITY,domains.list,2023-10-02 03:57:20.361597
-scontent-frx5-1.xx.fbcdn.net,AVAILABILITY,domains.list,2023-10-02 03:57:20.626222
-xx-fbcdn-shv-01-frt3.fbcdn.net,AVAILABILITY,domains.list,2023-10-02 03:57:20.894909
 edge-sonar-mini-shv-01-ort2.fbcdn.net,AVAILABILITY,domains.list,2023-10-02 03:57:21.171902
 edge-star-mini-shv-01-ort2.facebook.com,AVAILABILITY,domains.list,2023-10-02 03:57:21.444674
 edge-star-mini-shv-02-ort2.facebook.com,AVAILABILITY,domains.list,2023-10-02 03:57:21.716266
@@ -215,3 +204,14 @@ www.fb.com,AVAILABILITY,domains.list,2023-10-02 03:58:32.227538
 www.fb.me,AVAILABILITY,domains.list,2023-10-02 03:58:33.044648
 www.fbcdn.net,AVAILABILITY,domains.list,2023-10-02 03:58:33.751998
 www.m.me,AVAILABILITY,domains.list,2023-10-02 03:58:34.509271
+edge-atlas-shv-01-cdg2.facebook.com,AVAILABILITY,domains.list,2023-10-03 08:45:59.119381
+edge-mqtt-shv-01-cdg2.facebook.com,AVAILABILITY,domains.list,2023-10-03 08:45:59.433270
+edge-star-shv-01-cdg2.facebook.com,AVAILABILITY,domains.list,2023-10-03 08:45:59.741872
+edgeray-shv-01-cdg2.facebook.com,AVAILABILITY,domains.list,2023-10-03 08:46:00.047699
+instagram-p3-shv-01-cdg2.fbcdn.net,AVAILABILITY,domains.list,2023-10-03 08:46:00.356710
+scontent-cdg2-1.xx.fbcdn.net,AVAILABILITY,domains.list,2023-10-03 08:46:00.674683
+xx-fbcdn-shv-01-cdg2.fbcdn.net,AVAILABILITY,domains.list,2023-10-03 08:46:00.989592
+instagram-p3-shv-01-frt3.fbcdn.net,AVAILABILITY,domains.list,2023-10-03 08:46:01.296369
+scontent-frt3-1.xx.fbcdn.net,AVAILABILITY,domains.list,2023-10-03 08:46:01.619390
+scontent-frx5-1.xx.fbcdn.net,AVAILABILITY,domains.list,2023-10-03 08:46:01.928995
+xx-fbcdn-shv-01-frt3.fbcdn.net,AVAILABILITY,domains.list,2023-10-03 08:46:02.255312
