@@ -297,7 +297,6 @@ edge-stun.facebook.com
 edge-video-shv-01-arn2.fbcdn.net
 edge-video-shv-01-cgk1.fbcdn.net
 edge-video-shv-01-dfw5.fbcdn.net
-edge-video-shv-01-hkt1.fbcdn.net
 edge-video-shv-01-lhr8.fbcdn.net
 edge-video-shv-01-yyz1.fbcdn.net
 edge-video-shv-02-sin6.fbcdn.net
@@ -372,7 +371,6 @@ fi-fi.fb.me
 fi-fi.id-id.fb.me
 fi-fi.messenger.com
 fma.fb.me
-fna.fbcdn.net
 fna-fbcdn-shv-01-fmaa1.fbcdn.net
 fna-fbcdn-shv-02-fdet1.fbcdn.net
 fna-fbcdn-video-shv-01-ffjr1.fbcdn.net
@@ -480,7 +478,6 @@ instagram-p3-shv-02-lax3.fbcdn.net
 instagram-p3-shv-02-sin6.fbcdn.net
 instagram-p15-shv-01-iad3.fbcdn.net
 instagram-p42-shv-01-cgk1.fbcdn.net
-instagram-p42-shv-01-hkt1.fbcdn.net
 instagram-p42-shv-01-iad3.fbcdn.net
 instagram-p42-shv-01-lga3.fbcdn.net
 instagramstatic-a.akamaihd.net
@@ -892,7 +889,6 @@ webdav.facebook.com
 webex.messenger.com
 wethinkdigital.fb.com
 whatsapp.messenger.com
-whatsapp-cdn-shv-01-hkt1.fbcdn.net
 whatsapp-cdn-shv-01-maa2.fbcdn.net
 whatsapp-cdn-shv-01-xsp1.fbcdn.net
 whatsapp-cdn-shv-02-xsp1.fbcdn.net
@@ -1070,7 +1066,6 @@ xx-fbcdn-shv-01-dfw5.fbcdn.net
 xx-fbcdn-shv-01-eze1.fbcdn.net
 xx-fbcdn-shv-01-gru1.fbcdn.net
 xx-fbcdn-shv-01-gru2.fbcdn.net
-xx-fbcdn-shv-01-hkt1.fbcdn.net
 xx-fbcdn-shv-01-iad3.fbcdn.net
 xx-fbcdn-shv-01-lax3.fbcdn.net
 xx-fbcdn-shv-01-lga3.fbcdn.net
@@ -1133,24 +1128,5 @@ z-p3-video-vie1-1.xx.fbcdn.net
 z-p4-cdn.fbsbx.com
 z-p4-graph.facebook.com
 z-upload.facebook.com
-www.faacebook.com
-www.facbook.com
-www.facebook.be
-www.facebook.co
-www.facebook.co.nz
-www.facebook.co.za
-www.facebook.com.au
-www.facebook.com.br
-www.facebook.com.tw
-www.facebook.de
-www.facebook.dk
-www.facebook.es
-www.facebook.hu
-www.facebook.it
-www.facebook.lv
-www.facebook.nl
-www.facebook.pl
-www.facebook.se
-www.facebookcom.com
-www.facebooks.com
-www.fbcdn.net
+m.facebook.com
+www.facebookmail.com
