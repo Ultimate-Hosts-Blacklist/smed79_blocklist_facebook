@@ -1,16 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-reviews.facebook.net,AVAILABILITY,domains.list,2024-01-18 03:18:01.200376
-scontent.fmba1-1.fna.fbcdn.net,AVAILABILITY,domains.list,2024-01-18 03:18:02.288542
-scontent.fphl2-2.fna.fbcdn.net,AVAILABILITY,domains.list,2024-01-18 03:18:02.998247
-a.ns.t.facebook.net,AVAILABILITY,domains.list,2024-01-18 03:18:03.937403
-b.ns.t.facebook.net,AVAILABILITY,domains.list,2024-01-18 03:18:05.051343
-xx-fbcdn-shv-01-hel2.fbcdn.net,AVAILABILITY,domains.list,2024-01-18 03:18:05.879571
-xx-fbcdn-shv-01-hkg3.fbcdn.net,AVAILABILITY,domains.list,2024-01-18 03:18:06.993588
-static.fbcdn.com,AVAILABILITY,domains.list,2024-01-18 03:18:07.908927
-edge-sonar-mini-shv-01-bos3.fbcdn.net,AVAILABILITY,domains.list,2024-01-18 03:18:08.681694
-scontent.fybz2-2.fna.fbcdn.net,AVAILABILITY,domains.list,2024-01-18 03:18:09.659106
-irc-prn.tfbnw.net,AVAILABILITY,domains.list,2024-01-18 03:18:10.578824
-irc.hack.tfbnw.net,AVAILABILITY,domains.list,2024-01-18 03:18:12.250633
 edge-video-shv-01-hkt1.fbcdn.net,AVAILABILITY,domains.list,2024-01-19 08:57:54.187074
 fna.fbcdn.net,AVAILABILITY,domains.list,2024-01-19 08:57:55.103112
 instagram-p42-shv-01-hkt1.fbcdn.net,AVAILABILITY,domains.list,2024-01-19 08:57:55.762481
@@ -216,3 +204,15 @@ scontent.fiev8-1.fna.fbcdn.net,AVAILABILITY,domains.list,2024-01-19 09:02:22.794
 m.messenger.com,AVAILABILITY,domains.list,2024-01-19 09:02:24.263214
 rdns.facebook.net,AVAILABILITY,domains.list,2024-01-19 09:02:25.791604
 scontent.fkul4-1.fna.fbcdn.net,AVAILABILITY,domains.list,2024-01-19 09:02:27.056623
+reviews.facebook.net,AVAILABILITY,domains.list,2024-01-19 09:12:33.136086
+scontent.fmba1-1.fna.fbcdn.net,AVAILABILITY,domains.list,2024-01-19 09:12:34.250194
+scontent.fphl2-2.fna.fbcdn.net,AVAILABILITY,domains.list,2024-01-19 09:12:34.971783
+a.ns.t.facebook.net,AVAILABILITY,domains.list,2024-01-19 09:12:35.984878
+b.ns.t.facebook.net,AVAILABILITY,domains.list,2024-01-19 09:12:37.155978
+xx-fbcdn-shv-01-hel2.fbcdn.net,AVAILABILITY,domains.list,2024-01-19 09:12:38.082798
+xx-fbcdn-shv-01-hkg3.fbcdn.net,AVAILABILITY,domains.list,2024-01-19 09:12:38.710502
+static.fbcdn.com,AVAILABILITY,domains.list,2024-01-19 09:12:39.362276
+edge-sonar-mini-shv-01-bos3.fbcdn.net,AVAILABILITY,domains.list,2024-01-19 09:12:40.444594
+scontent.fybz2-2.fna.fbcdn.net,AVAILABILITY,domains.list,2024-01-19 09:12:41.800412
+irc-prn.tfbnw.net,AVAILABILITY,domains.list,2024-01-19 09:12:42.496266
+irc.hack.tfbnw.net,AVAILABILITY,domains.list,2024-01-19 09:12:43.480142
