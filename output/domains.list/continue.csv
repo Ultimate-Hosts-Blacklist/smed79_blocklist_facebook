@@ -38,3 +38,6 @@ idna_subject,checker_type,destination,source,tested_at,session_id
 a.m.me,AVAILABILITY,domains.list,domains.list,2024-05-05 11:33:46.543012,f480c88aabe15197e489c748
 a.ns.facebook.com,AVAILABILITY,domains.list,domains.list,2024-05-05 11:34:09.082356,f480c88aabe15197e489c748
 a17-112-144-50.fb.me,AVAILABILITY,domains.list,domains.list,2024-05-05 11:36:53.018120,f480c88aabe15197e489c748
+a17-112-152-32.fb.me,AVAILABILITY,domains.list,domains.list,2024-05-05 11:46:05.931941,f480c88aabe15197e489c748
+a5.fb.me,AVAILABILITY,domains.list,domains.list,2024-05-05 11:50:50.889402,f480c88aabe15197e489c748
+about.facebook.com,AVAILABILITY,domains.list,domains.list,2024-05-05 11:55:35.305995,f480c88aabe15197e489c748
