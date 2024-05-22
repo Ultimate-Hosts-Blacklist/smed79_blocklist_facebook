@@ -1,8 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-fsoutpost.fb.com,AVAILABILITY,domains.list,2024-05-21 05:42:56.714240
-interncache-ash.fbcdn.net,AVAILABILITY,domains.list,2024-05-21 06:01:14.329015
-interncache-cln.fbcdn.net,AVAILABILITY,domains.list,2024-05-21 06:01:14.777366
-interncache-nao.fbcdn.net,AVAILABILITY,domains.list,2024-05-21 06:01:15.240300
 a.ns.t.tfbnw.net,AVAILABILITY,domains.list,2024-05-21 11:17:02.431287
 b.ns.t.tfbnw.net,AVAILABILITY,domains.list,2024-05-21 11:17:02.958692
 falabella.facebook.com,AVAILABILITY,domains.list,2024-05-21 11:17:03.414903
@@ -214,3 +210,6 @@ irc-prn.tfbnw.net,AVAILABILITY,domains.list,2024-05-21 11:18:47.766738
 irc.hack.tfbnw.net,AVAILABILITY,domains.list,2024-05-21 11:18:48.321592
 po104.psw04.yyz1.tfbnw.net,AVAILABILITY,domains.list,2024-05-21 11:18:48.900476
 fbstatic-a.akamaihd.net,AVAILABILITY,domains.list,2024-05-22 11:02:45.461740
+fsoutpost.fb.com,AVAILABILITY,domains.list,2024-05-22 11:24:44.089924
+interncache-cln.fbcdn.net,AVAILABILITY,domains.list,2024-05-22 11:24:44.933380
+interncache-nao.fbcdn.net,AVAILABILITY,domains.list,2024-05-22 11:24:45.414133
