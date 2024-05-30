@@ -1,9 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-fbstatic-a.akamaihd.net,AVAILABILITY,domains.list,2024-05-28 06:43:18.272794
-interncache-cln.fbcdn.net,AVAILABILITY,domains.list,2024-05-28 06:45:22.308738
-interncache-vll.fbcdn.net,AVAILABILITY,domains.list,2024-05-28 06:45:23.010650
-instagramstatic-a.akamaihd.net,AVAILABILITY,domains.list,2024-05-28 08:58:48.475647
-interncache-ash.fbcdn.net,AVAILABILITY,domains.list,2024-05-28 08:59:10.321687
 interncache-odn.fbcdn.net,AVAILABILITY,domains.list,2024-05-29 03:52:42.852094
 a.ns.t.tfbnw.net,AVAILABILITY,domains.list,2024-05-29 03:52:43.313153
 b.ns.t.tfbnw.net,AVAILABILITY,domains.list,2024-05-29 03:52:43.796374
@@ -217,3 +212,5 @@ irc.hack.tfbnw.net,AVAILABILITY,domains.list,2024-05-29 03:54:18.159753
 po104.psw04.yyz1.tfbnw.net,AVAILABILITY,domains.list,2024-05-29 03:54:18.795182
 fsoutpost.fb.com,AVAILABILITY,domains.list,2024-05-30 03:37:34.734344
 interncache-lla.fbcdn.net,AVAILABILITY,domains.list,2024-05-30 03:39:33.302907
+fbstatic-a.akamaihd.net,AVAILABILITY,domains.list,2024-05-30 03:53:35.908950
+interncache-vll.fbcdn.net,AVAILABILITY,domains.list,2024-05-30 03:53:36.681899
