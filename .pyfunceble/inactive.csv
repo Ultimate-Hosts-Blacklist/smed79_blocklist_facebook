@@ -1,7 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-instagramstatic-a.akamaihd.net,AVAILABILITY,domains.list,2024-05-30 11:33:25.785263
-interncache-cln.fbcdn.net,AVAILABILITY,domains.list,2024-05-30 11:33:47.949291
-interncache-nao.fbcdn.net,AVAILABILITY,domains.list,2024-05-30 11:33:48.617228
 a.ns.t.tfbnw.net,AVAILABILITY,domains.list,2024-05-31 11:31:46.703967
 b.ns.t.tfbnw.net,AVAILABILITY,domains.list,2024-05-31 11:31:47.266838
 falabella.facebook.com,AVAILABILITY,domains.list,2024-05-31 11:31:47.715255
@@ -213,3 +210,6 @@ irc-prn.tfbnw.net,AVAILABILITY,domains.list,2024-05-31 11:33:37.268389
 irc.hack.tfbnw.net,AVAILABILITY,domains.list,2024-05-31 11:33:37.802071
 po104.psw04.yyz1.tfbnw.net,AVAILABILITY,domains.list,2024-05-31 11:33:38.305394
 interncache-ash.fbcdn.net,AVAILABILITY,domains.list,2024-06-01 08:40:24.776911
+instagramstatic-a.akamaihd.net,AVAILABILITY,domains.list,2024-06-01 08:57:36.917757
+interncache-cln.fbcdn.net,AVAILABILITY,domains.list,2024-06-01 08:57:37.332616
+interncache-nao.fbcdn.net,AVAILABILITY,domains.list,2024-06-01 08:57:37.867021
