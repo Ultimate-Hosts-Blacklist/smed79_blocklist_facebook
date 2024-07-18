@@ -1,7 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-instagramstatic-a.akamaihd.net,AVAILABILITY,domains.list,2024-07-17 04:57:02.749624
-interncache-ash.fbcdn.net,AVAILABILITY,domains.list,2024-07-17 04:57:23.787607
-interncache-nao.fbcdn.net,AVAILABILITY,domains.list,2024-07-17 04:57:24.254812
 interncache-vll.fbcdn.net,AVAILABILITY,domains.list,2024-07-18 02:33:43.058087
 external-cdt1-1.xx.fbcdn.net,AVAILABILITY,domains.list,2024-07-18 02:46:20.756774
 instagram-p3-shv-01-cdt1.fbcdn.net,AVAILABILITY,domains.list,2024-07-18 02:46:21.021538
@@ -215,3 +212,4 @@ xx-fbcdn-shv-01-hkt1.fbcdn.net,AVAILABILITY,domains.list,2024-07-18 02:47:23.897
 irc.tfbnw.net,AVAILABILITY,domains.list,2024-07-18 02:47:24.262933
 interncache-cln.fbcdn.net,AVAILABILITY,domains.list,2024-07-18 10:52:59.053569
 interncache-lla.fbcdn.net,AVAILABILITY,domains.list,2024-07-18 10:52:59.354530
+interncache-ash.fbcdn.net,AVAILABILITY,domains.list,2024-07-18 11:07:45.642845
