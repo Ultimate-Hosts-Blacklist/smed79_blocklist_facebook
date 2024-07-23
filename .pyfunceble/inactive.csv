@@ -1,7 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-fbstatic-a.akamaihd.net,AVAILABILITY,domains.list,2024-07-22 04:50:32.380576
-fsoutpost.fb.com,AVAILABILITY,domains.list,2024-07-22 04:50:50.359254
-interncache-lla.fbcdn.net,AVAILABILITY,domains.list,2024-07-22 05:09:19.680972
 interncache-ash.fbcdn.net,AVAILABILITY,domains.list,2024-07-22 07:08:56.314106
 interncache-cln.fbcdn.net,AVAILABILITY,domains.list,2024-07-22 07:08:56.652771
 interncache-odn.fbcdn.net,AVAILABILITY,domains.list,2024-07-22 07:08:57.356301
@@ -216,3 +213,4 @@ instagram-p42-shv-01-hkt1.fbcdn.net,AVAILABILITY,domains.list,2024-07-22 07:25:3
 whatsapp-cdn-shv-01-hkt1.fbcdn.net,AVAILABILITY,domains.list,2024-07-22 07:25:31.056571
 xx-fbcdn-shv-01-hkt1.fbcdn.net,AVAILABILITY,domains.list,2024-07-22 07:25:31.330571
 irc.tfbnw.net,AVAILABILITY,domains.list,2024-07-22 07:25:31.754132
+interncache-lla.fbcdn.net,AVAILABILITY,domains.list,2024-07-23 06:25:33.566519
