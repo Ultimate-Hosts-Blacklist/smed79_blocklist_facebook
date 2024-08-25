@@ -1,14 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-instagramstatic-a.akamaihd.net,AVAILABILITY,domains.list,2024-08-23 05:58:34.304366
-interncache-vll.fbcdn.net,AVAILABILITY,domains.list,2024-08-23 05:58:56.157508
-interncache-odn.fbcdn.net,AVAILABILITY,domains.list,2024-08-23 06:11:50.200091
-interncache-lla.fbcdn.net,AVAILABILITY,domains.list,2024-08-23 07:34:49.762612
-interncache-cln.fbcdn.net,AVAILABILITY,domains.list,2024-08-24 03:46:05.460825
-interncache-nao.fbcdn.net,AVAILABILITY,domains.list,2024-08-24 04:00:12.126211
-ae0.bb01.atl1.tfbnw.net,AVAILABILITY,domains.list,2024-08-24 04:00:12.640851
-external-cdt1-1.xx.fbcdn.net,AVAILABILITY,domains.list,2024-08-24 04:00:12.923937
-instagram-p3-shv-01-cdt1.fbcdn.net,AVAILABILITY,domains.list,2024-08-24 04:00:13.300880
-instagram-p42-shv-01-cdt1.fbcdn.net,AVAILABILITY,domains.list,2024-08-24 04:00:13.663822
 scontent-cdt1-1.xx.fbcdn.net,AVAILABILITY,domains.list,2024-08-24 04:00:13.954556
 external-frt3-2.xx.fbcdn.net,AVAILABILITY,domains.list,2024-08-24 04:00:14.267087
 instagram-p3-shv-01-kut2.fbcdn.net,AVAILABILITY,domains.list,2024-08-24 04:00:14.619598
@@ -218,3 +208,9 @@ xx-fbcdn-shv-01-hkt1.fbcdn.net,AVAILABILITY,domains.list,2024-08-24 04:01:22.834
 irc.tfbnw.net,AVAILABILITY,domains.list,2024-08-24 04:01:23.354441
 fsoutpost.fb.com,AVAILABILITY,domains.list,2024-08-25 04:08:02.872227
 interncache-ash.fbcdn.net,AVAILABILITY,domains.list,2024-08-25 04:12:14.364492
+interncache-odn.fbcdn.net,AVAILABILITY,domains.list,2024-08-25 04:37:30.243493
+interncache-nao.fbcdn.net,AVAILABILITY,domains.list,2024-08-25 04:37:30.879238
+ae0.bb01.atl1.tfbnw.net,AVAILABILITY,domains.list,2024-08-25 04:37:31.509060
+external-cdt1-1.xx.fbcdn.net,AVAILABILITY,domains.list,2024-08-25 04:37:31.917465
+instagram-p3-shv-01-cdt1.fbcdn.net,AVAILABILITY,domains.list,2024-08-25 04:37:32.424797
+instagram-p42-shv-01-cdt1.fbcdn.net,AVAILABILITY,domains.list,2024-08-25 04:37:32.857629
