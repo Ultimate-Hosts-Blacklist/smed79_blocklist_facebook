@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-po213.psw02.fra5.tfbnw.net,AVAILABILITY,domains.list,2024-09-06 09:56:09.816350
 instagramstatic-a.akamaihd.net,AVAILABILITY,domains.list,2024-09-07 09:44:54.608193
 interncache-ash.fbcdn.net,AVAILABILITY,domains.list,2024-09-07 09:45:16.127787
 interncache-nao.fbcdn.net,AVAILABILITY,domains.list,2024-09-07 09:58:11.832767
@@ -217,3 +216,4 @@ irc.tfbnw.net,AVAILABILITY,domains.list,2024-09-07 09:59:28.414060
 interncache-cln.fbcdn.net,AVAILABILITY,domains.list,2024-09-08 03:20:41.587534
 interncache-lla.fbcdn.net,AVAILABILITY,domains.list,2024-09-08 03:20:41.980461
 interncache-odn.fbcdn.net,AVAILABILITY,domains.list,2024-09-08 03:20:42.443984
+po213.psw02.fra5.tfbnw.net,AVAILABILITY,domains.list,2024-09-08 03:36:16.671894
