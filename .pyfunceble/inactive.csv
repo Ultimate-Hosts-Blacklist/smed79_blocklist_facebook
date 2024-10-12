@@ -1,15 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-m.facebook.com,AVAILABILITY,domains.list,2024-10-10 07:17:17.662874+00:00
-www.faacebook.com,AVAILABILITY,domains.list,2024-10-10 07:17:18.803464+00:00
-www.facbook.com,AVAILABILITY,domains.list,2024-10-10 07:17:19.965658+00:00
-www.facebook.be,AVAILABILITY,domains.list,2024-10-10 07:17:21.100896+00:00
-www.facebook.co,AVAILABILITY,domains.list,2024-10-10 07:17:22.224138+00:00
-www.facebook.co.nz,AVAILABILITY,domains.list,2024-10-10 07:17:23.519811+00:00
-www.facebook.co.za,AVAILABILITY,domains.list,2024-10-10 07:17:24.843094+00:00
-www.facebook.com.au,AVAILABILITY,domains.list,2024-10-10 07:17:26.110556+00:00
-www.facebook.com.br,AVAILABILITY,domains.list,2024-10-10 07:17:27.237056+00:00
-www.facebook.com.tw,AVAILABILITY,domains.list,2024-10-10 07:17:28.495763+00:00
-www.facebook.de,AVAILABILITY,domains.list,2024-10-10 07:17:29.620233+00:00
 www.facebook.dk,AVAILABILITY,domains.list,2024-10-10 07:17:30.895983+00:00
 www.facebook.es,AVAILABILITY,domains.list,2024-10-10 07:17:31.954948+00:00
 www.facebook.hu,AVAILABILITY,domains.list,2024-10-10 07:17:33.378066+00:00
@@ -235,3 +224,14 @@ whatsapp-cdn-shv-01-hkt1.fbcdn.net,AVAILABILITY,domains.list,2024-10-10 07:19:03
 xx-fbcdn-shv-01-hkt1.fbcdn.net,AVAILABILITY,domains.list,2024-10-10 07:19:04.192856+00:00
 irc.tfbnw.net,AVAILABILITY,domains.list,2024-10-10 07:19:04.489332+00:00
 po213.psw02.fra5.tfbnw.net,AVAILABILITY,domains.list,2024-10-10 07:19:04.833408+00:00
+m.facebook.com,AVAILABILITY,domains.list,2024-10-12 03:07:15.341105+00:00
+www.faacebook.com,AVAILABILITY,domains.list,2024-10-12 03:07:16.413335+00:00
+www.facbook.com,AVAILABILITY,domains.list,2024-10-12 03:07:17.515030+00:00
+www.facebook.be,AVAILABILITY,domains.list,2024-10-12 03:07:18.571763+00:00
+www.facebook.co,AVAILABILITY,domains.list,2024-10-12 03:07:19.726951+00:00
+www.facebook.co.nz,AVAILABILITY,domains.list,2024-10-12 03:07:21.168540+00:00
+www.facebook.co.za,AVAILABILITY,domains.list,2024-10-12 03:07:23.006033+00:00
+www.facebook.com.au,AVAILABILITY,domains.list,2024-10-12 03:07:24.318925+00:00
+www.facebook.com.br,AVAILABILITY,domains.list,2024-10-12 03:07:25.558970+00:00
+www.facebook.com.tw,AVAILABILITY,domains.list,2024-10-12 03:07:27.160644+00:00
+www.facebook.de,AVAILABILITY,domains.list,2024-10-12 03:07:28.581572+00:00
