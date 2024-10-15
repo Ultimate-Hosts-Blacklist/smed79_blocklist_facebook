@@ -1,20 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-m.facebook.com,AVAILABILITY,domains.list,2024-10-13 05:20:53.854706+00:00
-www.faacebook.com,AVAILABILITY,domains.list,2024-10-13 05:20:54.796199+00:00
-www.facbook.com,AVAILABILITY,domains.list,2024-10-13 05:20:55.691208+00:00
-www.facebook.be,AVAILABILITY,domains.list,2024-10-13 05:20:56.967664+00:00
-www.facebook.co,AVAILABILITY,domains.list,2024-10-13 05:20:57.863849+00:00
-www.facebook.co.nz,AVAILABILITY,domains.list,2024-10-13 05:20:58.998924+00:00
-www.facebook.co.za,AVAILABILITY,domains.list,2024-10-13 05:21:00.367820+00:00
-www.facebook.com.au,AVAILABILITY,domains.list,2024-10-13 05:21:01.570640+00:00
-www.facebook.com.br,AVAILABILITY,domains.list,2024-10-13 05:21:03.036825+00:00
-www.facebook.com.tw,AVAILABILITY,domains.list,2024-10-13 05:21:03.791610+00:00
-www.facebook.de,AVAILABILITY,domains.list,2024-10-13 05:21:05.389712+00:00
-www.facebook.dk,AVAILABILITY,domains.list,2024-10-13 05:21:06.627205+00:00
-www.facebook.es,AVAILABILITY,domains.list,2024-10-13 05:21:07.845402+00:00
-www.facebook.hu,AVAILABILITY,domains.list,2024-10-13 05:21:09.068583+00:00
-www.facebook.it,AVAILABILITY,domains.list,2024-10-13 05:21:11.910726+00:00
-www.facebook.lv,AVAILABILITY,domains.list,2024-10-13 05:21:12.977639+00:00
 www.facebook.nl,AVAILABILITY,domains.list,2024-10-13 05:21:13.928670+00:00
 www.facebook.pl,AVAILABILITY,domains.list,2024-10-13 05:21:14.714668+00:00
 www.facebook.se,AVAILABILITY,domains.list,2024-10-13 05:21:15.901648+00:00
@@ -235,3 +219,10 @@ whatsapp-cdn-shv-01-hkt1.fbcdn.net,AVAILABILITY,domains.list,2024-10-13 05:22:45
 xx-fbcdn-shv-01-hkt1.fbcdn.net,AVAILABILITY,domains.list,2024-10-13 05:22:46.503358+00:00
 irc.tfbnw.net,AVAILABILITY,domains.list,2024-10-13 05:22:46.825605+00:00
 po213.psw02.fra5.tfbnw.net,AVAILABILITY,domains.list,2024-10-13 05:22:47.290998+00:00
+m.facebook.com,AVAILABILITY,domains.list,2024-10-15 05:12:39.362949+00:00
+www.faacebook.com,AVAILABILITY,domains.list,2024-10-15 05:12:46.046163+00:00
+www.facbook.com,AVAILABILITY,domains.list,2024-10-15 05:12:47.215023+00:00
+www.facebook.be,AVAILABILITY,domains.list,2024-10-15 05:12:48.804638+00:00
+www.facebook.co,AVAILABILITY,domains.list,2024-10-15 05:12:49.991848+00:00
+www.facebook.co.nz,AVAILABILITY,domains.list,2024-10-15 05:12:51.837210+00:00
+www.facebook.it,AVAILABILITY,domains.list,2024-10-15 05:16:14.648558+00:00
