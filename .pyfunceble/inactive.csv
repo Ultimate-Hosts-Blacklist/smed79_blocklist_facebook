@@ -1,13 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-www.facebook.co.za,AVAILABILITY,domains.list,2024-10-16 04:26:18.538789+00:00
-www.facebook.com.au,AVAILABILITY,domains.list,2024-10-16 04:26:20.485056+00:00
-www.facebook.com.br,AVAILABILITY,domains.list,2024-10-16 04:26:22.018889+00:00
-www.facebook.com.tw,AVAILABILITY,domains.list,2024-10-16 04:26:23.803602+00:00
-www.facebook.de,AVAILABILITY,domains.list,2024-10-16 04:26:25.227136+00:00
-www.facebook.dk,AVAILABILITY,domains.list,2024-10-16 04:26:26.616541+00:00
-www.facebook.es,AVAILABILITY,domains.list,2024-10-16 04:26:27.872333+00:00
-www.facebook.hu,AVAILABILITY,domains.list,2024-10-16 04:26:29.582408+00:00
-www.facebook.lv,AVAILABILITY,domains.list,2024-10-16 04:26:31.108274+00:00
 m.facebook.com,AVAILABILITY,domains.list,2024-10-16 09:42:50.592729+00:00
 www.faacebook.com,AVAILABILITY,domains.list,2024-10-16 09:42:51.187194+00:00
 www.facbook.com,AVAILABILITY,domains.list,2024-10-16 09:42:51.753439+00:00
@@ -235,3 +226,12 @@ whatsapp-cdn-shv-01-hkt1.fbcdn.net,AVAILABILITY,domains.list,2024-10-16 09:44:13
 xx-fbcdn-shv-01-hkt1.fbcdn.net,AVAILABILITY,domains.list,2024-10-16 09:44:13.635299+00:00
 irc.tfbnw.net,AVAILABILITY,domains.list,2024-10-16 09:44:14.046135+00:00
 po213.psw02.fra5.tfbnw.net,AVAILABILITY,domains.list,2024-10-16 09:44:14.419035+00:00
+www.facebook.co.za,AVAILABILITY,domains.list,2024-10-17 09:02:59.555058+00:00
+www.facebook.com.au,AVAILABILITY,domains.list,2024-10-17 09:03:00.242783+00:00
+www.facebook.com.br,AVAILABILITY,domains.list,2024-10-17 09:03:01.754681+00:00
+www.facebook.com.tw,AVAILABILITY,domains.list,2024-10-17 09:03:03.518764+00:00
+www.facebook.de,AVAILABILITY,domains.list,2024-10-17 09:03:04.072144+00:00
+www.facebook.dk,AVAILABILITY,domains.list,2024-10-17 09:03:05.054328+00:00
+www.facebook.es,AVAILABILITY,domains.list,2024-10-17 09:03:05.671817+00:00
+www.facebook.hu,AVAILABILITY,domains.list,2024-10-17 09:03:06.300139+00:00
+www.facebook.lv,AVAILABILITY,domains.list,2024-10-17 09:03:07.083157+00:00
