@@ -980,7 +980,6 @@
         "magentosite.cloud",
         "matlab.cloud",
         "nl-ams-1.baremetal.scw.cloud",
-        "nodes.k8s.fr-par.scw.cloud",
         "nodes.k8s.nl-ams.scw.cloud",
         "nodes.k8s.pl-waw.scw.cloud",
         "observablehq.cloud",
@@ -1249,7 +1248,6 @@
         "blogdns.com",
         "blogspot.com",
         "blogsyte.com",
-        "bloxcms.com",
         "boutir.com",
         "bplaced.com",
         "br.com",
@@ -6188,6 +6186,7 @@
         "map.fastly.net",
         "map.fastlylb.net",
         "meinforum.net",
+        "memset.net",
         "moonscale.net",
         "myamaze.net",
         "mydatto.net",
@@ -7288,6 +7287,7 @@
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
+        "nodes.k8s.fr-par.scw.cloud",
         "shacknet.nu"
     ],
     "nz": [
@@ -8275,7 +8275,6 @@
     ],
     "store": [
         "barsy.store",
-        "memset.net",
         "sellfy.store",
         "shopware.store",
         "storebase.store"
