@@ -847,6 +847,7 @@
         "of.by"
     ],
     "bz": [
+        "co.bz",
         "com.bz",
         "edu.bz",
         "gov.bz",
@@ -2329,6 +2330,7 @@
         "my-wan.de",
         "myhome-server.de",
         "myspreadshop.de",
+        "pages-research.it.hs-heilbronn.de",
         "pages.it.hs-heilbronn.de",
         "schulplattform.de",
         "schulserver.de",
@@ -7690,6 +7692,7 @@
         "legnica.pl",
         "lezajsk.pl",
         "limanowa.pl",
+        "lodz.pl",
         "lomza.pl",
         "lowicz.pl",
         "lubartow.pl",
@@ -7735,11 +7738,13 @@
         "ostrowwlkp.pl",
         "oum.gov.pl",
         "pa.gov.pl",
+        "pabianice.pl",
         "pc.pl",
         "pila.pl",
         "pinb.gov.pl",
         "pisz.pl",
         "piw.gov.pl",
+        "plock.pl",
         "po.gov.pl",
         "podhale.pl",
         "podlasie.pl",
@@ -7773,7 +7778,9 @@
         "sex.pl",
         "shop.pl",
         "shoparena.pl",
+        "sieradz.pl",
         "simplesite.pl",
+        "skierniewice.pl",
         "sklep.pl",
         "sko.gov.pl",
         "skoczow.pl",
@@ -7846,6 +7853,7 @@
         "zagan.pl",
         "zakopane.pl",
         "zarow.pl",
+        "zgierz.pl",
         "zgora.pl",
         "zgorzelec.pl",
         "zp.gov.pl",
@@ -9108,9 +9116,6 @@
     ],
     "wiki": [
         "framer.wiki"
-    ],
-    "work": [
-        "corpnet.work"
     ],
     "ws": [
         "advisor.ws",
