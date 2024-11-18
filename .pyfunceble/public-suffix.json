@@ -525,7 +525,6 @@
         "myftp.biz",
         "no-ip.biz",
         "orx.biz",
-        "pub.sa",
         "selfip.biz",
         "webhop.biz"
     ],
@@ -2333,7 +2332,6 @@
         "myspreadshop.de",
         "pages-research.it.hs-heilbronn.de",
         "pages.it.hs-heilbronn.de",
-        "pub.sa",
         "schulplattform.de",
         "schulserver.de",
         "spdns.de",
@@ -4211,6 +4209,7 @@
         "kanan.osaka.jp",
         "kanazawa.ishikawa.jp",
         "kanegasaki.iwate.jp",
+        "kaneyama.fukushima.jp",
         "kaneyama.yamagata.jp",
         "kani.gifu.jp",
         "kanie.aichi.jp",
@@ -6027,8 +6026,7 @@
         "mil.my",
         "name.my",
         "net.my",
-        "org.my",
-        "pub.sa"
+        "org.my"
     ],
     "mz": [
         "ac.mz",
@@ -7303,7 +7301,6 @@
     ],
     "nu": [
         "enterprisecloud.nu",
-        "kaneyama.fukushima.jp",
         "merseine.nu",
         "mine.nu",
         "shacknet.nu"
