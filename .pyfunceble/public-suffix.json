@@ -1114,7 +1114,6 @@
         "lpages.co",
         "mil.co",
         "mypi.co",
-        "n4t.co",
         "net.co",
         "nom.co",
         "org.co",
@@ -1128,7 +1127,6 @@
     ],
     "com": [
         "001.test.code-builder-stg.platform.salesforce.com",
-        "001www.com",
         "0emm.com",
         "180r.com",
         "1kapp.com",
@@ -5913,7 +5911,6 @@
         "com.ms",
         "edu.ms",
         "gov.ms",
-        "lab.ms",
         "minisite.ms",
         "net.ms",
         "org.ms"
@@ -6412,7 +6409,6 @@
         "deatnu.no",
         "dep.no",
         "dielddanuorri.no",
-        "divtasvuodna.no",
         "divttasvuotna.no",
         "donna.no",
         "dovre.no",
@@ -8397,7 +8393,6 @@
         "myaddr.tools"
     ],
     "top": [
-        "now-dns.top",
         "ntdll.top",
         "wadl.top"
     ],
@@ -9087,6 +9082,7 @@
     "zw": [
         "ac.zw",
         "co.zw",
+        "divtasvuodna.no",
         "gov.zw",
         "mil.zw",
         "org.zw"
