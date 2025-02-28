@@ -2901,7 +2901,8 @@
         "or.id",
         "ponpes.id",
         "sch.id",
-        "web.id"
+        "web.id",
+        "zone.id"
     ],
     "ie": [
         "gov.ie",
