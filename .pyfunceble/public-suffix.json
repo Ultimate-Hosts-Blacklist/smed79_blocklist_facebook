@@ -8162,6 +8162,7 @@
         "byen.site",
         "cloudera.site",
         "convex.site",
+        "cpanel.site",
         "cyon.site",
         "fastvps.site",
         "heyflow.site",
@@ -8303,7 +8304,8 @@
         "vologda.su"
     ],
     "support": [
-        "barsy.support"
+        "barsy.support",
+        "from.tv"
     ],
     "sv": [
         "com.sv",
@@ -8466,7 +8468,6 @@
     "tv": [
         "better-than.tv",
         "dyndns.tv",
-        "from.tv",
         "on-the-web.tv",
         "sakura.tv",
         "worse-than.tv"
