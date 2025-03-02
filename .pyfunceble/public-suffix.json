@@ -1248,7 +1248,6 @@
         "br.com",
         "builder.code.com",
         "builtwithdark.com",
-        "ca-central-1.airflow.amazonaws.com",
         "ca-central-1.elasticbeanstalk.com",
         "ca-west-1.airflow.amazonaws.com",
         "cafjs.com",
@@ -2354,6 +2353,7 @@
         "barsy.dev",
         "bones.replit.dev",
         "botdash.dev",
+        "ca-central-1.airflow.amazonaws.com",
         "canary.replit.dev",
         "d.crm.dev",
         "deno-staging.dev",
@@ -8304,8 +8304,7 @@
         "vologda.su"
     ],
     "support": [
-        "barsy.support",
-        "from.tv"
+        "barsy.support"
     ],
     "sv": [
         "com.sv",
@@ -8468,6 +8467,7 @@
     "tv": [
         "better-than.tv",
         "dyndns.tv",
+        "from.tv",
         "on-the-web.tv",
         "sakura.tv",
         "worse-than.tv"
