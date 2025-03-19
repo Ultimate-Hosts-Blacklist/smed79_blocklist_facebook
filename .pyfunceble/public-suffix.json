@@ -5829,9 +5829,6 @@
         "org.ma",
         "press.ma"
     ],
-    "management": [
-        "router.management"
-    ],
     "mc": [
         "asso.mc",
         "tm.mc"
@@ -6821,6 +6818,7 @@
         "osoyro.no",
         "osteroy.no",
         "osterøy.no",
+        "ostre-toten.no",
         "osøyro.no",
         "overhalla.no",
         "ovre-eiker.no",
@@ -7717,7 +7715,6 @@
         "opole.pl",
         "org.pl",
         "oschr.gov.pl",
-        "ostre-toten.no",
         "ostroda.pl",
         "ostroleka.pl",
         "ostrowiec.pl",
