@@ -1002,6 +1002,7 @@
         "s3-website.pl-waw.scw.cloud",
         "s3.fr-par.scw.cloud",
         "s3.nl-ams.scw.cloud",
+        "s3.pl-waw.scw.cloud",
         "scalebook.scw.cloud",
         "servebolt.cloud",
         "smartlabeling.scw.cloud",
@@ -2908,7 +2909,6 @@
         "net.id",
         "or.id",
         "ponpes.id",
-        "s3.pl-waw.scw.cloud",
         "sch.id",
         "web.id",
         "zone.id"
