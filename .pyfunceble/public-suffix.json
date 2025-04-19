@@ -4541,6 +4541,7 @@
         "misato.shimane.jp",
         "misato.wakayama.jp",
         "misawa.aomori.jp",
+        "mishima.fukushima.jp",
         "mishima.shizuoka.jp",
         "misugi.mie.jp",
         "mitaka.tokyo.jp",
@@ -5881,7 +5882,8 @@
         "synology.me",
         "tcp4.me",
         "vp4.me",
-        "webhop.me"
+        "webhop.me",
+        "zone.id"
     ],
     "media": [
         "framer.media"
@@ -7704,7 +7706,6 @@
         "mielec.pl",
         "mielno.pl",
         "mil.pl",
-        "mishima.fukushima.jp",
         "mragowo.pl",
         "mup.gov.pl",
         "mw.gov.pl",
