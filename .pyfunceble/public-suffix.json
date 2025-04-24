@@ -6162,6 +6162,7 @@
         "ggff.net",
         "global.prod.fastly.net",
         "global.ssl.fastly.net",
+        "gov.ye",
         "grafana-dev.net",
         "ham-radio-op.net",
         "heteml.net",
@@ -8596,7 +8597,6 @@
         "rovno.ua",
         "rv.ua",
         "sb.ua",
-        "sebastopol.ua",
         "sevastopol.ua",
         "sm.ua",
         "sumy.ua",
@@ -9101,7 +9101,8 @@
         "gov.ye",
         "mil.ye",
         "net.ye",
-        "org.ye"
+        "org.ye",
+        "sebastopol.ua"
     ],
     "yt": [
         "org.yt"
