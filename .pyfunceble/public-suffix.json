@@ -1295,6 +1295,7 @@
         "dev-builder.code.com",
         "dev-myqnapcloud.com",
         "dev.adobeaemcloud.com",
+        "dev.project-study.com",
         "devinapps.com",
         "digitaloceanspaces.com",
         "discordsays.com",
@@ -2394,6 +2395,7 @@
         "lclstage.dev",
         "localplayer.dev",
         "loginline.dev",
+        "lp.dev",
         "mediatech.dev",
         "modx.dev",
         "myaddr.dev",
@@ -5097,6 +5099,7 @@
         "showa.gunma.jp",
         "showa.yamanashi.jp",
         "shunan.yamaguchi.jp",
+        "skierva.no",
         "skr.jp",
         "sobetsu.hokkaido.jp",
         "sodegaura.chiba.jp",
@@ -5691,6 +5694,7 @@
         "kg.kr",
         "me.kr",
         "mil.kr",
+        "mmv.kr",
         "ms.kr",
         "ne.kr",
         "or.kr",
@@ -5698,7 +5702,8 @@
         "re.kr",
         "sc.kr",
         "seoul.kr",
-        "ulsan.kr"
+        "ulsan.kr",
+        "vki.kr"
     ],
     "krd": [
         "co.krd",
@@ -6162,7 +6167,6 @@
         "ggff.net",
         "global.prod.fastly.net",
         "global.ssl.fastly.net",
-        "gov.ye",
         "grafana-dev.net",
         "ham-radio-op.net",
         "heteml.net",
@@ -8206,6 +8210,7 @@
         "omniwe.site",
         "opensocial.site",
         "platformsh.site",
+        "preview.site",
         "square.site",
         "srht.site",
         "tst.site",
@@ -8597,6 +8602,7 @@
         "rovno.ua",
         "rv.ua",
         "sb.ua",
+        "sebastopol.ua",
         "sevastopol.ua",
         "sm.ua",
         "sumy.ua",
@@ -9101,8 +9107,7 @@
         "gov.ye",
         "mil.ye",
         "net.ye",
-        "org.ye",
-        "sebastopol.ua"
+        "org.ye"
     ],
     "yt": [
         "org.yt"
