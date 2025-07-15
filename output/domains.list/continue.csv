@@ -1,0 +1,15 @@
+idna_subject,checker_type,destination,source,tested_at,session_id
+0-edge-chat-latest.messenger.com,AVAILABILITY,domains.list,domains.list,2025-07-15 10:45:40.142981+00:00,a1e1a83de118ef61b832b902
+0-edge-chat.facebook.com,AVAILABILITY,domains.list,domains.list,2025-07-15 10:46:50.329562+00:00,a1e1a83de118ef61b832b902
+0-edge-chat.messenger.com,AVAILABILITY,domains.list,domains.list,2025-07-15 10:48:00.559543+00:00,a1e1a83de118ef61b832b902
+0.facebook.com,AVAILABILITY,domains.list,domains.list,2025-07-15 10:49:10.784214+00:00,a1e1a83de118ef61b832b902
+0.messenger.com,AVAILABILITY,domains.list,domains.list,2025-07-15 10:50:21.275954+00:00,a1e1a83de118ef61b832b902
+0n.fb.me,AVAILABILITY,domains.list,domains.list,2025-07-15 10:51:31.613148+00:00,a1e1a83de118ef61b832b902
+1-edege-chat.messenger.com,AVAILABILITY,domains.list,domains.list,2025-07-15 10:52:41.804469+00:00,a1e1a83de118ef61b832b902
+1-edge-chat.facebook.com,AVAILABILITY,domains.list,domains.list,2025-07-15 10:53:52.038967+00:00,a1e1a83de118ef61b832b902
+1-edge-chat.messenger.com,AVAILABILITY,domains.list,domains.list,2025-07-15 10:55:02.648893+00:00,a1e1a83de118ef61b832b902
+1-ml-in.facebook.com.tw,AVAILABILITY,domains.list,domains.list,2025-07-15 10:56:12.981480+00:00,a1e1a83de118ef61b832b902
+1.m.me,AVAILABILITY,domains.list,domains.list,2025-07-15 10:57:23.314066+00:00,a1e1a83de118ef61b832b902
+1907113739430074.fb.me,AVAILABILITY,domains.list,domains.list,2025-07-15 10:58:03.645386+00:00,a1e1a83de118ef61b832b902
+2-edge-chat-latest.messenger.com,AVAILABILITY,domains.list,domains.list,2025-07-15 10:59:13.929856+00:00,a1e1a83de118ef61b832b902
+2-edge-chat.facebook.com,AVAILABILITY,domains.list,domains.list,2025-07-15 11:00:24.154232+00:00,a1e1a83de118ef61b832b902
