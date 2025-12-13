@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-www.facebook.co.nz,AVAILABILITY,domains.list,2025-12-11 12:11:47.970345+00:00
-www.facebook.it,AVAILABILITY,domains.list,2025-12-11 12:12:08.732762+00:00
 www.fbcdn.net,AVAILABILITY,domains.list,2025-12-12 10:22:18.198385+00:00
 xx-fbcdn-shv-01-del1.fbcdn.net,AVAILABILITY,domains.list,2025-12-12 10:22:18.504154+00:00
 xx-fbcdn-shv-01-hkt1.fbcdn.net,AVAILABILITY,domains.list,2025-12-12 10:22:18.790541+00:00
@@ -251,3 +249,5 @@ edge-video-shv-01-hkt1.fbcdn.net,AVAILABILITY,domains.list,2025-12-12 10:26:40.5
 fna.fbcdn.net,AVAILABILITY,domains.list,2025-12-12 10:26:40.880380+00:00
 instagram-p42-shv-01-hkt1.fbcdn.net,AVAILABILITY,domains.list,2025-12-12 10:26:41.219161+00:00
 whatsapp-cdn-shv-01-hkt1.fbcdn.net,AVAILABILITY,domains.list,2025-12-12 10:26:41.517961+00:00
+www.facebook.co.nz,AVAILABILITY,domains.list,2025-12-13 05:09:06.586520+00:00
+www.facebook.it,AVAILABILITY,domains.list,2025-12-13 05:09:07.867105+00:00
