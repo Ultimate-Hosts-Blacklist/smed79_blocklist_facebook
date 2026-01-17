@@ -1,17 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-b.ns.t.facebook.net,AVAILABILITY,domains.list,2026-01-15 03:46:31.050342+00:00
-xx-fbcdn-shv-01-hel2.fbcdn.net,AVAILABILITY,domains.list,2026-01-15 03:46:31.406924+00:00
-xx-fbcdn-shv-01-hkg3.fbcdn.net,AVAILABILITY,domains.list,2026-01-15 03:46:31.656121+00:00
-static.fbcdn.com,AVAILABILITY,domains.list,2026-01-15 03:46:32.081668+00:00
-edge-sonar-mini-shv-01-bos3.fbcdn.net,AVAILABILITY,domains.list,2026-01-15 03:46:32.615160+00:00
-scontent.fybz2-2.fna.fbcdn.net,AVAILABILITY,domains.list,2026-01-15 03:46:33.286134+00:00
-irc-prn.tfbnw.net,AVAILABILITY,domains.list,2026-01-15 03:46:33.620926+00:00
-irc.hack.tfbnw.net,AVAILABILITY,domains.list,2026-01-15 03:46:34.372434+00:00
-po104.psw04.yyz1.tfbnw.net,AVAILABILITY,domains.list,2026-01-15 03:46:35.102264+00:00
-a.ns.t.tfbnw.net,AVAILABILITY,domains.list,2026-01-15 03:46:35.753821+00:00
-b.ns.t.tfbnw.net,AVAILABILITY,domains.list,2026-01-15 03:46:36.085919+00:00
-falabella.facebook.com,AVAILABILITY,domains.list,2026-01-15 03:46:36.482615+00:00
-gforce.facebook.com,AVAILABILITY,domains.list,2026-01-15 03:46:36.829757+00:00
 www.facebook.be,AVAILABILITY,domains.list,2026-01-16 03:50:24.886739+00:00
 www.facebook.se,AVAILABILITY,domains.list,2026-01-16 03:50:25.952439+00:00
 www.facebook.com.au,AVAILABILITY,domains.list,2026-01-16 03:50:27.090488+00:00
@@ -253,3 +240,16 @@ scontent.fmba1-1.fna.fbcdn.net,AVAILABILITY,domains.list,2026-01-16 03:54:27.887
 scontent.fphl2-2.fna.fbcdn.net,AVAILABILITY,domains.list,2026-01-16 03:54:28.319303+00:00
 a.ns.t.facebook.net,AVAILABILITY,domains.list,2026-01-16 03:54:28.613820+00:00
 whatsapp-cdn-shv-01-maa2.fbcdn.net,AVAILABILITY,domains.list,2026-01-16 03:54:28.933063+00:00
+b.ns.t.facebook.net,AVAILABILITY,domains.list,2026-01-17 03:41:40.334991+00:00
+xx-fbcdn-shv-01-hel2.fbcdn.net,AVAILABILITY,domains.list,2026-01-17 03:41:40.965936+00:00
+xx-fbcdn-shv-01-hkg3.fbcdn.net,AVAILABILITY,domains.list,2026-01-17 03:41:41.237565+00:00
+static.fbcdn.com,AVAILABILITY,domains.list,2026-01-17 03:41:41.649361+00:00
+edge-sonar-mini-shv-01-bos3.fbcdn.net,AVAILABILITY,domains.list,2026-01-17 03:41:42.068242+00:00
+scontent.fybz2-2.fna.fbcdn.net,AVAILABILITY,domains.list,2026-01-17 03:41:42.337291+00:00
+irc-prn.tfbnw.net,AVAILABILITY,domains.list,2026-01-17 03:41:42.659134+00:00
+irc.hack.tfbnw.net,AVAILABILITY,domains.list,2026-01-17 03:41:43.030392+00:00
+po104.psw04.yyz1.tfbnw.net,AVAILABILITY,domains.list,2026-01-17 03:41:43.290694+00:00
+a.ns.t.tfbnw.net,AVAILABILITY,domains.list,2026-01-17 03:41:43.526441+00:00
+b.ns.t.tfbnw.net,AVAILABILITY,domains.list,2026-01-17 03:41:43.985305+00:00
+falabella.facebook.com,AVAILABILITY,domains.list,2026-01-17 03:41:44.345212+00:00
+gforce.facebook.com,AVAILABILITY,domains.list,2026-01-17 03:41:44.645360+00:00
