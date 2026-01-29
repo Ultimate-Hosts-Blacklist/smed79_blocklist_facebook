@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-www.facebook.it,AVAILABILITY,domains.list,2026-01-27 10:11:02.638799+00:00
-www.fbcdn.net,AVAILABILITY,domains.list,2026-01-27 10:11:09.365472+00:00
 www.facebook.nl,AVAILABILITY,domains.list,2026-01-28 04:49:32.985454+00:00
 www.facbook.com,AVAILABILITY,domains.list,2026-01-28 04:49:33.472678+00:00
 www.facebook.dk,AVAILABILITY,domains.list,2026-01-28 04:49:34.652701+00:00
@@ -254,3 +252,5 @@ a.ns.t.tfbnw.net,AVAILABILITY,domains.list,2026-01-28 04:53:58.951049+00:00
 b.ns.t.tfbnw.net,AVAILABILITY,domains.list,2026-01-28 04:53:59.328772+00:00
 falabella.facebook.com,AVAILABILITY,domains.list,2026-01-28 04:53:59.709896+00:00
 gforce.facebook.com,AVAILABILITY,domains.list,2026-01-28 04:53:59.923427+00:00
+www.facebook.it,AVAILABILITY,domains.list,2026-01-29 04:25:13.131636+00:00
+www.fbcdn.net,AVAILABILITY,domains.list,2026-01-29 04:25:14.371054+00:00
