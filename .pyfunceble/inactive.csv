@@ -1,14 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-www.facebook.com.tw,AVAILABILITY,domains.list,2026-02-08 05:36:07.971237+00:00
-www.facebookcom.com,AVAILABILITY,domains.list,2026-02-08 05:36:09.404218+00:00
-interncache-nao.fbcdn.net,AVAILABILITY,domains.list,2026-02-08 05:36:09.955609+00:00
-ae0.bb01.atl1.tfbnw.net,AVAILABILITY,domains.list,2026-02-08 05:36:10.837026+00:00
-external-cdt1-1.xx.fbcdn.net,AVAILABILITY,domains.list,2026-02-08 05:36:11.523908+00:00
-instagram-p3-shv-01-cdt1.fbcdn.net,AVAILABILITY,domains.list,2026-02-08 05:36:11.935608+00:00
-instagram-p42-shv-01-cdt1.fbcdn.net,AVAILABILITY,domains.list,2026-02-08 05:36:12.304247+00:00
-scontent-cdt1-1.xx.fbcdn.net,AVAILABILITY,domains.list,2026-02-08 05:36:13.159605+00:00
-external-frt3-2.xx.fbcdn.net,AVAILABILITY,domains.list,2026-02-08 05:36:13.861868+00:00
-instagram-p3-shv-01-kut2.fbcdn.net,AVAILABILITY,domains.list,2026-02-08 05:36:14.419994+00:00
 www.facebook.es,AVAILABILITY,domains.list,2026-02-09 12:07:33.329096+00:00
 instagram-p3-shv-02-frt3.fbcdn.net,AVAILABILITY,domains.list,2026-02-09 12:07:43.512856+00:00
 po103.psw01.lga3.tfbnw.net,AVAILABILITY,domains.list,2026-02-09 12:07:46.787837+00:00
@@ -254,3 +244,13 @@ edge-sonar-mini-shv-01-xsp1.fbcdn.net,AVAILABILITY,domains.list,2026-02-09 12:11
 instagram-p3-shv-01-xsp1.fbcdn.net,AVAILABILITY,domains.list,2026-02-09 12:11:35.404672+00:00
 whatsapp-cdn-shv-01-xsp1.fbcdn.net,AVAILABILITY,domains.list,2026-02-09 12:11:35.558218+00:00
 xx-fbcdn-shv-01-xsp1.fbcdn.net,AVAILABILITY,domains.list,2026-02-09 12:11:55.758793+00:00
+www.facebook.com.tw,AVAILABILITY,domains.list,2026-02-09 12:14:31.632373+00:00
+www.facebookcom.com,AVAILABILITY,domains.list,2026-02-09 12:14:32.197761+00:00
+interncache-nao.fbcdn.net,AVAILABILITY,domains.list,2026-02-09 12:14:32.469857+00:00
+ae0.bb01.atl1.tfbnw.net,AVAILABILITY,domains.list,2026-02-09 12:14:32.915314+00:00
+external-cdt1-1.xx.fbcdn.net,AVAILABILITY,domains.list,2026-02-09 12:14:33.131393+00:00
+instagram-p3-shv-01-cdt1.fbcdn.net,AVAILABILITY,domains.list,2026-02-09 12:14:33.339462+00:00
+instagram-p42-shv-01-cdt1.fbcdn.net,AVAILABILITY,domains.list,2026-02-09 12:14:33.638049+00:00
+scontent-cdt1-1.xx.fbcdn.net,AVAILABILITY,domains.list,2026-02-09 12:14:33.952631+00:00
+external-frt3-2.xx.fbcdn.net,AVAILABILITY,domains.list,2026-02-09 12:14:34.290555+00:00
+instagram-p3-shv-01-kut2.fbcdn.net,AVAILABILITY,domains.list,2026-02-09 12:14:34.703130+00:00
