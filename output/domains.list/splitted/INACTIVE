@@ -6,3 +6,5 @@ Subject                                                                         
 edge-atlas-shv-01-gru1.facebook.com                                                                  INACTIVE    STDLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY  <19
 edge-mqtt-shv-01-gru1.facebook.com                                                                   INACTIVE    STDLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY  <19
 edgeray-shv-01-gru1.facebook.com                                                                     INACTIVE    STDLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY  <19
+www.facebook.com.tw                                                                                  INACTIVE    SPECIAL    Unknown           Unknown                        302        AVAILABILITY  <19
+xx-fbcdn-shv-01-gru1.fbcdn.net                                                                       INACTIVE    STDLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY  <19
