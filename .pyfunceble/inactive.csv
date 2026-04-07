@@ -253,3 +253,6 @@ www.facebook.pl,AVAILABILITY,domains.list,2026-04-06 11:23:27.408480+00:00
 www.facebookcom.com,AVAILABILITY,domains.list,2026-04-06 11:23:28.011110+00:00
 www.facebook.co,AVAILABILITY,domains.list,2026-04-06 11:23:28.808144+00:00
 www.facebook.it,AVAILABILITY,domains.list,2026-04-06 11:23:29.926835+00:00
+edge-atlas-shv-01-gru1.facebook.com,AVAILABILITY,domains.list,2026-04-07 07:58:04.104563+00:00
+edge-mqtt-shv-01-gru1.facebook.com,AVAILABILITY,domains.list,2026-04-07 07:58:29.060313+00:00
+edgeray-shv-01-gru1.facebook.com,AVAILABILITY,domains.list,2026-04-07 08:02:02.098996+00:00
