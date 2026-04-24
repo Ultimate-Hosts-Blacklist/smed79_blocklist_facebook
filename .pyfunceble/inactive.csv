@@ -1,8 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-www.facebook.co,AVAILABILITY,domains.list,2026-04-22 05:52:55.442052+00:00
-www.facebook.com.tw,AVAILABILITY,domains.list,2026-04-22 05:52:58.017889+00:00
-www.facebook.pl,AVAILABILITY,domains.list,2026-04-22 05:53:20.039269+00:00
-www.facebookcom.com,AVAILABILITY,domains.list,2026-04-22 05:53:21.112425+00:00
 ae10.bb01.atl1.tfbnw.net,AVAILABILITY,domains.list,2026-04-23 06:00:20.527308+00:00
 instagram-p3-shv-02-frt3.fbcdn.net,AVAILABILITY,domains.list,2026-04-23 06:00:20.884405+00:00
 po103.psw01.lga3.tfbnw.net,AVAILABILITY,domains.list,2026-04-23 06:00:21.609698+00:00
@@ -255,3 +251,7 @@ external-frt3-2.xx.fbcdn.net,AVAILABILITY,domains.list,2026-04-23 06:04:21.04624
 instagram-p3-shv-01-kut2.fbcdn.net,AVAILABILITY,domains.list,2026-04-23 06:04:21.319484+00:00
 www.facebook.es,AVAILABILITY,domains.list,2026-04-23 06:04:23.110269+00:00
 www.facebook.it,AVAILABILITY,domains.list,2026-04-24 05:55:15.005899+00:00
+www.facebook.co,AVAILABILITY,domains.list,2026-04-24 05:59:26.250991+00:00
+www.facebook.com.tw,AVAILABILITY,domains.list,2026-04-24 05:59:26.919772+00:00
+www.facebook.pl,AVAILABILITY,domains.list,2026-04-24 05:59:29.257424+00:00
+www.facebookcom.com,AVAILABILITY,domains.list,2026-04-24 05:59:29.861317+00:00
