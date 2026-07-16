@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-www.facebook.dk,AVAILABILITY,domains.list,2026-07-15 06:58:14.839865+00:00
 www.facebookcom.com,AVAILABILITY,domains.list,2026-07-15 07:03:21.403590+00:00
 edge-video-shv-01-lhr8.fbcdn.net,AVAILABILITY,domains.list,2026-07-15 07:03:21.606513+00:00
 psw02.vie1.tfbnw.net,AVAILABILITY,domains.list,2026-07-15 07:03:21.826094+00:00
@@ -258,3 +257,4 @@ www.facebook.se,AVAILABILITY,domains.list,2026-07-15 07:14:58.386092+00:00
 www.facebook.es,AVAILABILITY,domains.list,2026-07-15 07:14:59.414178+00:00
 www.facebook.it,AVAILABILITY,domains.list,2026-07-15 07:15:00.852908+00:00
 www.facebook.pl,AVAILABILITY,domains.list,2026-07-15 07:15:02.252138+00:00
+www.facebook.dk,AVAILABILITY,domains.list,2026-07-16 07:06:08.686824+00:00
