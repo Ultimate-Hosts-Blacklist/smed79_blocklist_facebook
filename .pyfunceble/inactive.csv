@@ -1,9 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-m.facebook.com,AVAILABILITY,domains.list,2026-08-20 04:00:17.732610+00:00
-www.facebook.com.tw,AVAILABILITY,domains.list,2026-08-20 04:15:53.375743+00:00
-www.facebook.dk,AVAILABILITY,domains.list,2026-08-20 04:19:52.084573+00:00
-www.facebook.es,AVAILABILITY,domains.list,2026-08-20 04:19:52.909977+00:00
-www.facebook.se,AVAILABILITY,domains.list,2026-08-20 04:19:54.158051+00:00
 www.facebook.co,AVAILABILITY,domains.list,2026-08-21 03:23:54.294257+00:00
 www.facbook.com,AVAILABILITY,domains.list,2026-08-21 03:23:54.987614+00:00
 www.facebook.be,AVAILABILITY,domains.list,2026-08-21 03:23:56.447137+00:00
@@ -258,3 +253,8 @@ www.facebook.com.au,AVAILABILITY,domains.list,2026-08-21 03:25:33.413246+00:00
 www.facebook.pl,AVAILABILITY,domains.list,2026-08-21 03:25:34.536680+00:00
 www.facebook.it,AVAILABILITY,domains.list,2026-08-21 03:25:35.441112+00:00
 www.facebook.de,AVAILABILITY,domains.list,2026-08-21 03:25:36.729988+00:00
+m.facebook.com,AVAILABILITY,domains.list,2026-08-22 03:16:20.291513+00:00
+www.facebook.com.tw,AVAILABILITY,domains.list,2026-08-22 03:16:21.594189+00:00
+www.facebook.dk,AVAILABILITY,domains.list,2026-08-22 03:16:23.051486+00:00
+www.facebook.es,AVAILABILITY,domains.list,2026-08-22 03:16:23.855373+00:00
+www.facebook.se,AVAILABILITY,domains.list,2026-08-22 03:16:25.078131+00:00
