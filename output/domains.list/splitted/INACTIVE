@@ -4,3 +4,6 @@
 Subject                                                                                              Status      Source     Expiration Date   Registrar                      HTTP Code  Checker       Tested At          
 ---------------------------------------------------------------------------------------------------- ----------- ---------- ----------------- ------------------------------ ---------- ------------- -------------------
 m.facebook.com                                                                                       INACTIVE    SPECIAL    Unknown           Unknown                        301        AVAILABILITY  <19
+www.facebook.com.au                                                                                  INACTIVE    SPECIAL    Unknown           Unknown                        302        AVAILABILITY  <19
+www.facebook.it                                                                                      INACTIVE    SPECIAL    Unknown           Unknown                        301        AVAILABILITY  <19
+www.facebook.pl                                                                                      INACTIVE    SPECIAL    Unknown           Unknown                        301        AVAILABILITY  <19
