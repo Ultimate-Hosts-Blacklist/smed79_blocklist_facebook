@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-m.facebook.com,AVAILABILITY,domains.list,2026-09-17 08:26:28.509977+00:00
 www.facbook.com,AVAILABILITY,domains.list,2026-09-18 08:11:20.931286+00:00
 www.facebookcom.com,AVAILABILITY,domains.list,2026-09-18 08:11:21.443995+00:00
 edge-video-shv-01-lhr8.fbcdn.net,AVAILABILITY,domains.list,2026-09-18 08:11:21.632270+00:00
@@ -258,3 +257,4 @@ www.facebook.it,AVAILABILITY,domains.list,2026-09-18 08:23:08.484434+00:00
 www.facebook.pl,AVAILABILITY,domains.list,2026-09-18 08:23:09.548297+00:00
 www.facebook.co,AVAILABILITY,domains.list,2026-09-18 08:23:10.604397+00:00
 www.facebook.com.br,AVAILABILITY,domains.list,2026-09-18 08:23:11.855764+00:00
+m.facebook.com,AVAILABILITY,domains.list,2026-09-19 08:04:15.810863+00:00
