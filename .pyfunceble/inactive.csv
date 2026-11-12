@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-www.facebook.nl,AVAILABILITY,domains.list,2026-11-10 17:36:18.710721+00:00
 m.facebook.com,AVAILABILITY,domains.list,2026-11-11 16:15:53.311295+00:00
 www.facebookcom.com,AVAILABILITY,domains.list,2026-11-11 16:15:54.042812+00:00
 xx-fbcdn-shv-01-sea1.fbcdn.net,AVAILABILITY,domains.list,2026-11-11 16:15:54.386448+00:00
@@ -266,3 +265,4 @@ www.facebook.pl,AVAILABILITY,domains.list,2026-11-11 16:17:48.587795+00:00
 www.facebook.co,AVAILABILITY,domains.list,2026-11-11 16:17:49.668457+00:00
 www.facebook.com.br,AVAILABILITY,domains.list,2026-11-11 16:17:51.010800+00:00
 scontent-sea1-1.xx.fbcdn.net,AVAILABILITY,domains.list,2026-11-11 16:17:51.419685+00:00
+www.facebook.nl,AVAILABILITY,domains.list,2026-11-12 08:27:24.830857+00:00
