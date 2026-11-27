@@ -1,8 +1,8 @@
 {
-    "currently_under_test": true,
+    "currently_under_test": false,
     "days_until_next_test": 1,
-    "end_datetime": "2026-11-26T20:56:18.831508",
-    "end_epoch": 1795726578.831508,
+    "end_datetime": "2026-11-27T20:39:27.781101",
+    "end_epoch": 1795811967.781101,
     "issue_link": "https://github.com/smed79/blacklist/issues/new",
     "link": "https://raw.githubusercontent.com/smed79/blacklist/master/extra/facebook.txt",
     "name": "smed79_blocklist_facebook",
